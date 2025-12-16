@@ -1,0 +1,8965 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.421636,
+          6.351753
+        ]
+      },
+      "properties": {
+        "stop_id": "4678",
+        "name": "55 CAFE",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "0cq7z"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.242606,
+          6.445392
+        ]
+      },
+      "properties": {
+        "stop_id": "4441",
+        "name": "ALOR LANCANG/TMN SAUJANA IDAMAN",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "bkNyT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.393072,
+          6.141628
+        ]
+      },
+      "properties": {
+        "stop_id": "3686",
+        "name": "ALOR MALAI",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "CmVDv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.221895,
+          6.496828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4470",
+        "name": "ALOR SENA",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "txcAB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.28003,
+          6.4481479
+        ]
+      },
+      "properties": {
+        "stop_id": "6396",
+        "name": "ANJUNG SISWA",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "Ll5Vs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.369364,
+          6.154344
+        ]
+      },
+      "properties": {
+        "stop_id": "4769",
+        "name": "APARTMENT KCS",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "om21o"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.420447,
+          6.338814
+        ]
+      },
+      "properties": {
+        "stop_id": "4677",
+        "name": "ASON",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "9Ucl4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.242303,
+          6.242389
+        ]
+      },
+      "properties": {
+        "stop_id": "4598",
+        "name": "AYER ITAM",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "AXiCF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.368294,
+          6.131429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "BAKAR BATA",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "Xg9om"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.229688,
+          6.515284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4381",
+        "name": "BALAI BARU",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "f9IUI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.141078,
+          6.393868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4535",
+        "name": "BALAI POLIS KUALA PERLIS cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "TvKf6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.303056,
+          6.437258
+        ]
+      },
+      "properties": {
+        "stop_id": "4452",
+        "name": "BALAI POLIS PAUH CP",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "LfCKf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.191227,
+          6.344424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4573",
+        "name": "BALAI POLIS SIMPANG EMPAT",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "xpYiL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.295252,
+          6.481146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "6402",
+        "route_ids": [
+          "30380"
+        ],
+        "name": "BANDAR BAHARU PUTRA HEIGHTS"
+      },
+      "id": "FvRmG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.366836,
+          6.143447
+        ]
+      },
+      "properties": {
+        "stop_id": "4643",
+        "name": "BANK ISLAM",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "2LEls"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.26617,
+          6.441558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "6355",
+        "name": "BATAS LIKU",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "ek7TE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.266219,
+          6.441566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4411",
+        "name": "BATAS LIKU ARAU",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "CxwC3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.374852,
+          6.117404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4648",
+        "name": "BATU 1",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "tRoZV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.212326,
+          6.472457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4463",
+        "name": "BATU 2",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "QCgs3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.214319,
+          6.480047
+        ]
+      },
+      "properties": {
+        "stop_id": "4465",
+        "name": "BATU 3 1/2",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "QiuAP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.213306,
+          6.475681
+        ]
+      },
+      "properties": {
+        "stop_id": "4464",
+        "name": "BATU 3 1/4",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "QPdoC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.397264,
+          6.278539
+        ]
+      },
+      "properties": {
+        "stop_id": "4750",
+        "name": "BATU 14",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "xuXW0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2110438,
+          6.6356825
+        ]
+      },
+      "properties": {
+        "stop_id": "6452",
+        "name": "BATU 15A",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "PiFPq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.21105,
+          6.635694
+        ]
+      },
+      "properties": {
+        "stop_id": "4563",
+        "name": "BATU 15A 1",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "5NyFZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2110984,
+          6.6356561
+        ]
+      },
+      "properties": {
+        "stop_id": "6453",
+        "name": "BATU 15A OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "Lzar3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.21105,
+          6.635694
+        ]
+      },
+      "properties": {
+        "stop_id": "4562",
+        "name": "BATU 15A PERLIS",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "TlKCS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.217428,
+          6.635853
+        ]
+      },
+      "properties": {
+        "stop_id": "4495",
+        "name": "BATU 16",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "Zr6Lv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.217428,
+          6.635853
+        ]
+      },
+      "properties": {
+        "stop_id": "4497",
+        "name": "BATU 16 1",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "VKoOz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.366853,
+          6.326203
+        ]
+      },
+      "properties": {
+        "stop_id": "4731",
+        "name": "BATU 18 PERLIS",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "1P100"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.288939,
+          6.657342
+        ]
+      },
+      "properties": {
+        "stop_id": "4508",
+        "name": "BATU 20",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "NL5Ee"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.360058,
+          6.336917
+        ]
+      },
+      "properties": {
+        "stop_id": "4728",
+        "name": "BATU 20 PERLIS",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "3zYIn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.285981,
+          6.656597
+        ]
+      },
+      "properties": {
+        "stop_id": "4507",
+        "name": "BATU 21 / KOK MAK",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "4ngJU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.409528,
+          6.271147
+        ]
+      },
+      "properties": {
+        "stop_id": "4753",
+        "name": "BERNAS",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "ft8Lt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.336856,
+          6.358894
+        ]
+      },
+      "properties": {
+        "stop_id": "4721",
+        "name": "BHP PADANG SERA",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "chWma"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.403742,
+          6.202683
+        ]
+      },
+      "properties": {
+        "stop_id": "4758",
+        "name": "BIRO TATANEGARA KEPALA BATAS",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "dOF0P"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.368621,
+          6.11895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "route_ids": [
+          "30270",
+          "30271"
+        ],
+        "name": "BSN"
+      },
+      "id": "Lz9Jz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.267942,
+          6.536636
+        ]
+      },
+      "properties": {
+        "stop_id": "4364",
+        "name": "BUKIT JERNIH",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "IqX3p"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.324978,
+          6.372008
+        ]
+      },
+      "properties": {
+        "stop_id": "4718",
+        "name": "CALTEX",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "zZ1ih"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.366356,
+          6.329128
+        ]
+      },
+      "properties": {
+        "stop_id": "4730",
+        "name": "CALTEX KG IMAM / MASJID KG IMAM",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "spQxv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.365721,
+          6.120033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4778",
+        "name": "DATARAN ALOR SETAR",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "gYIzA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.338618,
+          6.493299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "DEWAN BESAR FELDA CHUPING",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "waSAT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.204361,
+          6.378942
+        ]
+      },
+      "properties": {
+        "stop_id": "4520",
+        "name": "DEWAN KG UJUNG BATU cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "BJZxX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.340678,
+          6.355517
+        ]
+      },
+      "properties": {
+        "stop_id": "4723",
+        "name": "DEWAN PADANG SERA",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "qCyPT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.362764,
+          6.143122
+        ]
+      },
+      "properties": {
+        "stop_id": "4641",
+        "name": "DEWAN TMN WIRA",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "MRwsx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.420208,
+          6.298858
+        ]
+      },
+      "properties": {
+        "stop_id": "4675",
+        "name": "DEWAN WAWASAN",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "bEAzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.50613,
+          6.449511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4700",
+        "name": "EDC UUM",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "JECFe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.229349,
+          6.6416091
+        ]
+      },
+      "properties": {
+        "stop_id": "6446",
+        "name": "FELCRA LUBUK SIREH",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "nzjev"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.228953,
+          6.641444
+        ]
+      },
+      "properties": {
+        "stop_id": "4499",
+        "name": "FELCRA LUBUK SIREH 1",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "nv2a0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.229322,
+          6.641617
+        ]
+      },
+      "properties": {
+        "stop_id": "4493",
+        "name": "FELCRA LUBUK SIREH CP",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "fdGDM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2289587,
+          6.6414858
+        ]
+      },
+      "properties": {
+        "stop_id": "6447",
+        "name": "FELCRA LUBUK SIREH OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "PMQ3L"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.333489,
+          6.491977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "6405",
+        "name": "FELDA CHUPING",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "hMKtF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.420369,
+          6.318689
+        ]
+      },
+      "properties": {
+        "stop_id": "4676",
+        "name": "GANO",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "0P1nz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.312965,
+          6.493395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "GELANGGANG KOK KLANG",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "UVOD5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.348724,
+          6.456552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4458",
+        "name": "GERAI BUAH-BUAHAN SEGAR FAMA",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "cnOaS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.139028,
+          6.4029
+        ]
+      },
+      "properties": {
+        "stop_id": "4542",
+        "name": "GERAI MAKAN TMN BUKIT KUBU",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "AvgKa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.282774,
+          6.465902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "route_ids": [
+          "30380"
+        ],
+        "name": "GIAL"
+      },
+      "id": "78UkF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.390003,
+          6.134221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4650",
+        "name": "GIANT",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "jnJSr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.198047,
+          6.420247
+        ]
+      },
+      "properties": {
+        "stop_id": "4346",
+        "name": "GIANT KANGAR cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "xVJlz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.366341,
+          6.143398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "GIAT MARA",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "lMmUz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.276336,
+          6.417181
+        ]
+      },
+      "properties": {
+        "stop_id": "4707",
+        "name": "GUAR SANJI",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "xvSY6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.130937,
+          6.406058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4285",
+        "name": "HENTIAN KAMPUNG SEBERANG RAMAI",
+        "route_ids": [
+          "30273"
+        ],
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "NcJxA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.318189,
+          6.543067
+        ]
+      },
+      "properties": {
+        "stop_id": "6055",
+        "name": "Hentian Kilang Gula MSM Utama",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "cEXzZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.198747,
+          6.44073
+        ]
+      },
+      "properties": {
+        "stop_id": "6044",
+        "name": "Hentian Masjid Alwi",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "odh3Q"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.339267,
+          6.494117
+        ]
+      },
+      "properties": {
+        "stop_id": "6344",
+        "name": "HENTIAN MASJID NURUL HUDA",
+        "route_ids": [
+          "30380"
+        ],
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "bEc89"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.267745,
+          6.536493
+        ]
+      },
+      "properties": {
+        "stop_id": "6205",
+        "name": "HENTIAN OPPOSITE BUKIT JERNIH",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "3mDSW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.326061,
+          6.540336
+        ]
+      },
+      "properties": {
+        "stop_id": "4280",
+        "name": "HENTIAN PERUMAHAN KILANG GULA",
+        "route_ids": [
+          "30268"
+        ],
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "j34mx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.262092,
+          6.525043
+        ]
+      },
+      "properties": {
+        "stop_id": "6051",
+        "name": "Hentian Pintu Utama SMK Dato Jaafar Hassan",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "Tmd81"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.295972,
+          6.54298
+        ]
+      },
+      "properties": {
+        "stop_id": "6054",
+        "name": "Hentian Pondok Polis Chuping",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "osUkK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.233731,
+          6.440824
+        ]
+      },
+      "properties": {
+        "stop_id": "6046",
+        "name": "Hentian Puspakom Arau",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "d8KNr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.218298,
+          6.430094
+        ]
+      },
+      "properties": {
+        "stop_id": "6045",
+        "name": "Hentian Seberang Institut Pendidikan Guru Perlis",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "aBC68"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.261747,
+          6.524185
+        ]
+      },
+      "properties": {
+        "stop_id": "6050",
+        "name": "Hentian Selatan SMK Dato Jaafar Hassan",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "1KoFy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.279493,
+          6.551896
+        ]
+      },
+      "properties": {
+        "stop_id": "6052",
+        "name": "Hentian Simpang Kilang Gula",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "Z1gHK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.234416,
+          6.455563
+        ]
+      },
+      "properties": {
+        "stop_id": "6048",
+        "name": "Hentian Simpang SRITI Al Furqan",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "CHUFN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.280895,
+          6.552399
+        ]
+      },
+      "properties": {
+        "stop_id": "6053",
+        "name": "Hentian SK Batu Bertangkup",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "B5CNR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.246468,
+          6.498885
+        ]
+      },
+      "properties": {
+        "stop_id": "6049",
+        "name": "Hentian SK Dato Kayaman",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "KAMO7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.230266,
+          6.44565
+        ]
+      },
+      "properties": {
+        "stop_id": "6047",
+        "name": "Hentian Timur Sek Keb Jejawi",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "uiWb0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.508635,
+          6.464021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4286",
+        "name": "HENTIAN UUM SINTOK",
+        "route_ids": [
+          "30270"
+        ],
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "kGnRv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.423133,
+          6.365775
+        ]
+      },
+      "properties": {
+        "stop_id": "4681",
+        "name": "HOSBA",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "6gSfT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.37037,
+          6.142971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "3439",
+        "name": "Hospital Alor Setar",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "MJaha"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.370335,
+          6.142968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4779",
+        "name": "HOSPITAL ALOR SETAR 1",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "LSEK2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.420181,
+          6.278747
+        ]
+      },
+      "properties": {
+        "stop_id": "4672",
+        "name": "HOSPITAL JITRA",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "3egBO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.191753,
+          6.441278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4315",
+        "name": "HOSPITAL TUANKU FAUZIAH",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "zDvXH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.203263,
+          6.443896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4702",
+        "name": "HOTEL PUTRA REGENCY",
+        "route_ids": [
+          "30271",
+          "30274"
+        ]
+      },
+      "id": "m1Gzf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.203281,
+          6.443886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "6348",
+        "name": "HOTEL PUTRA REGENCY PERLIS",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "qmH1D"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3211695,
+          6.661344
+        ]
+      },
+      "properties": {
+        "stop_id": "6408",
+        "name": "HUB PADANG BESAR 1A",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "Wiqh2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3211352,
+          6.6612375
+        ]
+      },
+      "properties": {
+        "stop_id": "6409",
+        "name": "HUB PADANG BESAR 1B",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "I87RW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3214011,
+          6.66131
+        ]
+      },
+      "properties": {
+        "stop_id": "6410",
+        "name": "HUB PADANG BESAR 2A",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "l4U9f"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3214816,
+          6.6614752
+        ]
+      },
+      "properties": {
+        "stop_id": "6411",
+        "name": "HUB PADANG BESAR 2B",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "AZGva"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.286428,
+          6.406897
+        ]
+      },
+      "properties": {
+        "stop_id": "4709",
+        "name": "HUTAN KANDIS",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "so6MZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.229181,
+          6.554334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4478",
+        "name": "IKM BESERI",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "223ZA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.218525,
+          6.430125
+        ]
+      },
+      "properties": {
+        "stop_id": "4351",
+        "name": "INSTITUT PERGURUAN",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "YOvUk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.370042,
+          6.121191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "route_ids": [
+          "30270",
+          "30271"
+        ],
+        "name": "IPD KOTA SETAR"
+      },
+      "id": "DY8gn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.200545,
+          6.408217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4514",
+        "name": "JABATAN KESIHATAN NEGERI PERLIS cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "cYtWx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.200253,
+          6.276929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4586",
+        "name": "JALAN SEPAKAT",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "zih73"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.200328,
+          6.276918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4588",
+        "name": "JALAN SEPAKAT 1",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "xpo4f"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.364514,
+          6.301369
+        ]
+      },
+      "properties": {
+        "stop_id": "4739",
+        "name": "JKR BATU 17",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "AMUTF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.233856,
+          6.441164
+        ]
+      },
+      "properties": {
+        "stop_id": "4354",
+        "name": "JPJ JEJAWI",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "enhy7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.27841,
+          6.4510444
+        ]
+      },
+      "properties": {
+        "stop_id": "6397",
+        "name": "KAFE MANGGA",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "uMamV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2725713,
+          6.6552996
+        ]
+      },
+      "properties": {
+        "stop_id": "6430",
+        "name": "KAMPUNG KESINAI",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "JMShK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2726138,
+          6.6553669
+        ]
+      },
+      "properties": {
+        "stop_id": "6431",
+        "name": "KAMPUNG KESINAI OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "DKjxa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2766125,
+          6.6554909
+        ]
+      },
+      "properties": {
+        "stop_id": "6426",
+        "name": "KAMPUNG SENA DALAM",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "IWd1L"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.27645,
+          6.6555952
+        ]
+      },
+      "properties": {
+        "stop_id": "6427",
+        "name": "KAMPUNG SENA DALAM OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "x5zXo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2704055,
+          6.6548373
+        ]
+      },
+      "properties": {
+        "stop_id": "6432",
+        "name": "KAMPUNG SERI KESINAI",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "zo3MA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2704055,
+          6.6548373
+        ]
+      },
+      "properties": {
+        "stop_id": "6433",
+        "name": "KAMPUNG SERI KESINAI OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "gCRQq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2697546,
+          6.6546105
+        ]
+      },
+      "properties": {
+        "stop_id": "6434",
+        "name": "KAMPUNG TITI ULU",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "ZoJUy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.269886,
+          6.6547696
+        ]
+      },
+      "properties": {
+        "stop_id": "6435",
+        "name": "KAMPUNG TITI ULU OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "uKeOG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.194165,
+          6.439977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "6347",
+        "name": "KAYANGAN SQUARE",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "q3rAF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.194175,
+          6.439964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4305",
+        "name": "KAYANGAN SQUARE KANGAR",
+        "route_ids": [
+          "30268",
+          "30271",
+          "30272",
+          "30273",
+          "30274",
+          "30275"
+        ]
+      },
+      "id": "vu6U5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.369844,
+          6.149078
+        ]
+      },
+      "properties": {
+        "stop_id": "4770",
+        "name": "KEDAH MEDICAL CENTRE",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "hFbdf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.369694,
+          6.150785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "KELAB ROYAL KEDAH",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "ZQiE3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.418764,
+          6.225025
+        ]
+      },
+      "properties": {
+        "stop_id": "4665",
+        "name": "KEM SULTAN ABDUL HALIM MUADZAM SHAH",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "6D9U7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.415997,
+          6.214561
+        ]
+      },
+      "properties": {
+        "stop_id": "4663",
+        "name": "KEM TOK JALAL",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "MaKbf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.37315,
+          6.134869
+        ]
+      },
+      "properties": {
+        "stop_id": "4645",
+        "name": "KFC STADIUM",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "Rc5ey"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.252897,
+          6.446419
+        ]
+      },
+      "properties": {
+        "stop_id": "4444",
+        "name": "KG ALOR ARA",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "9Y1f4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.255036,
+          6.446174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "KG ALOR ARA 2",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "8wHHU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.189998,
+          6.398524
+        ]
+      },
+      "properties": {
+        "stop_id": "4526",
+        "name": "KG ALOR MARUS cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "4cdWy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.379458,
+          6.189117
+        ]
+      },
+      "properties": {
+        "stop_id": "4763",
+        "name": "KG ALOR SENJAYA",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "FSotc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.253694,
+          6.649872
+        ]
+      },
+      "properties": {
+        "stop_id": "4490",
+        "name": "KG BARU",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "JNJba"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2491669,
+          6.6484916
+        ]
+      },
+      "properties": {
+        "stop_id": "6438",
+        "name": "KG BARU 1",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "KhPQd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2490552,
+          6.6485579
+        ]
+      },
+      "properties": {
+        "stop_id": "6439",
+        "name": "KG BARU 1 OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "o5Kur"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.251742,
+          6.6493
+        ]
+      },
+      "properties": {
+        "stop_id": "4502",
+        "name": "KG BARU 1 PERLIS",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "vBgRs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2449224,
+          6.6472061
+        ]
+      },
+      "properties": {
+        "stop_id": "6440",
+        "name": "KG BARU 2",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "EYyuE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.244973,
+          6.6473505
+        ]
+      },
+      "properties": {
+        "stop_id": "6441",
+        "name": "KG BARU 2 OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "idyF9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.308684,
+          6.484483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "6403",
+        "name": "KG BARU KOK KLANG",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "0GLFc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.298425,
+          6.542661
+        ]
+      },
+      "properties": {
+        "stop_id": "4370",
+        "name": "KG BARU LUBUK MACHANG",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "4gFg3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.285647,
+          6.550456
+        ]
+      },
+      "properties": {
+        "stop_id": "4783",
+        "name": "KG BATU BERTANGKUP",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "8p1Ui"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.182681,
+          6.39275
+        ]
+      },
+      "properties": {
+        "stop_id": "4569",
+        "name": "KG BEHOR LATEH",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "Ihmmf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.183067,
+          6.383147
+        ]
+      },
+      "properties": {
+        "stop_id": "4570",
+        "name": "KG BEHOR MALI",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "cULLZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.184919,
+          6.427794
+        ]
+      },
+      "properties": {
+        "stop_id": "4566",
+        "name": "KG BEHOR TEMAK",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "UkpJI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.22924,
+          6.528313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4473",
+        "name": "KG BESERI / KG BUKIT TENIANG",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "YpDXD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.192174,
+          6.39961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4525",
+        "name": "KG BUKIT KECHIK cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "vlbPv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.363964,
+          6.308447
+        ]
+      },
+      "properties": {
+        "stop_id": "4736",
+        "name": "KG HUTAN SETALI (1)",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "efAub"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.363642,
+          6.304511
+        ]
+      },
+      "properties": {
+        "stop_id": "4737",
+        "name": "KG HUTAN SETALI (2)",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "hfcA3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.292319,
+          6.402183
+        ]
+      },
+      "properties": {
+        "stop_id": "4710",
+        "name": "KG JELOMPOK",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "dtrqa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.266158,
+          6.218561
+        ]
+      },
+      "properties": {
+        "stop_id": "4602",
+        "name": "KG JERLUN",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "j35m9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.320361,
+          6.377536
+        ]
+      },
+      "properties": {
+        "stop_id": "4717",
+        "name": "KG KANDIS",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "TqYV8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.279528,
+          6.20024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4604",
+        "name": "KG KELOMPANG",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "pjlRg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.303717,
+          6.482133
+        ]
+      },
+      "properties": {
+        "stop_id": "6404",
+        "name": "KG KOK KLANG",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "BZ4YV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.252314,
+          6.446364
+        ]
+      },
+      "properties": {
+        "stop_id": "4706",
+        "name": "KG KUBANG GAJAH",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "lxOKG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.368258,
+          6.292461
+        ]
+      },
+      "properties": {
+        "stop_id": "4741",
+        "name": "KG LUBUK",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "ZCFHq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.400686,
+          6.276581
+        ]
+      },
+      "properties": {
+        "stop_id": "4752",
+        "name": "KG MANGGOL",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "vakBs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.317729,
+          6.154905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4606",
+        "name": "KG PADANG LALANG",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "TsGP3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.241355,
+          6.590935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4482",
+        "name": "KG PAYA KELADI",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "epZKA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.222805,
+          6.498373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "KG PAYA SENDUK",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "7vFaL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.216202,
+          6.487462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4467",
+        "name": "KG PENGHULU CHOH",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "vfhAo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.351222,
+          6.344603
+        ]
+      },
+      "properties": {
+        "stop_id": "4726",
+        "name": "KG PUTAT / KG POCHAN",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "UEvAH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.20831,
+          6.460433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4462",
+        "name": "KG SALANG cp",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "crzrZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.279822,
+          6.655769
+        ]
+      },
+      "properties": {
+        "stop_id": "4506",
+        "name": "KG SENA DALAM",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "80TOx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2363572,
+          6.6447309
+        ]
+      },
+      "properties": {
+        "stop_id": "6444",
+        "name": "KG SERI AMAN",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "sYvrI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.236244,
+          6.644697
+        ]
+      },
+      "properties": {
+        "stop_id": "4500",
+        "name": "KG SERI AMAN 1",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "o4r9X"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2362629,
+          6.6447917
+        ]
+      },
+      "properties": {
+        "stop_id": "6445",
+        "name": "KG SERI AMAN OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "RAydN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.236244,
+          6.644697
+        ]
+      },
+      "properties": {
+        "stop_id": "4492",
+        "name": "KG SERI AMAN PERLIS",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "GlMB5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.266133,
+          6.653506
+        ]
+      },
+      "properties": {
+        "stop_id": "4505",
+        "name": "KG SERI KESIRAI",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "sbrmH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.186575,
+          6.355836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4572",
+        "name": "KG SG BUGIS",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "H622y"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.292539,
+          6.544217
+        ]
+      },
+      "properties": {
+        "stop_id": "4369",
+        "name": "KG SG SERAI",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "TrTRA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.155787,
+          6.39334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4531",
+        "name": "KG TELUK BATU 5 cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "2GuFz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.172144,
+          6.395317
+        ]
+      },
+      "properties": {
+        "stop_id": "4529",
+        "name": "KG TITI SERONG/PERTUBUHAN PELADANG cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "xck3m"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.260034,
+          6.62773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4486",
+        "name": "KG TITI TINGGI HILIR CP",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "2ifSC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.260414,
+          6.651806
+        ]
+      },
+      "properties": {
+        "stop_id": "4504",
+        "name": "KG TITI ULU",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "aiosY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.453256,
+          6.448706
+        ]
+      },
+      "properties": {
+        "stop_id": "4697",
+        "name": "KG TOK KASSIM",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "U72yW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.318208,
+          6.543067
+        ]
+      },
+      "properties": {
+        "stop_id": "4371",
+        "name": "KILANG GULA KANGAR",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "Sz4jY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.365606,
+          6.319269
+        ]
+      },
+      "properties": {
+        "stop_id": "4732",
+        "name": "KILANG PADI JASMINE",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "QBNYj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.183812,
+          6.396912
+        ]
+      },
+      "properties": {
+        "stop_id": "4527",
+        "name": "KLINIK DESA BEHOR LATEH cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "vDLX4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.275172,
+          6.418822
+        ]
+      },
+      "properties": {
+        "stop_id": "4780",
+        "name": "KLINIK DESA GUAR SANJI",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "vTxOg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.206111,
+          6.384736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4519",
+        "name": "KLINIK DESA KG SURAU cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "0am26"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.217639,
+          6.280831
+        ]
+      },
+      "properties": {
+        "stop_id": "4595",
+        "name": "KLINIK DESA SANGLANG KEDAH",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "r3p7R"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.131411,
+          6.407091
+        ]
+      },
+      "properties": {
+        "stop_id": "4546",
+        "name": "KLINIK DESA SEBERANG RAMAI cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "thPng"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.428725,
+          6.4257
+        ]
+      },
+      "properties": {
+        "stop_id": "4693",
+        "name": "KLINIK KESIHATAN",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "AGCif"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.273842,
+          6.464777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "KLINIK KESIHATAN GAIL",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "WpQWK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.342107,
+          6.135677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4608",
+        "name": "KLINIK KESIHATAN JALAN PUTRA",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "UhrUf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2105105,
+          6.6423446
+        ]
+      },
+      "properties": {
+        "stop_id": "6454",
+        "name": "KLINIK KESIHATAN KAKI BUKIT",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "OcGld"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.21055,
+          6.642319
+        ]
+      },
+      "properties": {
+        "stop_id": "4564",
+        "name": "KLINIK KESIHATAN KAKI BUKIT PERLIS cp",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "yOz4h"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.195435,
+          6.263138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4613",
+        "name": "KLINIK KESIHATAN KUALA SANGLANG",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "qr3b8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.195392,
+          6.263128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4587",
+        "name": "KLINIK KESIHATAN KUALA SANGLANG 1",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "B5oex"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.365536,
+          6.297944
+        ]
+      },
+      "properties": {
+        "stop_id": "4740",
+        "name": "KLINIK KESIHATAN TUNJANG",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "DfpLr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2928615,
+          6.657334
+        ]
+      },
+      "properties": {
+        "stop_id": "6416",
+        "name": "KLINIK KK PADANG BESAR",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "lz9Ji"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.371394,
+          6.289606
+        ]
+      },
+      "properties": {
+        "stop_id": "4742",
+        "name": "KLINIK TUNJANG",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "zGvOK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.314328,
+          6.386969
+        ]
+      },
+      "properties": {
+        "stop_id": "4716",
+        "name": "KODIANG LAMA",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "stqZp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2885085,
+          6.6571547
+        ]
+      },
+      "properties": {
+        "stop_id": "6418",
+        "name": "KOK MAK",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "XjdC4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2884922,
+          6.65727
+        ]
+      },
+      "properties": {
+        "stop_id": "6419",
+        "name": "KOK MAK OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "Hn42B"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.224283,
+          6.430744
+        ]
+      },
+      "properties": {
+        "stop_id": "4352",
+        "name": "KOLEJ JURURAWAT",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "6iE9P"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.409981,
+          6.191575
+        ]
+      },
+      "properties": {
+        "stop_id": "4659",
+        "name": "KOLEJ TUDM",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "DCAl0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.199203,
+          6.440983
+        ]
+      },
+      "properties": {
+        "stop_id": "4306",
+        "name": "KOMPLEKS ISLAM PERLIS",
+        "route_ids": [
+          "30268",
+          "30271",
+          "30274"
+        ]
+      },
+      "id": "PfRfF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.234783,
+          6.456167
+        ]
+      },
+      "properties": {
+        "stop_id": "4356",
+        "name": "KOMPLEKS PENYAYANG DR SITI HASMAH",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "nXoTR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.306552,
+          6.16982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4616",
+        "name": "KOMPLEKS PERNIAGAAN ALOR JAGGUS",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "UcTuk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.133414,
+          6.395589
+        ]
+      },
+      "properties": {
+        "stop_id": "4537",
+        "name": "KOMPLEKS PERNIAGAAN KUALA PERLIS",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "KwxKg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.336324,
+          6.140448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4618",
+        "name": "KOMPLEKS PERNIAGAAN MERGONG JAYA",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "B1uBE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.229489,
+          6.523128
+        ]
+      },
+      "properties": {
+        "stop_id": "4472",
+        "name": "KOMPLEKS PERTANIAN",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "kqLIE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.192511,
+          6.340753
+        ]
+      },
+      "properties": {
+        "stop_id": "4574",
+        "name": "KOMPLEKS SIMPANG EMPAT MPK",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "tQPRO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.370235,
+          6.138776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4772",
+        "name": "KOMPLEKS SUKAN",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "7kACo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.27504,
+          6.4533322
+        ]
+      },
+      "properties": {
+        "stop_id": "6398",
+        "name": "KOMPLEKS SUKAN UITM ARAU",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "cuHDC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.328289,
+          6.368031
+        ]
+      },
+      "properties": {
+        "stop_id": "4719",
+        "name": "KOTA SIPUTEH",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "6tfPa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.194303,
+          6.440113
+        ]
+      },
+      "properties": {
+        "stop_id": "5857",
+        "name": "KPJ KANGAR",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "aXnbe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.187464,
+          6.433728
+        ]
+      },
+      "properties": {
+        "stop_id": "4565",
+        "name": "KPJ KANGAR CP",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "CCEGq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.409392,
+          6.189653
+        ]
+      },
+      "properties": {
+        "stop_id": "5726",
+        "name": "KRAFTANGAN MALAYSA KEDAH",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "tR4eg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.168893,
+          6.395024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4530",
+        "name": "KRAFTANGAN MALAYSIA PERLIS cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "HqYr4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.269908,
+          6.429528
+        ]
+      },
+      "properties": {
+        "stop_id": "4445",
+        "name": "KTM ARAU",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "yQdW2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.320028,
+          6.663667
+        ]
+      },
+      "properties": {
+        "stop_id": "6406",
+        "name": "KTM PADANG BESAR A",
+        "route_ids": [
+          "30381"
+        ],
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "IXHiB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3200195,
+          6.6636121
+        ]
+      },
+      "properties": {
+        "stop_id": "6407",
+        "name": "KTM PADANG BESAR B",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "Vwknv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.201994,
+          6.386558
+        ]
+      },
+      "properties": {
+        "stop_id": "4521",
+        "name": "KUARI GUNUNG MEDAN",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "FYXIK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2813608,
+          6.6557751
+        ]
+      },
+      "properties": {
+        "stop_id": "6422",
+        "name": "LADANG BURUNG UNTA",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "5t9fz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.281471,
+          6.6558861
+        ]
+      },
+      "properties": {
+        "stop_id": "6423",
+        "name": "LADANG BURUNG UNTA OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "0RjxF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.279822,
+          6.655769
+        ]
+      },
+      "properties": {
+        "stop_id": "4560",
+        "name": "LADANG BURUNG UNTA PERLIS",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "7CuZr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.268122,
+          6.536778
+        ]
+      },
+      "properties": {
+        "stop_id": "4297",
+        "name": "LAMAN PELANGI BUKIT JERNIH KANGAR",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "DBZDv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.131294,
+          6.399439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4539",
+        "name": "LKIM cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "zeuDd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.364092,
+          6.302811
+        ]
+      },
+      "properties": {
+        "stop_id": "4738",
+        "name": "MADA",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "VqaoJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.344706,
+          6.351453
+        ]
+      },
+      "properties": {
+        "stop_id": "4724",
+        "name": "MADRASAH NADRAH HASANAH",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "FModL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.232303,
+          6.445158
+        ]
+      },
+      "properties": {
+        "stop_id": "4438",
+        "name": "MAJLIS PERBANDARAN KANGAR (JEJAWI)",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "DAPX4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.270853,
+          6.430006
+        ]
+      },
+      "properties": {
+        "stop_id": "4406",
+        "name": "MAKAM DIRAJA cp",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "SQjtC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.409319,
+          6.441467
+        ]
+      },
+      "properties": {
+        "stop_id": "4459",
+        "name": "MASJID ABIDIN",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "v9COt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.388486,
+          6.131231
+        ]
+      },
+      "properties": {
+        "stop_id": "4649",
+        "name": "MASJID AL BUKHARI",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "MDA8w"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.288547,
+          6.548025
+        ]
+      },
+      "properties": {
+        "stop_id": "4368",
+        "name": "MASJID AL HUSNI BATU BERTANGKUP",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "8qRxU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.288506,
+          6.548075
+        ]
+      },
+      "properties": {
+        "stop_id": "4298",
+        "name": "MASJID AL HUSNI BATU BERTANGKUP JLN KILANG GULA",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "TBYaM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.297906,
+          6.434781
+        ]
+      },
+      "properties": {
+        "stop_id": "4450",
+        "name": "MASJID AL MURSYID",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "X2OYX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.356739,
+          6.142624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "MASJID AL RAHMAH",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "jsToy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.261027,
+          6.633948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4487",
+        "name": "MASJID AL-AZIM cp",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "5a39S"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.183364,
+          6.371558
+        ]
+      },
+      "properties": {
+        "stop_id": "4611",
+        "name": "MASJID AL-HIDAYAH",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "WSAXV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.353933,
+          6.342817
+        ]
+      },
+      "properties": {
+        "stop_id": "4727",
+        "name": "MASJID AL-ISLAH",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "SnSlS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.30997,
+          6.164365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4605",
+        "name": "MASJID AL-MAHMUDI",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "gpLhV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.253938,
+          6.615807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4484",
+        "name": "MASJID AL-MUSTAGFIRIN",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "OH0p9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2425239,
+          6.6465124
+        ]
+      },
+      "properties": {
+        "stop_id": "6442",
+        "name": "MASJID AL-NUR / KG BARU 3",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "nPNjW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2424726,
+          6.6466132
+        ]
+      },
+      "properties": {
+        "stop_id": "6443",
+        "name": "MASJID AL-NUR / KG BARU 3 OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "7IlvI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.242414,
+          6.646539
+        ]
+      },
+      "properties": {
+        "stop_id": "4501",
+        "name": "MASJID AL-NUR 1",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "LvZGm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.242414,
+          6.646539
+        ]
+      },
+      "properties": {
+        "stop_id": "4491",
+        "name": "MASJID AL-NUR CP",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "MZGI5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.276283,
+          6.465136
+        ]
+      },
+      "properties": {
+        "stop_id": "6359",
+        "name": "MASJID ASSOBIRIN",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "2CFBR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.259986,
+          6.519483
+        ]
+      },
+      "properties": {
+        "stop_id": "4362",
+        "name": "MASJID BUKIT KETERI",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "AjDKG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.246419,
+          6.495314
+        ]
+      },
+      "properties": {
+        "stop_id": "4359",
+        "name": "MASJID IBNU SINA PERAWAN DATO KAYAMAN",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "9hmkG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.247683,
+          6.482967
+        ]
+      },
+      "properties": {
+        "stop_id": "4358",
+        "name": "MASJID ISLAH",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "PKMiW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2093033,
+          6.6327984
+        ]
+      },
+      "properties": {
+        "stop_id": "6450",
+        "name": "MASJID JABAL AL- ALA",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "9087T"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2093947,
+          6.6327918
+        ]
+      },
+      "properties": {
+        "stop_id": "6451",
+        "name": "MASJID JABAL AL- ALA OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "4wK19"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.209411,
+          6.632275
+        ]
+      },
+      "properties": {
+        "stop_id": "4561",
+        "name": "MASJID JABAL AL-ALA 1",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "eDjUZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.209472,
+          6.632247
+        ]
+      },
+      "properties": {
+        "stop_id": "4496",
+        "name": "MASJID JABAL AL-ALA CP",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "clM2B"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.418097,
+          6.266511
+        ]
+      },
+      "properties": {
+        "stop_id": "4755",
+        "name": "MASJID JITRA",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "EMCQd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.286769,
+          6.191672
+        ]
+      },
+      "properties": {
+        "stop_id": "4615",
+        "name": "MASJID KG SIMPANG EMPAT KUAR",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "NakD2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.235144,
+          6.445119
+        ]
+      },
+      "properties": {
+        "stop_id": "6352",
+        "name": "MASJID MUHAMMADI",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "g6JFt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.235144,
+          6.445119
+        ]
+      },
+      "properties": {
+        "stop_id": "4439",
+        "name": "MASJID MUHAMMADI CP",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "iCywA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2834531,
+          6.655903
+        ]
+      },
+      "properties": {
+        "stop_id": "6420",
+        "name": "MASJID OSMANIAH",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "zynlH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2832992,
+          6.6560195
+        ]
+      },
+      "properties": {
+        "stop_id": "6421",
+        "name": "MASJID OSMANIAH OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "PoQcd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.364403,
+          6.312719
+        ]
+      },
+      "properties": {
+        "stop_id": "4734",
+        "name": "MASJID PADANG PERAHU",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "eYITo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.398981,
+          6.277575
+        ]
+      },
+      "properties": {
+        "stop_id": "4751",
+        "name": "MASJID PULAU KETAM",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "VahEN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.214953,
+          6.446558
+        ]
+      },
+      "properties": {
+        "stop_id": "6350",
+        "name": "MASJID REPOH",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "VcJnN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.214953,
+          6.446558
+        ]
+      },
+      "properties": {
+        "stop_id": "4703",
+        "name": "MASJID REPOH ARAU",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "2on4N"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.420203,
+          6.285214
+        ]
+      },
+      "properties": {
+        "stop_id": "4673",
+        "name": "MASJID SHARIFAH FATIMAH",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "vTgUI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.200194,
+          6.281797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4585",
+        "name": "MASJID SIMPANG SANGLANG",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "zFkOv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.200258,
+          6.281816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4589",
+        "name": "MASJID SIMPANG SANGLANG 1",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "CyRAa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.215369,
+          6.484706
+        ]
+      },
+      "properties": {
+        "stop_id": "4466",
+        "name": "MASJID SIRAJUDDIN",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "evdz8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.372069,
+          6.178303
+        ]
+      },
+      "properties": {
+        "stop_id": "4764",
+        "name": "MASJID TENGKU INTAN SYAFINAZ",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "uE9ZS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.214256,
+          6.446575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4434",
+        "name": "MASJID TUN ABDUL RAZAK CP",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "qpbu8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.282869,
+          6.655947
+        ]
+      },
+      "properties": {
+        "stop_id": "4559",
+        "name": "MASJID USMANIAH",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "h0vUC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.273244,
+          6.424011
+        ]
+      },
+      "properties": {
+        "stop_id": "4712",
+        "name": "MEDAN PEKAN ARAU",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "yDOkD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.249352,
+          6.23589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4599",
+        "name": "MEDAN SELERA AYER ITAM",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "y4nR7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.360038,
+          6.142891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "MEDAN SELERA TAMAN WIRA MERGONG",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "O6jpv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.197758,
+          6.444794
+        ]
+      },
+      "properties": {
+        "stop_id": "4430",
+        "name": "MEGA STAR INN",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "1Wwwb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.348492,
+          6.347428
+        ]
+      },
+      "properties": {
+        "stop_id": "4725",
+        "name": "MELELE",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "smdmA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.366919,
+          6.124519
+        ]
+      },
+      "properties": {
+        "stop_id": "4778",
+        "name": "MENARA ALOR SETAR",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "6ma3w"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.229352,
+          6.550774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4477",
+        "name": "MRSM BESERI CP",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "AD0wY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.347048,
+          6.452962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4455",
+        "name": "MRSM ULU PAUH",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "T5b1Y"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.292106,
+          6.432031
+        ]
+      },
+      "properties": {
+        "stop_id": "4449",
+        "name": "NAT POKOK GETAH",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "ZfUaV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.239531,
+          6.462528
+        ]
+      },
+      "properties": {
+        "stop_id": "4357",
+        "name": "NGULANG SELATAN",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "fd3tZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.27822,
+          6.4460669
+        ]
+      },
+      "properties": {
+        "stop_id": "6395",
+        "name": "PADANG BERINGIN",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "SIbtE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.218722,
+          6.491625
+        ]
+      },
+      "properties": {
+        "stop_id": "4469",
+        "name": "PADANG PAUH",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "iHUwD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.365122,
+          6.316606
+        ]
+      },
+      "properties": {
+        "stop_id": "4733",
+        "name": "PADANG PERAHU",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "4fi0u"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.333581,
+          6.361689
+        ]
+      },
+      "properties": {
+        "stop_id": "4720",
+        "name": "PADANG SERA",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "hUZiH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.132645,
+          6.400148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4540",
+        "name": "PANGGUNG WAYANG",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "SRHwE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.368267,
+          6.168561
+        ]
+      },
+      "properties": {
+        "stop_id": "4767",
+        "name": "PANTAI JOHOR",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "Khxog"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.252414,
+          6.226369
+        ]
+      },
+      "properties": {
+        "stop_id": "4600",
+        "name": "PARIT ALOR CHANGILEH",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "809SX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.403356,
+          6.166928
+        ]
+      },
+      "properties": {
+        "stop_id": "4656",
+        "name": "PASAR BASAH HUTAN KG",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "wQFwp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.278922,
+          6.427536
+        ]
+      },
+      "properties": {
+        "stop_id": "4448",
+        "name": "PASAR BESAR ARAU",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "CMxTW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.201736,
+          6.404698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4516",
+        "name": "PASAR TITI CHAI cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "cGDyG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.223889,
+          6.500132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4471",
+        "name": "PAYA",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "MQsD8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.225809,
+          6.50345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "PAYA 2",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "cGXAH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.227199,
+          6.507434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "PAYA 3",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "Bb370"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.228701,
+          6.511751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "PAYA 4",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "mwz6l"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.298202,
+          6.481519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "6402",
+        "name": "PAYA BURMA",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "5VcXn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.420071,
+          6.270426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "PEJABAT HUTAN DAERAH",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "rNANI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3832,
+          6.284386
+        ]
+      },
+      "properties": {
+        "stop_id": "4746",
+        "name": "PEJABAT PENGHULU BKT TUNJANG",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "BB018"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.369394,
+          6.174756
+        ]
+      },
+      "properties": {
+        "stop_id": "4765",
+        "name": "PEJABAT PENGHULU TITI GAJAH / TMN BERLIAN / TMN KANCIL",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "pF4ZM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.204865,
+          6.446515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4308",
+        "name": "PEJABAT POS LAJU",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "yARqa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.372043,
+          6.124732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4701",
+        "name": "PEJABAT SADA",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "QEVtG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.419974,
+          6.263534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4756",
+        "name": "PEKAN JITRA",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "1WPJ0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.321052,
+          6.150913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4607",
+        "name": "PEKAN KECIL KUALA SUNGAI",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "jmWel"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.413258,
+          6.204328
+        ]
+      },
+      "properties": {
+        "stop_id": "4661",
+        "name": "PEKAN KEPALA BATAS",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "7RV7l"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.229043,
+          6.25868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4596",
+        "name": "PEKAN KERPAN",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "ia0Mu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.300883,
+          6.436183
+        ]
+      },
+      "properties": {
+        "stop_id": "4451",
+        "name": "PEKAN PAUH",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "TKo37"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.367117,
+          6.117322
+        ]
+      },
+      "properties": {
+        "stop_id": "4647",
+        "name": "PEKAN RABU",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "ZNOJy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.375231,
+          6.287483
+        ]
+      },
+      "properties": {
+        "stop_id": "4743",
+        "name": "PEKAN TUNJANG (1)",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "J5g3g"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.376722,
+          6.286653
+        ]
+      },
+      "properties": {
+        "stop_id": "4744",
+        "name": "PEKAN TUNJANG (2)",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "4aJju"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.229318,
+          6.558776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4479",
+        "name": "PERKUBURAN CINA BERSERI",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "qAjIL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.199597,
+          6.318268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4578",
+        "name": "PERMATANG BONGOR",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "47IG6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.182403,
+          6.399903
+        ]
+      },
+      "properties": {
+        "stop_id": "4567",
+        "name": "PERTUBUHAN PELADANG",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "K9P1C"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.369108,
+          6.158886
+        ]
+      },
+      "properties": {
+        "stop_id": "4768",
+        "name": "PETRONAS ALOR MERAH / SMK T.A MALIK",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "kck01"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.36885,
+          6.133608
+        ]
+      },
+      "properties": {
+        "stop_id": "4774",
+        "name": "PETRONAS LEBUHRAYA DARUL AMAN",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "HOUCc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.36885,
+          6.133608
+        ]
+      },
+      "properties": {
+        "stop_id": "4775",
+        "name": "PETRONAS LEBUHRAYA DARUL AMAN 1",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "IvX6V"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.272803,
+          6.453178
+        ]
+      },
+      "properties": {
+        "stop_id": "6455",
+        "name": "PINTU A UITM ARAU",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "eVghu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.27424,
+          6.4448985
+        ]
+      },
+      "properties": {
+        "stop_id": "6394",
+        "name": "PINTU B UITM ARAU",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "DNrgD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.27541,
+          6.441062
+        ]
+      },
+      "properties": {
+        "stop_id": "6392",
+        "name": "PINTU KOLEJ MATRIKULASI ARAU",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "uPQ3c"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.133137,
+          6.400488
+        ]
+      },
+      "properties": {
+        "stop_id": "4541",
+        "name": "PLAZA KUALA cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "2OBnY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.337707,
+          6.453772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4454",
+        "name": "POLITEKNIK SYED SIRAJUDDIN",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "OT3kw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.249493,
+          6.60576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4483",
+        "name": "PUSAT SERENTI",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "zrrFi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2739128,
+          6.6553649
+        ]
+      },
+      "properties": {
+        "stop_id": "6428",
+        "name": "PUSAT VETERINAR",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "DRccs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2739894,
+          6.655462
+        ]
+      },
+      "properties": {
+        "stop_id": "6429",
+        "name": "PUSAT VETERINAR OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "c2flJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.203247,
+          6.443911
+        ]
+      },
+      "properties": {
+        "stop_id": "4307",
+        "name": "PUTRA REGENCY",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "gawuD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.368783,
+          6.119311
+        ]
+      },
+      "properties": {
+        "stop_id": "4646",
+        "name": "RHB JALAN BADLI SHAH",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "MwHqm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.42275,
+          6.362306
+        ]
+      },
+      "properties": {
+        "stop_id": "4680",
+        "name": "RTC",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "5xmXs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.217897,
+          6.490283
+        ]
+      },
+      "properties": {
+        "stop_id": "4468",
+        "name": "RTM PADANG PAUH",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "lgxMA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.283519,
+          6.467232
+        ]
+      },
+      "properties": {
+        "stop_id": "6360",
+        "name": "RUMAH KANAK-KANAK ARAU",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "hIubh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.184121,
+          6.366471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4571",
+        "name": "SEK AGAMA AL-ISLAHIYAH",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "3yJnD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.483433,
+          6.445772
+        ]
+      },
+      "properties": {
+        "stop_id": "4699",
+        "name": "SEK BANDAR BARU SINTOK",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "2JEHl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.281697,
+          6.552169
+        ]
+      },
+      "properties": {
+        "stop_id": "4367",
+        "name": "SEK BATU BERTANGKUP",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "eCozP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.246611,
+          6.499431
+        ]
+      },
+      "properties": {
+        "stop_id": "4360",
+        "name": "SEK DATO KAYAMAN",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "1L88L"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.192181,
+          6.442621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4429",
+        "name": "SEK DERMA",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "2muht"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.230211,
+          6.445856
+        ]
+      },
+      "properties": {
+        "stop_id": "4355",
+        "name": "SEK JEJAWI",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "h66qJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.269306,
+          6.436581
+        ]
+      },
+      "properties": {
+        "stop_id": "4410",
+        "name": "SEK TENGKU BUDRIAH",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "C6IxU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.382646,
+          6.12294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sekolah Rendah An Najaah",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "NPQRx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.235162,
+          6.5639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4481",
+        "name": "SEMADONG",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "Ye3ZW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.297269,
+          6.398138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4713",
+        "name": "SEMPADAN PERLIS-KEDAH",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "8AqHw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.369369,
+          6.14365
+        ]
+      },
+      "properties": {
+        "stop_id": "4644",
+        "name": "SG ANAK BUKIT",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "0e2ht"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.228443,
+          6.539811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4476",
+        "name": "SG BATU HAMPAR",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "VxSZW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.256094,
+          6.617296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4485",
+        "name": "SG JAROM",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "hZ9G9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.194486,
+          6.328169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4577",
+        "name": "SG PADANG",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "JjLVi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.193105,
+          6.33448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4576",
+        "name": "SHELL SIMPANG EMPAT",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "QJuTp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2789451,
+          6.655669
+        ]
+      },
+      "properties": {
+        "stop_id": "6424",
+        "name": "SIMPANG FELDA MATA AIR",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "IEj0I"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2784789,
+          6.6557405
+        ]
+      },
+      "properties": {
+        "stop_id": "6425",
+        "name": "SIMPANG FELDA MATA AIR OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "sGeiT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.195405,
+          6.402137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4524",
+        "name": "SIMPANG GUNUNG MEDAN cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "gFR3W"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.427089,
+          6.405817
+        ]
+      },
+      "properties": {
+        "stop_id": "4691",
+        "name": "SIMPANG JENALIK",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "41qUH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.255713,
+          6.649891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SIMPANG KAKI BUKIT",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "HkvHj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.279614,
+          6.552028
+        ]
+      },
+      "properties": {
+        "stop_id": "4366",
+        "name": "SIMPANG KILANG GULA",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "D2DJT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.27509,
+          6.4411529
+        ]
+      },
+      "properties": {
+        "stop_id": "6390",
+        "name": "SIMPANG KOLEJ MATRIKULASI ARAU",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "UoKdx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.208367,
+          6.302155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4580",
+        "name": "SIMPANG KUALA SANGLANG / MASJID AL-MAGHFIRAH",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "Vi1rA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.205969,
+          6.390106
+        ]
+      },
+      "properties": {
+        "stop_id": "4518",
+        "name": "SIMPANG LORONG HAMID SAMAH",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "FIIaH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.281218,
+          6.46443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "route_ids": [
+          "30380"
+        ],
+        "name": "SIMPANG PADANG SIDING"
+      },
+      "id": "uZoTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.29196,
+          6.4807667
+        ]
+      },
+      "properties": {
+        "stop_id": "6401",
+        "name": "SIMPANG PENJARA DAN PUSAT KOREKSIONAL PERLIS",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "t7EWH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.27268,
+          6.4532796
+        ]
+      },
+      "properties": {
+        "stop_id": "6399",
+        "name": "SIMPANG PINTU A UITM ARAU",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "iyaID"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.260442,
+          6.224697
+        ]
+      },
+      "properties": {
+        "stop_id": "4601",
+        "name": "SIMPANG SG KOROK",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "EfCDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.216381,
+          6.446547
+        ]
+      },
+      "properties": {
+        "stop_id": "4435",
+        "name": "SIMPANG TASIK MELATI",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "CJU2r"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.387833,
+          6.284022
+        ]
+      },
+      "properties": {
+        "stop_id": "4748",
+        "name": "SIMPANG TIGA BEMBAN",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "PUQRy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.149018,
+          6.392306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4532",
+        "name": "SIMPANG TIGA PADANG BESAR SELATAN cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "rZ9lX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.200902,
+          6.284997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4584",
+        "name": "SIMPANG TIGA PADANG KERIA",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "O2crW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.200924,
+          6.284983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4590",
+        "name": "SIMPANG TIGA PADANG KERIA 1",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "Ncn2z"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.204036,
+          6.292936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4582",
+        "name": "SIMPANG TIGA SG BARU",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "cVLAh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.204136,
+          6.293185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4592",
+        "name": "SIMPANG TIGA SG BARU 1",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "oRex5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.200806,
+          6.405578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4515",
+        "name": "SIMPANG TITI CHAI cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "NCnRF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.2019,
+          6.387231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4522",
+        "name": "SIMPANG TOK TINA ALUIH cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "l8cLH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.193515,
+          6.336324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4575",
+        "name": "SIMPANG UNIMAP",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "pOL0Q"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.385478,
+          6.126916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SJK (C) Khee Chee",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "eyXuO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.273892,
+          6.426781
+        ]
+      },
+      "properties": {
+        "stop_id": "4446",
+        "name": "SJK HWA AIK",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "oIJmD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.195706,
+          6.261828
+        ]
+      },
+      "properties": {
+        "stop_id": "4614",
+        "name": "SJKC CHIN HUN",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "oX7Wr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.183436,
+          6.36975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4612",
+        "name": "SK BEHOR MALI",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "2zj0q"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.228776,
+          6.535332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4474",
+        "name": "SK BESERI cp",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "uid02"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.405267,
+          6.174144
+        ]
+      },
+      "properties": {
+        "stop_id": "4657",
+        "name": "SK BOHOR",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "NHaqD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.28731,
+          6.4744224
+        ]
+      },
+      "properties": {
+        "stop_id": "6400",
+        "name": "SK GUAR NANGKA / KG BARU GUAR NANGKA",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "mRfIC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.422019,
+          6.354897
+        ]
+      },
+      "properties": {
+        "stop_id": "4679",
+        "name": "SK HOSBA",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "gjJpt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.419953,
+          6.262126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK JITRA",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "Jj6Cn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.178747,
+          6.396081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4528",
+        "name": "SK KAYANG cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "g6n3M"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.307633,
+          6.392
+        ]
+      },
+      "properties": {
+        "stop_id": "4715",
+        "name": "SK KODIANG",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "drRuC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.250311,
+          6.446208
+        ]
+      },
+      "properties": {
+        "stop_id": "4711",
+        "name": "SK KUBANG GAJAH",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "wULHD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.250311,
+          6.446208
+        ]
+      },
+      "properties": {
+        "stop_id": "6354",
+        "name": "SK KUBANG GAJAH / ALOR ARA",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "aURhZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.364208,
+          6.311003
+        ]
+      },
+      "properties": {
+        "stop_id": "4735",
+        "name": "SK PADANG PERAHU",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "5f6Sl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.224779,
+          6.501624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4384",
+        "name": "SK PAYA cp",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "ppGVV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.198578,
+          6.417725
+        ]
+      },
+      "properties": {
+        "stop_id": "4347",
+        "name": "SK RAJA SYED ALWI",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "gkOoR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.201331,
+          6.286086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4583",
+        "name": "SK SANGLANG",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "4A3H0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.20136,
+          6.286071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4591",
+        "name": "SK SANGLANG 1",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "wCGCZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.216586,
+          6.283425
+        ]
+      },
+      "properties": {
+        "stop_id": "4594",
+        "name": "SK SANGLANG KEDAH",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "DR2eB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.195297,
+          6.433622
+        ]
+      },
+      "properties": {
+        "stop_id": "4334",
+        "name": "SK SERI PERLIS",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "8QHoU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.250322,
+          6.446183
+        ]
+      },
+      "properties": {
+        "stop_id": "4443",
+        "name": "SK SUBANG GAJAH",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "tTGZM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.389861,
+          6.133811
+        ]
+      },
+      "properties": {
+        "stop_id": "4650",
+        "name": "SK SULTANAH ASMA",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "QDVqW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.382447,
+          6.193439
+        ]
+      },
+      "properties": {
+        "stop_id": "4762",
+        "name": "SK TITI GAJAH",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "4RUvT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.377889,
+          6.286014
+        ]
+      },
+      "properties": {
+        "stop_id": "4745",
+        "name": "SK TUNJANG",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "E39Jd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.205081,
+          6.400095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4517",
+        "name": "SK UTAN AJI CP",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "ffhCl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.362375,
+          6.334094
+        ]
+      },
+      "properties": {
+        "stop_id": "4729",
+        "name": "SM SAINS KUBANG PASU",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "g64JP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.270042,
+          6.433167
+        ]
+      },
+      "properties": {
+        "stop_id": "4405",
+        "name": "SMA ALMAAD",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "RkxrD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.400394,
+          6.203242
+        ]
+      },
+      "properties": {
+        "stop_id": "4759",
+        "name": "SMA TITI BESI",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "EActp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.231222,
+          6.256571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4597",
+        "name": "SMK AYER ITAM",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "47dPr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.428544,
+          6.423117
+        ]
+      },
+      "properties": {
+        "stop_id": "4692",
+        "name": "SMK CHANGLOON",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "ITBJ1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.261822,
+          6.524322
+        ]
+      },
+      "properties": {
+        "stop_id": "4363",
+        "name": "SMK DATO JAAFAR HASSAN",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "72EMn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.267129,
+          6.439043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "6356",
+        "name": "SMK DATO SHEIKH AHMAD",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "HQ8lg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.267162,
+          6.439054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4401",
+        "name": "SMK DATO SHEIKH AHMAD cp",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "DNi7D"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.400058,
+          6.154522
+        ]
+      },
+      "properties": {
+        "stop_id": "4653",
+        "name": "SMK HUTAN KAMPONG",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "RPRgz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.26829,
+          6.214522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4603",
+        "name": "SMK JERLUN",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "um6Hl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.419933,
+          6.260586
+        ]
+      },
+      "properties": {
+        "stop_id": "4670",
+        "name": "SMK JITRA",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "PgPZ5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.408431,
+          6.185822
+        ]
+      },
+      "properties": {
+        "stop_id": "4658",
+        "name": "SMK KEPALA BATAS",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "yfR9t"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.13654,
+          6.395686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4536",
+        "name": "SMK KUALA PERLIS cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "ob02v"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.420277,
+          6.294693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4674",
+        "name": "SMK PAYA KEMUNTING",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "BJJeZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.393631,
+          6.280583
+        ]
+      },
+      "properties": {
+        "stop_id": "4749",
+        "name": "SMK PULAU NYIOR",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "GrPBa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2200036,
+          6.6370545
+        ]
+      },
+      "properties": {
+        "stop_id": "6448",
+        "name": "SMK RAJA PUAN MUDA TENGKU FAUZIAH",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "WWREo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2207,
+          6.637456
+        ]
+      },
+      "properties": {
+        "stop_id": "4498",
+        "name": "SMK RAJA PUAN MUDA TENGKU FAUZIAH 1",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "GkxDl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.219963,
+          6.637157
+        ]
+      },
+      "properties": {
+        "stop_id": "6449",
+        "name": "SMK RAJA PUAN MUDA TENGKU FAUZIAH OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "R1WU8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2207,
+          6.637456
+        ]
+      },
+      "properties": {
+        "stop_id": "4494",
+        "name": "SMK RAJA PUAN MUDA TENKU FAUZIAH",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "KZ98l"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.206367,
+          6.29783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4581",
+        "name": "SMK SANGLANG",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "DndWN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.206383,
+          6.297819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4593",
+        "name": "SMK SANGLANG 1",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "hYmNR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.420119,
+          6.272586
+        ]
+      },
+      "properties": {
+        "stop_id": "4671",
+        "name": "SMK SERI MAHAWANGSA",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "a8pTS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.419589,
+          6.229033
+        ]
+      },
+      "properties": {
+        "stop_id": "4666",
+        "name": "SMK SULTAN ABDUL HALIM",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "pYleg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.379989,
+          6.119353
+        ]
+      },
+      "properties": {
+        "stop_id": "4648",
+        "name": "SMK SULTANAH ASMAA",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "QxBpY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.182551,
+          6.395025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4568",
+        "name": "SMK SYED ALWI",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "QxvAn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.201275,
+          6.446172
+        ]
+      },
+      "properties": {
+        "stop_id": "4431",
+        "name": "SMK SYED HASSAN",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "jgGC2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.238922,
+          6.445203
+        ]
+      },
+      "properties": {
+        "stop_id": "4440",
+        "name": "SMK SYED SIRAJUDDIN CP",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "y66oK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.310364,
+          6.440958
+        ]
+      },
+      "properties": {
+        "stop_id": "4453",
+        "name": "SMK TENGKU BUDRIAH",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "AEaGI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.213222,
+          6.436051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMK Tuanku Lailatul Shahreen",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "hm23J"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.417278,
+          6.219378
+        ]
+      },
+      "properties": {
+        "stop_id": "4664",
+        "name": "SMK TUNKU ANUM TUNKU ABDUL RAHMAN",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "heY90"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.346122,
+          6.140225
+        ]
+      },
+      "properties": {
+        "stop_id": "4610",
+        "name": "SMKA KEDAH",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "56mJU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.133047,
+          6.410486
+        ]
+      },
+      "properties": {
+        "stop_id": "4545",
+        "name": "SRJK (C) KHAY BENG cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "HzkDh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.196241,
+          6.429338
+        ]
+      },
+      "properties": {
+        "stop_id": "4511",
+        "name": "SRJK (C) KHOO AIK cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "9Cy5u"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.373167,
+          6.13456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "route_ids": [
+          "30270"
+        ],
+        "name": "STADIUM DARUL AMAN"
+      },
+      "id": "zpADO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.369894,
+          6.137431
+        ]
+      },
+      "properties": {
+        "stop_id": "4773",
+        "name": "STADIUM DARUL AMAN 1",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "YP2oV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.369356,
+          6.135397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "STADIUM DARUL AMAN 2",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "yPaEg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.369894,
+          6.137431
+        ]
+      },
+      "properties": {
+        "stop_id": "4772",
+        "name": "STADIUM DARUL AMAN CP",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "IwxOp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.131113,
+          6.397616
+        ]
+      },
+      "properties": {
+        "stop_id": "4538",
+        "name": "STESEN BAS KUALA PERLIS cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "TK3on"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.369318,
+          6.14368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "STOR JKR",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "ZlIU6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.183149,
+          6.415549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4332",
+        "name": "TABUNG HAJI SERIAB",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "cPidC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.392326,
+          6.139883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4652",
+        "route_ids": [
+          "30270"
+        ],
+        "name": "TAMAN BAYU BARU"
+      },
+      "id": "LW9p8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.217272,
+          6.430593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Desa Pulai",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "UaXvq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3021935,
+          6.6544962
+        ]
+      },
+      "properties": {
+        "stop_id": "6412",
+        "name": "TAMAN KASTAM 2",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "Du98p"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3024714,
+          6.6546571
+        ]
+      },
+      "properties": {
+        "stop_id": "6413",
+        "name": "TAMAN KASTAM 2 OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "u1sDJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2947768,
+          6.6565912
+        ]
+      },
+      "properties": {
+        "stop_id": "6414",
+        "name": "TAMAN KASTAM 3",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "MnbHO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2948837,
+          6.6566481
+        ]
+      },
+      "properties": {
+        "stop_id": "6415",
+        "name": "TAMAN KASTAM 3 OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "ZLaEL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.397347,
+          6.14719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4652",
+        "route_ids": [
+          "30270"
+        ],
+        "name": "TAMAN PULAI JAYA"
+      },
+      "id": "lR9Ue"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.394504,
+          6.144232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4652",
+        "route_ids": [
+          "30270"
+        ],
+        "name": "TAMAN PUSPA KENCANA"
+      },
+      "id": "3zoLo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.272356,
+          6.461147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "TAMAN RIA 1",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "dRzsW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.27515,
+          6.4425047
+        ]
+      },
+      "properties": {
+        "stop_id": "6393",
+        "name": "TAMAN SRI WANG",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "RwV9U"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.373245,
+          6.132674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "route_ids": [
+          "30270",
+          "30271"
+        ],
+        "name": "TAMAN YAKIN/TAMAN DARUL AMAN"
+      },
+      "id": "i1b9B"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.419733,
+          6.239975
+        ]
+      },
+      "properties": {
+        "stop_id": "4668",
+        "name": "TANAH MERAH",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "gbKGy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.354252,
+          6.140447
+        ]
+      },
+      "properties": {
+        "stop_id": "15611",
+        "name": "TERMINAL BAS SHAHAB PERDANA",
+        "route_ids": [
+          "30270",
+          "30271",
+          "30272"
+        ],
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "OEJVA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.191981,
+          6.434569
+        ]
+      },
+      "properties": {
+        "stop_id": "6343",
+        "name": "TERMINAL BUKIT LAGI",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "sqTDT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.192604,
+          6.435254
+        ]
+      },
+      "properties": {
+        "stop_id": "4278",
+        "name": "TERMINAL BUKIT LAGI KANGAR",
+        "route_ids": [
+          "30268",
+          "30271",
+          "30272",
+          "30273",
+          "30274",
+          "30275"
+        ],
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "ekC3Q"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.429078,
+          6.431356
+        ]
+      },
+      "properties": {
+        "stop_id": "4694",
+        "name": "TERMINAL CHANGLOON",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "j3lXr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.428217,
+          6.431172
+        ]
+      },
+      "properties": {
+        "stop_id": "4283",
+        "name": "TERMINAL CHANGLUN",
+        "route_ids": [
+          "30275"
+        ],
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "lAWSz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.321099,
+          6.661312
+        ]
+      },
+      "properties": {
+        "stop_id": "4284",
+        "name": "TERMINAL PADANG BESAR PERLIS",
+        "route_ids": [
+          "30274"
+        ],
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "oKzbx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.395094,
+          6.202461
+        ]
+      },
+      "properties": {
+        "stop_id": "4760",
+        "name": "TITI GAJAH",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "V9bsq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.259798,
+          6.636573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4488",
+        "name": "TITI TINGGI",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "xYMeJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.301028,
+          6.394933
+        ]
+      },
+      "properties": {
+        "stop_id": "4714",
+        "name": "TMN BAHAGIA 2",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "4dp54"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.228671,
+          6.53651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4475",
+        "name": "TMN BESERI PAYA",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "KiN22"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.140114,
+          6.405308
+        ]
+      },
+      "properties": {
+        "stop_id": "4543",
+        "name": "TMN BUKIT KUBU",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "nqjgN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.270919,
+          6.439031
+        ]
+      },
+      "properties": {
+        "stop_id": "6357",
+        "name": "TMN BUNGA KEKWA",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "G9cL1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.402967,
+          6.165447
+        ]
+      },
+      "properties": {
+        "stop_id": "4655",
+        "name": "TMN CAHAYA",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "MSWfu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.386567,
+          6.196806
+        ]
+      },
+      "properties": {
+        "stop_id": "4761",
+        "name": "TMN DESA MUTIARA",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "alCNo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.411408,
+          6.269992
+        ]
+      },
+      "properties": {
+        "stop_id": "4754",
+        "name": "TMN DESA SINARAN",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "CKCIs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.251447,
+          6.515217
+        ]
+      },
+      "properties": {
+        "stop_id": "4361",
+        "name": "TMN EMAS",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "q9TaI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.399272,
+          6.151581
+        ]
+      },
+      "properties": {
+        "stop_id": "4652",
+        "name": "TMN HIDAYAH",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "Kilme"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.143114,
+          6.393072
+        ]
+      },
+      "properties": {
+        "stop_id": "4534",
+        "name": "TMN INDERA INDAH cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "lSSIp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.414833,
+          6.210133
+        ]
+      },
+      "properties": {
+        "stop_id": "4662",
+        "name": "TMN JALAI JAYA",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "UfWJu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.391103,
+          6.136975
+        ]
+      },
+      "properties": {
+        "stop_id": "4651",
+        "name": "TMN JAYA",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "fPtOM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.280672,
+          6.411431
+        ]
+      },
+      "properties": {
+        "stop_id": "4708",
+        "name": "TMN JELEMPOK JAYA",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "g0khe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.423553,
+          6.370317
+        ]
+      },
+      "properties": {
+        "stop_id": "4690",
+        "name": "TMN JELUTUNG",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "yIJQu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.301267,
+          6.654644
+        ]
+      },
+      "properties": {
+        "stop_id": "4510",
+        "name": "TMN KASTAM 2",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "K33Ua"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.294103,
+          6.656911
+        ]
+      },
+      "properties": {
+        "stop_id": "4509",
+        "name": "TMN KASTAM 3",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "jh7ag"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.197219,
+          6.424467
+        ]
+      },
+      "properties": {
+        "stop_id": "4512",
+        "name": "TMN KEMAJUAN",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "5G4eg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.275586,
+          6.426981
+        ]
+      },
+      "properties": {
+        "stop_id": "4447",
+        "name": "TMN KENANGA",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "qULAR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.402264,
+          6.162761
+        ]
+      },
+      "properties": {
+        "stop_id": "4654",
+        "name": "TMN MAWAR",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "qAMnn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.197217,
+          6.396257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4523",
+        "name": "TMN MEDAN SEPAKAT cp",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "Msxux"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.225345,
+          6.445477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4461",
+        "name": "TMN MIDIN INDAH",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "yz9WS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.271147,
+          6.458058
+        ]
+      },
+      "properties": {
+        "stop_id": "6358",
+        "name": "TMN PADANG NYU 1",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "j0rqP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.364119,
+          6.143228
+        ]
+      },
+      "properties": {
+        "stop_id": "4642",
+        "name": "TMN PANDAN",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "cBBDM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.448047,
+          6.438842
+        ]
+      },
+      "properties": {
+        "stop_id": "4696",
+        "name": "TMN PENAGA",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "SUf2R"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.221969,
+          6.445883
+        ]
+      },
+      "properties": {
+        "stop_id": "4436",
+        "name": "TMN PROGRESIF",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "UM6VP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.357272,
+          6.142672
+        ]
+      },
+      "properties": {
+        "stop_id": "4640",
+        "name": "TMN RAKYAT",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "kHmF2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.225348,
+          6.445508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "6351",
+        "name": "TMN REPOH INDAH / TMN MIDIN INDAH",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "hFSyn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.225349,
+          6.445526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4705",
+        "name": "TMN REPOH INDAH/TMN MIDIN INDAH",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "FX1vm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.368158,
+          6.1701
+        ]
+      },
+      "properties": {
+        "stop_id": "4766",
+        "name": "TMN SELADANG",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "w45fa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.343242,
+          6.136133
+        ]
+      },
+      "properties": {
+        "stop_id": "4609",
+        "name": "TMN SELAYANG",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "s8DY2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.207832,
+          6.445778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4433",
+        "name": "TMN SENA",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "ETZef"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.207822,
+          6.44581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "6349",
+        "name": "TMN SENA / TMN SIMPANG TIGA",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "Nw9wH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.204986,
+          6.447153
+        ]
+      },
+      "properties": {
+        "stop_id": "4432",
+        "name": "TMN SENA INDAH",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "YIHc8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.20528,
+          6.448303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4309",
+        "name": "TMN SENA INDAH/ TMN NORMA",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "4tAxs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.424456,
+          6.435625
+        ]
+      },
+      "properties": {
+        "stop_id": "4460",
+        "name": "TMN SERI CHANGLUN",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "fe9Ow"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.199148,
+          6.415027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4513",
+        "name": "TMN SERI MEDAN/TMN CAHAYA",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "Zlx8x"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.436442,
+          6.433747
+        ]
+      },
+      "properties": {
+        "stop_id": "4695",
+        "name": "TMN SERI MENANTI",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "oY5nV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.386275,
+          6.284206
+        ]
+      },
+      "properties": {
+        "stop_id": "4747",
+        "name": "TMN SERI NYIOR",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "Ox21x"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.217211,
+          6.44645
+        ]
+      },
+      "properties": {
+        "stop_id": "4704",
+        "name": "TMN SERI PILIHAN",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "JouHE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.419789,
+          6.245478
+        ]
+      },
+      "properties": {
+        "stop_id": "4757",
+        "name": "TMN SRI CEMPAKA",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "Za2el"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.478111,
+          6.443944
+        ]
+      },
+      "properties": {
+        "stop_id": "4698",
+        "name": "TMN UNIVERSITI",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "0465I"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.419675,
+          6.234389
+        ]
+      },
+      "properties": {
+        "stop_id": "4667",
+        "name": "TNB TANJUNG SEPAH",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "QJISi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.231914,
+          6.561332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4480",
+        "name": "TOK MEK",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "UKYyF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.206529,
+          6.305605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4579",
+        "name": "TOK PULAU",
+        "route_ids": [
+          "30272"
+        ]
+      },
+      "id": "kUhQn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.412431,
+          6.201186
+        ]
+      },
+      "properties": {
+        "stop_id": "4660",
+        "name": "TUDM KEPALA BATAS",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "r7A3H"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.370745,
+          6.122223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "route_ids": [
+          "30270",
+          "30271"
+        ],
+        "name": "UKIR MALL"
+      },
+      "id": "QbDyW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.255906,
+          6.650152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4503",
+        "name": "UNCITI 1",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "fLHOg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2560298,
+          6.6501718
+        ]
+      },
+      "properties": {
+        "stop_id": "6436",
+        "name": "UNICITI",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "Zurym"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.258226,
+          6.651143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "UNICITI 2",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "UfEZK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2557363,
+          6.6500951
+        ]
+      },
+      "properties": {
+        "stop_id": "6437",
+        "name": "UNICITI OPP",
+        "route_ids": [
+          "30381"
+        ]
+      },
+      "id": "z9Z9T"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.255547,
+          6.648281
+        ]
+      },
+      "properties": {
+        "stop_id": "4489",
+        "name": "UNICITI PERLIS",
+        "route_ids": [
+          "30274"
+        ]
+      },
+      "id": "imNZg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.23305,
+          6.437003
+        ]
+      },
+      "properties": {
+        "stop_id": "4353",
+        "name": "UNIMAP BIO PROSES",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "MVZga"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.229769,
+          6.445239
+        ]
+      },
+      "properties": {
+        "stop_id": "4437",
+        "name": "UNIMAP JEJAWI/SK JEJAWI",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "S3VES"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.135456,
+          6.411525
+        ]
+      },
+      "properties": {
+        "stop_id": "4544",
+        "name": "UNIMAP KG WAI",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "pia93"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.355778,
+          6.462162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4457",
+        "name": "UNIMAP PAUH/KOLEH KEDIAMAN ABD RAZAK",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "HlrlL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.351017,
+          6.463187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4456",
+        "name": "UNIMAP PAUH/SEK KEJURUTERAAN",
+        "route_ids": [
+          "30275"
+        ]
+      },
+      "id": "ezK5f"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.245041,
+          6.445694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "6353",
+        "name": "UNIVERSITI MALAYSIA PERLIS JEJAWI",
+        "route_ids": [
+          "30380"
+        ]
+      },
+      "id": "ltrgu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.245035,
+          6.445725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4442",
+        "name": "UNIVERSITI MALAYSIA PERLIS JEJAWI KANGAR",
+        "route_ids": [
+          "30271",
+          "30275"
+        ]
+      },
+      "id": "D53Qk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.276364,
+          6.544678
+        ]
+      },
+      "properties": {
+        "stop_id": "4365",
+        "name": "UPP CHUPING",
+        "route_ids": [
+          "30268"
+        ]
+      },
+      "id": "Vylkh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.1439,
+          6.392834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "stop_id": "4533",
+        "name": "WARUNG KAK ETA",
+        "route_ids": [
+          "30273"
+        ]
+      },
+      "id": "ecKCR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3386,
+          6.357369
+        ]
+      },
+      "properties": {
+        "stop_id": "4722",
+        "name": "WAT BOONYARAM",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "fyDxE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.370197,
+          6.144878
+        ]
+      },
+      "properties": {
+        "stop_id": "4771",
+        "name": "WISMA DARUL AMAN",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "Hq8TT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.367611,
+          6.128514
+        ]
+      },
+      "properties": {
+        "stop_id": "4776",
+        "name": "WISMA KANCUT",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "48Wnw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.367611,
+          6.128514
+        ]
+      },
+      "properties": {
+        "stop_id": "4777",
+        "name": "WISMA KANCUT 1",
+        "route_ids": [
+          "30271"
+        ]
+      },
+      "id": "gxyjg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.371432,
+          6.123303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "WISMA PKNK",
+        "route_ids": [
+          "30270",
+          "30271"
+        ]
+      },
+      "id": "mFLxG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.419731,
+          6.241803
+        ]
+      },
+      "properties": {
+        "stop_id": "4669",
+        "name": "YAWATA",
+        "route_ids": [
+          "30270"
+        ]
+      },
+      "id": "3Mlfn"
+    }
+  ]
+}

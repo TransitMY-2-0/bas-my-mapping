@@ -1,0 +1,6990 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.073339,
+          4.590617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "ACS"
+      },
+      "id": "SUVVS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.116992,
+          4.615144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "AEON Ipoh"
+      },
+      "id": "4VDB3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.11972,
+          4.614844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Aeon Jalan Jambu"
+      },
+      "id": "OArHg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.119012,
+          4.612374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Aeon Kinta CIty"
+      },
+      "id": "9Ui9E"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.120996,
+          4.679535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Aeon Klebang"
+      },
+      "id": "9FnHs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.071931,
+          4.543573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "AEON Station 18"
+      },
+      "id": "uYtWQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.998183,
+          4.432033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Akademi"
+      },
+      "id": "VDUBD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.951416,
+          4.807407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Akedemi Memandu"
+      },
+      "id": "ob2at"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.094904,
+          4.603359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Angsana Mall"
+      },
+      "id": "mWok0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.042343,
+          4.47145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Arked Batu Gajah"
+      },
+      "id": "Qq3zL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.105955,
+          4.61192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Balai Bomba Jalan Dato' Lau Pak Kkuan"
+      },
+      "id": "ly8gF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.128619,
+          4.64175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Balai Polis Bercham"
+      },
+      "id": "SBnzy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.06367,
+          4.59233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Balai Polis Kampung Baru Buntung"
+      },
+      "id": "T3bwQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.103069,
+          4.649038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Balai Polis Kg Tawas"
+      },
+      "id": "9qVjv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.156831,
+          4.388143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Balai Polis Kuala Dipang/Jeram"
+      },
+      "id": "pmhL6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.035423,
+          4.538811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Balai Polis Lahat"
+      },
+      "id": "eouau"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.080726,
+          4.5745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Balai Polis Pasir Puteh"
+      },
+      "id": "CCpGh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.051576,
+          4.605754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Balai Polis Taman Rishah"
+      },
+      "id": "tJEBT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.147711,
+          4.325282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bandar Baru Kampar 1"
+      },
+      "id": "KywN8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.143334,
+          4.326063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bandar Baru Kampar 2"
+      },
+      "id": "vvjcE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.142653,
+          4.658742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bandar Baru Putra"
+      },
+      "id": "NzP6p"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.140909,
+          4.614604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bandar Baru Tambun"
+      },
+      "id": "Ko2OE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.080039,
+          4.59798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bangunan Seri Kinta"
+      },
+      "id": "Xkzor"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.076837,
+          4.60268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bank Islam Ipoh"
+      },
+      "id": "cS8VP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.151206,
+          4.632441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Batu 6"
+      },
+      "id": "L7JHS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.122059,
+          4.707582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Batu 9"
+      },
+      "id": "zl31D"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.121436,
+          4.725492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Batu 10"
+      },
+      "id": "c1CcN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.155999,
+          4.365833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Batu 20"
+      },
+      "id": "moKGp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.987358,
+          4.840212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Batu 25"
+      },
+      "id": "ii00c"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.974054,
+          4.826389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Batu 26"
+      },
+      "id": "9NvlN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.04185,
+          4.47469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Batu Gajah"
+      },
+      "id": "MHf0k"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.156316,
+          4.35704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Batu Karang 1"
+      },
+      "id": "1GptX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.156498,
+          4.351541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Batu Karang 2"
+      },
+      "id": "eV4a8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.025392,
+          4.465139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bemban"
+      },
+      "id": "vaH1P"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.012667,
+          4.468043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bemban Raya"
+      },
+      "id": "SClz7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.121275,
+          4.722659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "BHP Chemor"
+      },
+      "id": "7v1oe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.150836,
+          4.628062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "BHP Jalan Tambun"
+      },
+      "id": "wbcj4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.941428,
+          4.777429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "BHP Kuala Kangsar"
+      },
+      "id": "5lVKd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.969237,
+          4.355002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Billion Seri Iskandar"
+      },
+      "id": "yeAnC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.057589,
+          4.615882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Billion Silibin"
+      },
+      "id": "3lCX6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.057589,
+          4.615882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Billion Silibin"
+      },
+      "id": "Oz7Se"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.044784,
+          4.556752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bukit Merah"
+      },
+      "id": "qLiRB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.093638,
+          4.605696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Caltex Jalan Kamaruddin Isa"
+      },
+      "id": "b2GMg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.065091,
+          4.592197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Caltex Sungai Pari"
+      },
+      "id": "pD5dg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.103154,
+          4.574511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Carsem M Site"
+      },
+      "id": "uRwyl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.149935,
+          4.700132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Changkat Kinding"
+      },
+      "id": "Lh62F"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.121501,
+          4.729245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Chemor"
+      },
+      "id": "JXx6w"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.119967,
+          4.734271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Chemor Ria"
+      },
+      "id": "D3cye"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.068887,
+          4.602257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Church of Lady Lourdes"
+      },
+      "id": "OvNwv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.057825,
+          4.617095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "CIMB Bank Silibin"
+      },
+      "id": "Ah0Ih"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.095349,
+          4.598407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "CIMB Greentown"
+      },
+      "id": "pTHIa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.049623,
+          4.567195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "CIMB Jalan Lee Ming Hin"
+      },
+      "id": "u2crH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.074707,
+          4.596934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Dato Sagor"
+      },
+      "id": "skprj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.132181,
+          4.591317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Desa Cempaka"
+      },
+      "id": "XJwtd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.075581,
+          4.541891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Desa Pakatan 1"
+      },
+      "id": "jqKEd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.079497,
+          4.542918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Desa Pakatan 2"
+      },
+      "id": "LVGf5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.082397,
+          4.5433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Desa Pakatan 3"
+      },
+      "id": "1fjGc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.062229,
+          4.54053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Desa Pengkalan Mutiara"
+      },
+      "id": "iHKVH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.045315,
+          4.584574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Desa Rishah"
+      },
+      "id": "Wz6Wc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.046297,
+          4.588157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Dewan Buntong 3"
+      },
+      "id": "vDExw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.129553,
+          4.594295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Dewan Komuniti 1 Malaysia"
+      },
+      "id": "m106w"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.110257,
+          4.781229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Dovenby Estate 1"
+      },
+      "id": "a9EGA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.10853,
+          4.784501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Dovenby Estate 2"
+      },
+      "id": "yc2h1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.109763,
+          4.715206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Econsave Chepor"
+      },
+      "id": "A2pAs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.064654,
+          4.640777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Econsave Jelapang"
+      },
+      "id": "t11t8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.121174,
+          4.687127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Econsave Klebang"
+      },
+      "id": "I5BOH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.086474,
+          4.592119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Eu Yan Sang Jalan Sultan Iskandar"
+      },
+      "id": "Ig7o5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.146381,
+          4.620012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Extreme Park Tambun"
+      },
+      "id": "FD0Py"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.066963,
+          4.583339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Falim"
+      },
+      "id": "7X6vj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.096044,
+          4.602664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Flat Ashby Road"
+      },
+      "id": "THv38"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.056146,
+          4.591317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Flat Harmoni"
+      },
+      "id": "X0Boh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.134118,
+          4.634649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Flat Pakatan 1"
+      },
+      "id": "h1iIh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.134311,
+          4.635735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Flat Pakatan 2"
+      },
+      "id": "LzlRN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.137406,
+          4.639344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Flat Perpaduan"
+      },
+      "id": "6Czoc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.121506,
+          4.633623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Flat Taman Mewah"
+      },
+      "id": "wKRbT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.056881,
+          4.611059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Gayathiri Silibin"
+      },
+      "id": "kDZZT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.084752,
+          4.596654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Gerbang Malam/Pekan Baru 2"
+      },
+      "id": "W1iCJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.126779,
+          4.641509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Gereja Methodist Tamil Bercham"
+      },
+      "id": "REFai"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.149393,
+          4.622541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Giant Tambun"
+      },
+      "id": "jGEUY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.158403,
+          4.643854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Giatmara Tambun"
+      },
+      "id": "dQxZh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.088695,
+          4.634256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Gunung Lang"
+      },
+      "id": "jHGoC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.113148,
+          4.570334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Gunung Rapat"
+      },
+      "id": "cHmoz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.111228,
+          4.573928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hentian Bas Medan Gopeng"
+      },
+      "id": "4mPCF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.961555,
+          4.353408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        },
+        "name": "Hentian UiTM"
+      },
+      "id": "0z9Lr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.980663,
+          4.387276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hentian UTP"
+      },
+      "id": "iBYLB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.11225,
+          4.612468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hospital Fatimah"
+      },
+      "id": "diODh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.120074,
+          4.603097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hospital P"
+      },
+      "id": "kOtoZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.09073,
+          4.604377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hospital Raja Permaisuri Bainun"
+      },
+      "id": "OTePp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.057653,
+          4.82641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hospital Sungai Siput"
+      },
+      "id": "2aSpI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.076925,
+          4.596186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hotel Bajet One Stop"
+      },
+      "id": "IefIX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.122954,
+          4.699731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hovid"
+      },
+      "id": "0awAT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.081235,
+          4.594108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hugh Low Street"
+      },
+      "id": "jKYvu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.079245,
+          4.566586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hyundai"
+      },
+      "id": "158e4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.110289,
+          4.658256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "IG"
+      },
+      "id": "bLa6Z"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.094711,
+          4.589165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Impiana Hotel"
+      },
+      "id": "Ps7zZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.158314,
+          4.480637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "India Temple"
+      },
+      "id": "GwQ1M"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.003762,
+          4.467813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Industri Bemban 1"
+      },
+      "id": "slPL5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.00078,
+          4.467695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Industri Bemban 2"
+      },
+      "id": "jqcrD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.043116,
+          4.550001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Industri Bukit Merah"
+      },
+      "id": "17Oga"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.115836,
+          4.60985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ipoh Garden Church"
+      },
+      "id": "UQjF0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.125143,
+          4.614994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ipoh Garden East"
+      },
+      "id": "FyQBG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.118218,
+          4.607254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ipoh Garden Square"
+      },
+      "id": "lVRzd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.086074,
+          4.631874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ipoh Grove"
+      },
+      "id": "nUyZ0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.123714,
+          4.576535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ipoh Jaya"
+      },
+      "id": "yOVy8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.092731,
+          4.592964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ipoh Learning & Training Institute Sdn Bhd/Perpustakaan"
+      },
+      "id": "i8fka"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.081026,
+          4.62252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ipoh Motor"
+      },
+      "id": "Tqzjf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.08955,
+          4.595023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ipoh Parade"
+      },
+      "id": "NYhwh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.089647,
+          4.597643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ipoh Parade"
+      },
+      "id": "ZyAWD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.119942,
+          4.595737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Jabatan Kimia Malaysia"
+      },
+      "id": "WjuGo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.077244,
+          4.604787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "JKR Ipoh"
+      },
+      "id": "cAfMN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.116332,
+          4.619667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "JPJ Negeri Perak"
+      },
+      "id": "4vHEp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.027334,
+          4.512564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kaca"
+      },
+      "id": "2a1nz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.083515,
+          4.594948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kamdar Jalan Raja Musa Aziz"
+      },
+      "id": "lo2GM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.155983,
+          4.336623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampar Jaya 1"
+      },
+      "id": "ir1E3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.155946,
+          4.335034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampar Jaya 2"
+      },
+      "id": "SsfHr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.042397,
+          4.548025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Baru Bukit Merah"
+      },
+      "id": "XQkxz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.135931,
+          4.60916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Baru Tambun"
+      },
+      "id": "bMo1v"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.047322,
+          4.592403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Buntong 3"
+      },
+      "id": "MgcEc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.167828,
+          4.440173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Gunung Mesah Hilir 1"
+      },
+      "id": "EDLsf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.166723,
+          4.434884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Gunung Mesah Hilir 2"
+      },
+      "id": "EIPZc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.16668,
+          4.446966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Gunung Mesah Hulu"
+      },
+      "id": "OnJi6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.165414,
+          4.431033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Gunung Panjang 1"
+      },
+      "id": "afBGp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.161326,
+          4.417196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Gunung Panjang 2"
+      },
+      "id": "GVS8r"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.062948,
+          4.633767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Jelapang Lama"
+      },
+      "id": "3l0UH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.157145,
+          4.396439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Jeram"
+      },
+      "id": "1Cm5D"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.135663,
+          4.518249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Kepayang"
+      },
+      "id": "PYCh9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.099839,
+          4.609112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Kepayang"
+      },
+      "id": "fJVJb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.156069,
+          4.378173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Kuala Dipang"
+      },
+      "id": "NQEbG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.165945,
+          4.45079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Lawan Kuda"
+      },
+      "id": "f9uWV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.070056,
+          4.59568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Lumpur"
+      },
+      "id": "klIbO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.060612,
+          4.62421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Manjoi"
+      },
+      "id": "oaZYc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.159229,
+          4.651802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Melayu Batu 8"
+      },
+      "id": "0MJYu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.155844,
+          4.369438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Nyor"
+      },
+      "id": "0eVBi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.155785,
+          4.372016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Pasir"
+      },
+      "id": "OzvwC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.072105,
+          4.542405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Pengkalan Pegoh 1"
+      },
+      "id": "yR91e"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.074455,
+          4.541421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Pengkalan Pegoh 2"
+      },
+      "id": "9eoHZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.164663,
+          4.457699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Pulai"
+      },
+      "id": "EWJml"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.12105,
+          4.543025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Sengat"
+      },
+      "id": "DoLVF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.038932,
+          4.480637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Seri Indah"
+      },
+      "id": "jXv9X"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.109683,
+          4.616481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Simee"
+      },
+      "id": "x7unT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.07041,
+          4.59883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Teli"
+      },
+      "id": "jIPBh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.157619,
+          4.401627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Tengah"
+      },
+      "id": "SgmTu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.159183,
+          4.655277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Tersusun Batu 8"
+      },
+      "id": "pZ2fi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.138592,
+          4.72716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Tersusun Tanah Hitam"
+      },
+      "id": "ZF1i4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.122064,
+          4.636917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Tersusun Tasek 1"
+      },
+      "id": "v42H3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.122338,
+          4.638804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kampung Tersusun Tasek 2"
+      },
+      "id": "EUJbQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.118668,
+          4.740034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kanthan 1"
+      },
+      "id": "nsoTz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.117992,
+          4.743851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kanthan 2"
+      },
+      "id": "t3hDm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.117188,
+          4.74893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kanthan 3",
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "cZttc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.119183,
+          4.737617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kanthan Baru"
+      },
+      "id": "Fmvyk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.131645,
+          4.650898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kawasan Industri Ringan Bercham"
+      },
+      "id": "pvJiS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.042236,
+          4.579366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kawasan Perindustrian Chadan Raya"
+      },
+      "id": "GQuCW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.056634,
+          4.535196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kawasan Perindustrian Lahat 1"
+      },
+      "id": "dkIPI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.055454,
+          4.527132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kawasan Perindustrian Lahat 2"
+      },
+      "id": "NK1UH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.078939,
+          4.529902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kawasan Perindustrian Pengkalan Pegoh 1"
+      },
+      "id": "6UhQV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.074101,
+          4.529752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kawasan Perindustrian Pengkalan Pegoh 2"
+      },
+      "id": "iOYde"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.065046,
+          4.61524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kedai Cik Wan Jalan Madrasah"
+      },
+      "id": "gi1jb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.066518,
+          4.591662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kedai Gas Sungai Pari"
+      },
+      "id": "mUA70"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.03655,
+          4.469952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kelab Golf Kinta"
+      },
+      "id": "8qT8Q"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.040101,
+          4.472819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "KFC Batu Gajah"
+      },
+      "id": "ic0H8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.107736,
+          4.612165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "KFC Jalan Dato' Lau Pak Khuan"
+      },
+      "id": "SbaFL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.061612,
+          4.609249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "KFC Silibin"
+      },
+      "id": "MuTVr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.072969,
+          4.819242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kg Bahagia"
+      },
+      "id": "K41L6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.107135,
+          4.713629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kg Baru Kuala Kuang"
+      },
+      "id": "qOcDx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.096932,
+          4.80613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kg Muhibbah"
+      },
+      "id": "DCjd4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.10588,
+          4.790617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kg Rimba Panjang"
+      },
+      "id": "ujlmM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.064456,
+          4.616823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kg Sungai Tapah 1"
+      },
+      "id": "Tt8tB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.06378,
+          4.618994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kg Sungai Tapah 2"
+      },
+      "id": "gJXKh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.064531,
+          4.578746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kia Falim"
+      },
+      "id": "MuuAh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.069402,
+          4.649562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kilang Carsem"
+      },
+      "id": "0NiyR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.069592,
+          4.652508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kilang FT Hose & Hose Sdn Bhd"
+      },
+      "id": "yoGUa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.984569,
+          4.839143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kilang Kicap Tamin"
+      },
+      "id": "axl4v"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.129944,
+          4.723477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kilang Kin Heng Timber Industries Sdn Bhd"
+      },
+      "id": "J1909"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.069332,
+          4.646421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kilang MAPA"
+      },
+      "id": "FBO5A"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.944582,
+          4.790194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kilang Minyak Afiat"
+      },
+      "id": "Adp1T"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.115214,
+          4.766197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kilang Simen"
+      },
+      "id": "J5aei"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.060714,
+          4.627372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kilang Yeo's"
+      },
+      "id": "VKHt8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.120803,
+          4.676445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klebang Jaya"
+      },
+      "id": "sQnpx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.121023,
+          4.683614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klebang Restu"
+      },
+      "id": "UYxKC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.135201,
+          4.639804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klinik 1 Malaysia Bercham"
+      },
+      "id": "sqSoD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.163397,
+          4.420598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klinik Desa Gunung Panjang"
+      },
+      "id": "UvHaU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.086377,
+          4.601888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klinik Greentown"
+      },
+      "id": "zMbTP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.052707,
+          4.584146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klinik Kesihatan Buntong"
+      },
+      "id": "uF9Rb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.12959,
+          4.530466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klinik Kesihatan Desa Simpang Pulai"
+      },
+      "id": "w3NX7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.165368,
+          4.453886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klinik Kesihatan Gopeng"
+      },
+      "id": "k40LI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.057315,
+          4.614513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klinik Kesihatan Jelapang"
+      },
+      "id": "33txv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.115246,
+          4.617101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klinik Kesihatan Kampung Simee"
+      },
+      "id": "60RWN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.080369,
+          4.815602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klinik Kesihatan Sungai Siput"
+      },
+      "id": "9Bbn0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.136339,
+          4.727364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klinik Kesihatan Tanah Hitam"
+      },
+      "id": "eeJrK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.158097,
+          4.665738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klinik Kesihatan Tanjong Rambutan"
+      },
+      "id": "fXYYa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.993892,
+          4.424502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Klinik Kesihatan Tronoh"
+      },
+      "id": "zaaLM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.979247,
+          4.833263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kolam Air"
+      },
+      "id": "muxnA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.15336,
+          4.48875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kolej Kemas"
+      },
+      "id": "JfxFc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.072097,
+          4.60604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kolej Maxwell"
+      },
+      "id": "3gg7l"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.130465,
+          4.640969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kompleks Sukan Ping Pong Dan Badminton Bercham"
+      },
+      "id": "RCuXf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.102639,
+          4.582219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kondo Raya Ria"
+      },
+      "id": "Es4h9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.163459,
+          4.463074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kopisan"
+      },
+      "id": "C0sHH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.096181,
+          4.594253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "KPJ Ipoh"
+      },
+      "id": "X6ycj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.049966,
+          4.459799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "KTM Batu Gajah"
+      },
+      "id": "UeQZT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.043068,
+          4.465871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kuan Ti Temple"
+      },
+      "id": "QAsQC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.068559,
+          4.592884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kuarters KTM Sungai Pari"
+      },
+      "id": "zLJr3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.158724,
+          4.4108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kuboi"
+      },
+      "id": "5VoCT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.037542,
+          4.540533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lahat"
+      },
+      "id": "8tVzV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.032269,
+          4.531057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lahat Rima"
+      },
+      "id": "qAoFd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.110906,
+          4.545335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lapangan Siber"
+      },
+      "id": "ak4Ms"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.098536,
+          4.570051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lapangan Terbang Sultan Azlan Shah"
+      },
+      "id": "OIHyx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.104297,
+          4.578042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lip Soon Car/Poh Thai Motor"
+      },
+      "id": "idr1b"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.9497,
+          4.804879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Loji Air Kota Lama 1"
+      },
+      "id": "5djlJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.948219,
+          4.801639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Loji Air Kota Lama 2"
+      },
+      "id": "42JOS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.086375,
+          4.699959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Maahad Al Ummah"
+      },
+      "id": "rB6Jw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.059837,
+          4.59899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Magnum Taman Pertama"
+      },
+      "id": "TqqiH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.087244,
+          4.534084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Al Hidayah"
+      },
+      "id": "3ArdI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.053458,
+          4.586831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Al-Ansar Taman Mas"
+      },
+      "id": "r65jd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.063114,
+          4.620614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Ar-Rahman"
+      },
+      "id": "HePYc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.012582,
+          4.494179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Hasni Pusing"
+      },
+      "id": "Kxb07"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.94528,
+          4.792808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Hidayatul Ummah"
+      },
+      "id": "aU08N"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.068052,
+          4.821941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid India Sungai Siput"
+      },
+      "id": "3YQJb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.077089,
+          4.59006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Jamek"
+      },
+      "id": "9hzi8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.157933,
+          4.405801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Jamek Jeram"
+      },
+      "id": "mQE7P"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.947404,
+          4.798598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Kota Lama"
+      },
+      "id": "jQIjB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.068634,
+          4.535383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Pengkalan Pegoh"
+      },
+      "id": "IjJvg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.12635,
+          4.589066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Sultan Azlan Shah"
+      },
+      "id": "2QmHH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.12554,
+          4.571126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Sultan Yusuff"
+      },
+      "id": "DXURg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.042858,
+          4.469513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Toh Puan Besar Hatijah"
+      },
+      "id": "JCpfk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.127581,
+          4.577794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Maybank Ampang"
+      },
+      "id": "zsoDZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.041635,
+          4.471749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Maybank Batu Gajah"
+      },
+      "id": "nZTfM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.092503,
+          4.597964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Maybank Greentown"
+      },
+      "id": "J6Zk7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.062433,
+          4.607588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Maybank Silibin"
+      },
+      "id": "EbaoA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.075335,
+          4.818018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Maybank Sungai Siput"
+      },
+      "id": "k4cjf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.15112,
+          4.625811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "McDonald's Tambun"
+      },
+      "id": "aIgRV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.156487,
+          4.383907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Medan Cahaya Kampung Kuala Dipang"
+      },
+      "id": "2edty"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.072706,
+          4.59391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Medan Kidd",
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "l11Ba"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.033331,
+          4.533664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Medan Lahat Baru"
+      },
+      "id": "xKiTB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.082373,
+          4.538429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Medan Pengkalan Impian"
+      },
+      "id": "qBeup"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.08307,
+          4.540415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Medan Pengkalan Ria"
+      },
+      "id": "y1QiA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.083848,
+          4.596103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Medan Selera Taman Kanak-Kanak"
+      },
+      "id": "dnDL0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.052353,
+          4.581815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Medan Selera Taman Mas"
+      },
+      "id": "ZhX38"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.152947,
+          4.661688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Monex Timber"
+      },
+      "id": "kYM4c"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.077368,
+          4.58825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Old Town"
+      },
+      "id": "MlpIL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.11351,
+          4.571575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Old Town Gunung Rapat"
+      },
+      "id": "a5BBs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.956792,
+          4.814543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Padang Ampang 1"
+      },
+      "id": "FSph3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.952672,
+          4.808567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Padang Ampang 2"
+      },
+      "id": "bQYgC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.061135,
+          4.601749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Padang Taman Pertama"
+      },
+      "id": "hOTO0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.016766,
+          4.506388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Papan"
+      },
+      "id": "Amwz3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.13282,
+          4.587087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Awam Ampang Baru"
+      },
+      "id": "qHeKf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.081219,
+          4.595466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Ayam Amanjaya Ipoh"
+      },
+      "id": "eajOo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.128217,
+          4.639237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Bercham"
+      },
+      "id": "fxm2a"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.070158,
+          4.540351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Bina 1"
+      },
+      "id": "0LXGO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.070053,
+          4.541522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Bina 2"
+      },
+      "id": "OFAqS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.06147,
+          4.574909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Borong 1"
+      },
+      "id": "UcAqK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.060314,
+          4.57404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Borong 2"
+      },
+      "id": "KOTUp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.115729,
+          4.572233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Gunung Rapat"
+      },
+      "id": "yTXwM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.063667,
+          4.637419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Jelapang"
+      },
+      "id": "TJt2F"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.05583,
+          4.598252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Malam Taman Pertama"
+      },
+      "id": "qwzFp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.047571,
+          4.565067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Menglembu"
+      },
+      "id": "4XH6t"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.082263,
+          4.581855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Pasir Puteh"
+      },
+      "id": "uIKoY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.083392,
+          4.54265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pasar Pengkalan"
+      },
+      "id": "kc4hI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.10066,
+          4.581901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "PCSH"
+      },
+      "id": "9NzGt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.941278,
+          4.774911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pejabat Agama Islam"
+      },
+      "id": "Sd9BH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.062616,
+          4.605562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pejabat Kebajikan Masyarakat Daerah Kinta"
+      },
+      "id": "Qe2ur"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.110482,
+          4.612366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pejabat Pos Jalan Dato' Lau Pak Khuan"
+      },
+      "id": "8qjbJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.079792,
+          4.606081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pejabat SUK Negeri Perak"
+      },
+      "id": "Kq38C"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.084143,
+          4.599226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pekan Baru/The Store"
+      },
+      "id": "Scz6T"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.121235,
+          4.720831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pekan Chemor"
+      },
+      "id": "1gsxs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.966501,
+          4.834567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pekan Karai"
+      },
+      "id": "n0uN0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.079234,
+          4.594662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pekan Lama"
+      },
+      "id": "yUG3p"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.010656,
+          4.495724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pekan Pusing"
+      },
+      "id": "DdJGI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.12083,
+          4.583545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pekan Razaki"
+      },
+      "id": "n0MHz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.071799,
+          4.8199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pekan Sungai Siput 1"
+      },
+      "id": "UVdCx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.070421,
+          4.820683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pekan Sungai Siput 2"
+      },
+      "id": "l6smf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.139289,
+          4.609954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pekan Tambun"
+      },
+      "id": "uapEI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.156525,
+          4.670048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        },
+        "name": "Pekan Tanjong Rambutan"
+      },
+      "id": "YQYtq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.084476,
+          4.535528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pengkalan Pegoh Seberang"
+      },
+      "id": "fawHZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.054724,
+          4.521987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        },
+        "name": "Pengkalan Sentosa"
+      },
+      "id": "kkoat"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.098573,
+          4.644771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Perak Tong"
+      },
+      "id": "r4k9a"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.101148,
+          4.646803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Percetakan Nasional"
+      },
+      "id": "6KsPN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.125395,
+          4.639563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Persatuan Pemulihan Sultan Azlan Shah"
+      },
+      "id": "p2Mjz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.127155,
+          4.643862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Perumahan Pegawai Kastam Bercham"
+      },
+      "id": "bQPeW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.097602,
+          4.607551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Perumahan Pegawai Kastam Fair Park"
+      },
+      "id": "npzou"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.064777,
+          4.606209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Perumahan Pegawai Kastam Silibin"
+      },
+      "id": "lTa0T"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.124011,
+          4.605059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Perumahan Pegawai Tentera Jalan Tambun"
+      },
+      "id": "ZLRbS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.127316,
+          4.579858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Petron Ampang"
+      },
+      "id": "3rs1E"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.121351,
+          4.625504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Petron Bercham"
+      },
+      "id": "DwYjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.081855,
+          4.583791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Petron Pasir Puteh"
+      },
+      "id": "sQw20"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.059628,
+          4.621833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Petronas Jelapang"
+      },
+      "id": "94weD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.117413,
+          4.669762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Petronas Klebang"
+      },
+      "id": "U9fjr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.075072,
+          4.554217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Petronas Pasir Puteh"
+      },
+      "id": "4yGZ7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.038787,
+          4.580238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "PHL"
+      },
+      "id": "kCoE9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.113819,
+          4.772131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pintu Masuk Kilang Simen"
+      },
+      "id": "Oq7Bc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.125138,
+          4.590253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Politeknik Ungku Omar"
+      },
+      "id": "QbSsc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.030391,
+          4.526116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Prima Matel"
+      },
+      "id": "LpjNE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.116759,
+          4.552319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Proton Pulai Heights"
+      },
+      "id": "ijkkI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.121898,
+          4.716233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Public Bank Chemor"
+      },
+      "id": "oeGUS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.082051,
+          4.597418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Public Bank Jalan Sultan Idris Shah/Pekan Baru 1"
+      },
+      "id": "pcO6m"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.977745,
+          4.831392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pusat Ikan Hiasan"
+      },
+      "id": "aUcU9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.148344,
+          4.638034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pusat Komersil Jalan Perpaduan"
+      },
+      "id": "2YS3L"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.126581,
+          4.606375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pusat Latihan Askar Wataniah"
+      },
+      "id": "eMiEy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.150088,
+          4.49451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Puspakom Gopeng"
+      },
+      "id": "GNh1h"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.094491,
+          4.583104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Quest International University Perak"
+      },
+      "id": "jFIdF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.120975,
+          4.718278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Restoran East Ocean"
+      },
+      "id": "cfu5U"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.120739,
+          4.582772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Restoran Sahul"
+      },
+      "id": "OGW3d"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.087632,
+          4.597327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "RHB Greenhill"
+      },
+      "id": "x6WX8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.09212,
+          4.590587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Royal China"
+      },
+      "id": "E57j1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.113022,
+          4.588344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Royal Perak Golf Club"
+      },
+      "id": "Osmf8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.151193,
+          4.492585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "RTC Gopeng"
+      },
+      "id": "vY4Bd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.084524,
+          4.598399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ruby Jalan Raja Musa Aziz"
+      },
+      "id": "Qg10t"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.942951,
+          4.785944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Rumah Anak Yatim Kota Lama"
+      },
+      "id": "z3nD0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.10655,
+          4.615999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Rumah Orang-Orang Tua Simee"
+      },
+      "id": "aoALV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.996306,
+          4.840362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Salak Baru 1"
+      },
+      "id": "w7PBP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.992615,
+          4.840746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Salak Baru 2"
+      },
+      "id": "wATx2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.012152,
+          4.838897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Salak Lama 1"
+      },
+      "id": "hvmxX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.008902,
+          4.839506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Salak Lama 2"
+      },
+      "id": "n9IkC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.005222,
+          4.840287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Salak Lama 3"
+      },
+      "id": "KONzi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.113435,
+          4.566131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sam Poh Tong Temple"
+      },
+      "id": "tQjwd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.086503,
+          4.696002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sekolah Agama Kg Chepor"
+      },
+      "id": "IusvY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.062331,
+          4.611797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sekolah Agama Rakyat Ittihadiah"
+      },
+      "id": "dBDWC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.118105,
+          4.593213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sekolah Izzuddin Shah"
+      },
+      "id": "oLrTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.084068,
+          4.812993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sekolah Methodist"
+      },
+      "id": "PQDTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.101717,
+          4.596253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sekolah Raja Perempuan Ta'ayah"
+      },
+      "id": "hvjp1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.081391,
+          4.577649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sen Heng Pasir Puteh"
+      },
+      "id": "6deVY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.124666,
+          4.538613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sengat"
+      },
+      "id": "HkOYq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.098841,
+          4.537709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        },
+        "name": "Seri Margosa"
+      },
+      "id": "N3OEd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.105295,
+          4.53503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Seri Tecoma"
+      },
+      "id": "wFJKt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.065078,
+          4.82377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sg Buluh Sungai Siput"
+      },
+      "id": "c0073"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.08693,
+          4.585069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Shell Jalan Raja Permaisuri Bainun"
+      },
+      "id": "JTxRz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.144933,
+          4.616005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Shell Tambun"
+      },
+      "id": "l9CrS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.067111,
+          4.643279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sidney Industries Sdn Bhd"
+      },
+      "id": "XRlri"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.13043,
+          4.528455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Simpang Cameron Highlands"
+      },
+      "id": "IGSOu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.160371,
+          4.414725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Simpang Gunung Tempurung"
+      },
+      "id": "H698Y"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.165017,
+          4.425187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Simpang Jalan Imam Ibrahim"
+      },
+      "id": "gLIcs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.943525,
+          4.779797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Simpang Jambatan Sayong"
+      },
+      "id": "sIgau"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.058195,
+          4.591119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Simpang Kampung Tersusun Sungai Pari"
+      },
+      "id": "S6XpE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.968357,
+          4.823075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Simpang Karai"
+      },
+      "id": "u47Ze"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.082268,
+          4.586125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Simpang Pasir Puteh"
+      },
+      "id": "jesqW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.128936,
+          4.532255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Simpang Pulai"
+      },
+      "id": "RjDi0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.965117,
+          4.817494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Simpang Sayong"
+      },
+      "id": "LYMmN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.998629,
+          4.467979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SJK Siputeh"
+      },
+      "id": "rxz0P"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.105649,
+          4.540811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SJKC Bandar Seri Botani"
+      },
+      "id": "yESGm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.12981,
+          4.637098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SJKC Bercham"
+      },
+      "id": "j8gI7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.102135,
+          4.796753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SJKC Kg Rimba Panjang"
+      },
+      "id": "H9u8t"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.067964,
+          4.592034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SJKT Kerajaan Ipoh"
+      },
+      "id": "6d2dE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.061113,
+          4.591691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SJKT Methodist Buntong"
+      },
+      "id": "Wfai7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.070571,
+          4.597579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SJKT Perak Sangeetha"
+      },
+      "id": "OjBrR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.112612,
+          4.617283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SJKT Simee"
+      },
+      "id": "Y1g18"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.045991,
+          4.586745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Buntong"
+      },
+      "id": "mYCwX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.084425,
+          4.587045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Methodist Girls School"
+      },
+      "id": "TmzT4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.953755,
+          4.809444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Padang Ampang"
+      },
+      "id": "hjdAj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.144471,
+          4.638601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Pakatan Jaya"
+      },
+      "id": "MJpA2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.085286,
+          4.531001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Pengkalan"
+      },
+      "id": "ZTvEN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.069981,
+          4.531838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Pengkalan Pegoh 1"
+      },
+      "id": "MBbFl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.069281,
+          4.533011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Pengkalan Pegoh 2"
+      },
+      "id": "ts6Pq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.127294,
+          4.583954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Seri Ampang"
+      },
+      "id": "x2qpE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.094845,
+          4.60707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Seri Kepayang Fair Park"
+      },
+      "id": "239c2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.9837,
+          4.838261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Setia Jaya"
+      },
+      "id": "XGHdT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.098595,
+          4.603482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Sri Kinta Ipoh"
+      },
+      "id": "fYAur"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.078108,
+          4.602439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK St. Michael"
+      },
+      "id": "jNtee"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.156689,
+          4.667013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Tanjong Rambutan"
+      },
+      "id": "TVEx6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.122563,
+          4.63997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SK Tasek Dermawan"
+      },
+      "id": "vh0ml"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.041555,
+          4.545613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SLEI"
+      },
+      "id": "XefvE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.133045,
+          4.571869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SM Gunung Rapat"
+      },
+      "id": "kgkEp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.076735,
+          4.599947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SM St. Michael"
+      },
+      "id": "tnJ7J"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.096202,
+          4.582938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMJK Perempuan Perak"
+      },
+      "id": "KrCW4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.086557,
+          4.811176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMJK Shin Chung"
+      },
+      "id": "bi3OV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.078875,
+          4.613192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMJKC Yuk Choy"
+      },
+      "id": "SZn7c"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.088271,
+          4.604059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMK Anderson"
+      },
+      "id": "YulOZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.082094,
+          4.580834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMK Jalan Pasir Puteh"
+      },
+      "id": "Srmyf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.15469,
+          4.327615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMK Kampar"
+      },
+      "id": "jBR1V"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.079154,
+          4.565853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMK Pinji"
+      },
+      "id": "HgGCI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.125736,
+          4.576928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMK Seri Ampang"
+      },
+      "id": "6i7yO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.113631,
+          4.549217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMK Shen Jai"
+      },
+      "id": "4isUi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.033406,
+          4.484916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMK Sultan Yusuf"
+      },
+      "id": "FSJC2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.15991,
+          4.685785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMK Tanjong Rambutan"
+      },
+      "id": "Vqzg0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.075847,
+          4.558279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SPBK"
+      },
+      "id": "clFo2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.133705,
+          4.521709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SR Islam Pintar"
+      },
+      "id": "3IIzH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.093735,
+          4.640494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sri Desa"
+      },
+      "id": "GpWv3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.122391,
+          4.693644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sri Klebang"
+      },
+      "id": "jOtQo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.08197,
+          4.589675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sri Maju"
+      },
+      "id": "dcY3k"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.140512,
+          4.510741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sri Raia"
+      },
+      "id": "t9N24"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.118802,
+          4.573666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SRJKC Gunung Rapat"
+      },
+      "id": "2dLqR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.054955,
+          4.593231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SRKJC Yuh Hua"
+      },
+      "id": "WbmKR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.103315,
+          4.611449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Stadium Negeri Perak"
+      },
+      "id": "dtItc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.120211,
+          4.597456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "STAR"
+      },
+      "id": "apHkx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.167729,
+          4.474551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Stesen Bas Gopeng"
+      },
+      "id": "le5d9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.939561,
+          4.771051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Stesen Bas Kuala Kangsar",
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "3Xikw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.074144,
+          4.596359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Stesen KTM Ipoh"
+      },
+      "id": "gnjy9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.074224,
+          4.596073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Stesen KTM Ipoh Jalan Sultan Iskandar"
+      },
+      "id": "daBcv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.96015,
+          4.818146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Stesen Penguatkuasa JPJ"
+      },
+      "id": "4jkb2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.112515,
+          4.560869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Symphony Suites Hotel"
+      },
+      "id": "g23tf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.015983,
+          4.493622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tai Tung"
+      },
+      "id": "cZI32"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.08274,
+          4.530356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taiko/Taman Pinji Mewah"
+      },
+      "id": "6XoZp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.08248,
+          4.591189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taiwa"
+      },
+      "id": "wu2BY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.026711,
+          4.467941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Anggerik"
+      },
+      "id": "Xdj23"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.154092,
+          4.693243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Bahagia"
+      },
+      "id": "HUMZ4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.024855,
+          4.466444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Bemban Awam"
+      },
+      "id": "H0mT8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.15634,
+          4.665351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Berjaya Baru"
+      },
+      "id": "LW7Mp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.128104,
+          4.534046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Bersatu"
+      },
+      "id": "3HAOn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.078194,
+          4.563808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Boon Pak"
+      },
+      "id": "v1Pn3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.049419,
+          4.600338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Buntong Jaya"
+      },
+      "id": "btDmd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.124127,
+          4.594066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Cempaka 2"
+      },
+      "id": "UWwbT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.126232,
+          4.595119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Cempaka 2"
+      },
+      "id": "xlwlv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.122327,
+          4.704867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Chemor Indah"
+      },
+      "id": "HaqVb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.093541,
+          4.70523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Chepor Indah"
+      },
+      "id": "ML9OF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.069297,
+          4.53737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Desa Aman"
+      },
+      "id": "Dz0vf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.128072,
+          4.633094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Desa Kenchana 1"
+      },
+      "id": "MtUOx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.131248,
+          4.632634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Desa Kenchana 2"
+      },
+      "id": "FspcU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.046227,
+          4.577633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Gelombang"
+      },
+      "id": "mFVg7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.163965,
+          4.468072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Gopeng"
+      },
+      "id": "A10U7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.134182,
+          4.579933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Gunung View"
+      },
+      "id": "ccLgQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.117502,
+          4.71785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Hartawan"
+      },
+      "id": "TXx5b"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.07615,
+          4.610626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Idris"
+      },
+      "id": "a8TsT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.162214,
+          4.661974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Indah"
+      },
+      "id": "9bDgx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.162142,
+          4.678231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Intan Jaya"
+      },
+      "id": "GDurz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.130019,
+          4.619715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Ipoh Boulevard Timur"
+      },
+      "id": "ul99y"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.131479,
+          4.620635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Ipoh Indah"
+      },
+      "id": "qL1xS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.135759,
+          4.620678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Ipoh Perdana"
+      },
+      "id": "5aHCM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.07071,
+          4.659477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Jati"
+      },
+      "id": "TR9s1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.160291,
+          4.664586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Jothi"
+      },
+      "id": "8EKxh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.042515,
+          4.585178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Kledang"
+      },
+      "id": "IsgjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.048051,
+          4.595215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Kledang Emas"
+      },
+      "id": "k5xxc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.038406,
+          4.582596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Kledang Permai"
+      },
+      "id": "3eHAa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.04803,
+          4.578136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Kledang Utara"
+      },
+      "id": "cFzyc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.977166,
+          4.364731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Maju"
+      },
+      "id": "4Rzc4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.102162,
+          4.571628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Maju Rapat"
+      },
+      "id": "vCVs2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.052847,
+          4.826742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Makmur"
+      },
+      "id": "Jy3Iu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.126833,
+          4.630452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Medan Bercham 1"
+      },
+      "id": "DVL1X"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.127166,
+          4.632527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Medan Bercham 2"
+      },
+      "id": "FzfGW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.085613,
+          4.683117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Meru Perdana"
+      },
+      "id": "dLwpi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.079358,
+          4.678808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Meru Permai"
+      },
+      "id": "LOSqq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.02794,
+          4.49043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Mewah"
+      },
+      "id": "S6zo6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.155028,
+          4.639079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Mewah/The Haven"
+      },
+      "id": "batm7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.132364,
+          4.633249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Pakatan 1"
+      },
+      "id": "njKPE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.133174,
+          4.636526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Pakatan 2"
+      },
+      "id": "Gn7V4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.131806,
+          4.636724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Pakatan 3"
+      },
+      "id": "XsuMn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.126812,
+          4.616636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Perak"
+      },
+      "id": "9WGuN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.044468,
+          4.826271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Perdana"
+      },
+      "id": "vKmD7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.154605,
+          4.635949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Perpaduan"
+      },
+      "id": "6LnYy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.151338,
+          4.637553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Perpaduan 1"
+      },
+      "id": "sJK6u"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.151617,
+          4.634152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Perpaduan 2"
+      },
+      "id": "cDf0R"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.054971,
+          4.59545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Pertama 1"
+      },
+      "id": "E0Ief"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.055003,
+          4.597391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Pertama 2"
+      },
+      "id": "yAuUf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.015242,
+          4.504778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Pusing"
+      },
+      "id": "NHPBj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.137685,
+          4.65694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Putra Indah"
+      },
+      "id": "5KaaD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.147406,
+          4.659453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Putra Permai"
+      },
+      "id": "EO4cu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.129799,
+          4.645402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Ramai"
+      },
+      "id": "ymXcl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.135545,
+          4.578831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Rapat Damai"
+      },
+      "id": "xtXQb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.129724,
+          4.571056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Rapat Setia"
+      },
+      "id": "hoEQX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.122472,
+          4.62552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Ria"
+      },
+      "id": "GQYYc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.054918,
+          4.609225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Rishah 1"
+      },
+      "id": "6jEOg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.052997,
+          4.607738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Rishah 2"
+      },
+      "id": "OG8Mc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.119387,
+          4.567901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Saikat"
+      },
+      "id": "Bq8ZQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.02522,
+          4.491376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Saujana"
+      },
+      "id": "xS00W"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.12186,
+          4.575118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Saujana"
+      },
+      "id": "Mk4Iw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.056736,
+          4.612331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Silibin"
+      },
+      "id": "dp1Gw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.996156,
+          4.464187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Siputeh"
+      },
+      "id": "JxmHy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.99695,
+          4.456849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Siputeh Permai"
+      },
+      "id": "afM70"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.113749,
+          4.556757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Soon Choon"
+      },
+      "id": "kb8A8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.124419,
+          4.626249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Sri Kurau"
+      },
+      "id": "Pl3RG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.105091,
+          4.61524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Star"
+      },
+      "id": "ds84i"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.133302,
+          4.620977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Syabas"
+      },
+      "id": "yKZEg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.159146,
+          4.656748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Tanjong Perdana"
+      },
+      "id": "kos4p"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.983721,
+          4.399653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Tasik Putra"
+      },
+      "id": "JtOpG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.112247,
+          4.559377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Taufiq"
+      },
+      "id": "F5hP6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.147577,
+          4.500441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Tekah"
+      },
+      "id": "4b3BB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          100.986296,
+          4.410393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Timah"
+      },
+      "id": "of8Au"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.050261,
+          4.603006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Tinggi"
+      },
+      "id": "fMSZk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.091321,
+          4.808792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Tun Sambanthan"
+      },
+      "id": "gDNeG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.159395,
+          4.64687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman UK Raya"
+      },
+      "id": "m1gwz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.05112,
+          4.580371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Wang"
+      },
+      "id": "c30UZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.157753,
+          4.403523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tanah Perkuburan Kampung Jeram"
+      },
+      "id": "2H5Xg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.105064,
+          4.651508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tasek"
+      },
+      "id": "shP09"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.111673,
+          4.660095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Telekom Tasek"
+      },
+      "id": "RqDdC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.14916,
+          4.31583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        },
+        "name": "Terminal 1 Kampar"
+      },
+      "id": "5W3zb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.073189,
+          4.669441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Terminal Meru Raya",
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "N5E9l"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.11935,
+          4.625704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tesco Extra Ipoh"
+      },
+      "id": "IHWqd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.118384,
+          4.61586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tesco Extra Ipoh"
+      },
+      "id": "JU7D5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.069321,
+          4.544437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tesco Station 18 1"
+      },
+      "id": "lbqlr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.068755,
+          4.547482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tesco Station 18 2"
+      },
+      "id": "ufXTp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.090333,
+          4.584441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "The Store/Econsave"
+      },
+      "id": "pSdw0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.079916,
+          4.61771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Thowlee Pottery"
+      },
+      "id": "s7R1r"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.061494,
+          4.629613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "TM Jelapang"
+      },
+      "id": "AJhbA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.058565,
+          4.610027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "TNB Silibin"
+      },
+      "id": "ZQbRW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.081707,
+          4.625223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tokong Cina"
+      },
+      "id": "Huptl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.059992,
+          4.621135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tokong Kuda"
+      },
+      "id": "ct22x"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.080613,
+          4.5715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tokong Pasir Puteh"
+      },
+      "id": "b4koL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.114441,
+          4.600926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tokong Siam"
+      },
+      "id": "4hvaj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.083767,
+          4.585617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tokong Tow Sow Keong"
+      },
+      "id": "DEmiL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.082362,
+          4.628174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Toyota"
+      },
+      "id": "DkjEI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.140834,
+          4.618047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Uplands"
+      },
+      "id": "Lh5Y2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.083035,
+          4.596113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "UTC Ipoh Perak"
+      },
+      "id": "n6wm9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.05186,
+          4.569292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Veterinar"
+      },
+      "id": "vlhEs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.085114,
+          4.600637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Waller Court"
+      },
+      "id": "zSMIe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.13283,
+          4.58436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Wira Jaya Barat 1"
+      },
+      "id": "VuUw4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.132873,
+          4.581077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Wira Jaya Barat 2"
+      },
+      "id": "93zTb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.133136,
+          4.577735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Wira Jaya Barat 3"
+      },
+      "id": "cTkQI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.131092,
+          4.577751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Wira Jaya Barat 4"
+      },
+      "id": "LWbEm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.099389,
+          4.601102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Wisma Perkeso"
+      },
+      "id": "sMnJM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          101.106161,
+          4.579796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Wisma Tiger Lane"
+      },
+      "id": "3vlgQ"
+    }
+  ]
+}
