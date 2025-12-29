@@ -1,0 +1,529 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9347503,
+          1.84783893
+        ]
+      },
+      "properties": {
+        "name": "Balai Polis Batu Pahat"
+      },
+      "id": "LYnQx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.963126,
+          1.863628
+        ]
+      },
+      "properties": {
+        "name": "BP MALL"
+      },
+      "id": "VRG23"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.984475,
+          1.870405
+        ]
+      },
+      "properties": {
+        "name": "COWBOY BATU PAHAT"
+      },
+      "id": "6mv00"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.93467,
+          1.845
+        ]
+      },
+      "properties": {
+        "name": "Dataran Batu Pahat"
+      },
+      "id": "Hki2e"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.09327,
+          1.854421
+        ]
+      },
+      "properties": {
+        "name": "FUJITSU"
+      },
+      "id": "DAUlS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.940693,
+          1.8367
+        ]
+      },
+      "properties": {
+        "name": "Hospital Sultanah Nora Ismail"
+      },
+      "id": "uPzJG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.985295,
+          1.87039
+        ]
+      },
+      "properties": {
+        "name": "IPG TUN HUSSEIN ONN"
+      },
+      "id": "DZPVZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.930972,
+          1.839744
+        ]
+      },
+      "properties": {
+        "name": "Jalan Ampuan"
+      },
+      "id": "EjzJ9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.971772,
+          1.866133
+        ]
+      },
+      "properties": {
+        "name": "JALAN KLUANG"
+      },
+      "id": "2Ma13"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.079964,
+          1.85019
+        ]
+      },
+      "properties": {
+        "name": "KKTM SRI GADING"
+      },
+      "id": "MMzZj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.109281,
+          1.863798
+        ]
+      },
+      "properties": {
+        "name": "KLINIK KESIHATAN PARIT RAJA"
+      },
+      "id": "0eNXJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.111638,
+          1.866498
+        ]
+      },
+      "properties": {
+        "name": "KOMPLEKS NIAGA PARIT RAJA",
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "w4buh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.926456,
+          1.84249
+        ]
+      },
+      "properties": {
+        "name": "Majlis Perbandaran Batu Pahat"
+      },
+      "id": "4NUXr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.947326,
+          1.855783
+        ]
+      },
+      "properties": {
+        "name": "MASJID JAMEK SULTAN ISMAIL"
+      },
+      "id": "aklLU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.963271,
+          1.863377
+        ]
+      },
+      "properties": {
+        "name": "OPPOSITE BP MALL"
+      },
+      "id": "m1dkP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.050847,
+          1.850545
+        ]
+      },
+      "properties": {
+        "name": "OPPOSITE SMK SRI GADING"
+      },
+      "id": "QB7y9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.087279,
+          1.852395
+        ]
+      },
+      "properties": {
+        "name": "OPPOSITE UTHM"
+      },
+      "id": "kqY33"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.95021,
+          1.860019
+        ]
+      },
+      "properties": {
+        "name": "PANTAI HOSPITAL BATU PAHAT"
+      },
+      "id": "F7FWu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.04283,
+          1.851738
+        ]
+      },
+      "properties": {
+        "name": "PARIT BUDIN"
+      },
+      "id": "1hAeq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.978733,
+          1.868675
+        ]
+      },
+      "properties": {
+        "name": "PARIT HAJI MOHAMAD NOR"
+      },
+      "id": "iimKt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.083613,
+          1.851147
+        ]
+      },
+      "properties": {
+        "name": "PARIT JELUTONG"
+      },
+      "id": "775dS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.09866,
+          1.856788
+        ]
+      },
+      "properties": {
+        "name": "PARIT SEMPADAN"
+      },
+      "id": "1nhWd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.020247,
+          1.855045
+        ]
+      },
+      "properties": {
+        "name": "PARIT SENGKUANG"
+      },
+      "id": "lkHm2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.924727,
+          1.847476
+        ]
+      },
+      "properties": {
+        "name": "Pasar Awam Batu Pahat"
+      },
+      "id": "ijZRS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.109186,
+          1.864047
+        ]
+      },
+      "properties": {
+        "name": "PETRON PARIT RAJA"
+      },
+      "id": "l4uHp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.938378,
+          1.838793
+        ]
+      },
+      "properties": {
+        "name": "SMK Dato Syed Esa"
+      },
+      "id": "S8ppF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.051292,
+          1.850939
+        ]
+      },
+      "properties": {
+        "name": "SMK SRI GADING"
+      },
+      "id": "yRSEY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.029376,
+          1.853894
+        ]
+      },
+      "properties": {
+        "name": "SRI GADING"
+      },
+      "id": "FqIPH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.004134,
+          1.860606
+        ]
+      },
+      "properties": {
+        "name": "TAMAN MUTIARA"
+      },
+      "id": "wu8w1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.937627,
+          1.836914
+        ]
+      },
+      "properties": {
+        "name": "Taman Soga (Jalan Daun Payung)"
+      },
+      "id": "VO9xS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.934384,
+          1.838186
+        ]
+      },
+      "properties": {
+        "name": "Taman Soga (Jalan Tukas)"
+      },
+      "id": "IRa46"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.072515,
+          1.848141
+        ]
+      },
+      "properties": {
+        "name": "Taman Universiti Batu Pahat"
+      },
+      "id": "an8Lb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.934823,
+          1.843048
+        ]
+      },
+      "properties": {
+        "name": "Tasik Y ~ Tmn Rekreasi Tasik Y"
+      },
+      "id": "crPhn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9266698,
+          1.85336979
+        ]
+      },
+      "properties": {
+        "name": "Terminal Bas Express Batu Pahat"
+      },
+      "id": "8OHXg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9266698,
+          1.85336979
+        ]
+      },
+      "properties": {
+        "name": "Terminal Bas Express Batu Pahat",
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        }
+      },
+      "id": "MyG3c"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.934814,
+          1.857738
+        ]
+      },
+      "properties": {
+        "name": "THE SUMMIT BATU PAHAT"
+      },
+      "id": "UZDGj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.088313,
+          1.853133
+        ]
+      },
+      "properties": {
+        "name": "UTHM"
+      },
+      "id": "ET3GJ"
+    }
+  ]
+}
