@@ -1,0 +1,344 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.072257,
+          5.978025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Centre Point"
+      },
+      "id": "yyUPB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.088251,
+          5.961211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Damai Plaza"
+      },
+      "id": "PW5Us"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.08967,
+          5.957316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "E-West"
+      },
+      "id": "CPeOq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.07182,
+          5.956425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hospital QE 1"
+      },
+      "id": "dtb15"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.092822,
+          5.96804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hospital QE 2"
+      },
+      "id": "vx9fQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.078794,
+          5.988834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Jesselton Mall"
+      },
+      "id": "YUYUl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.079427,
+          5.989845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Jesselton Point Ferry Terminal"
+      },
+      "id": "odRgz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.080797,
+          5.990579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Jesselton Quay"
+      },
+      "id": "BNRrG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.06825,
+          5.972241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconClass": "LargeCircle"
+        },
+        "name": "KK Sentral"
+      },
+      "id": "DeD7b"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.093516,
+          5.967861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "KPJ"
+      },
+      "id": "X3Smn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.082069,
+          5.943691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lido"
+      },
+      "id": "YzcgV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.068856,
+          5.960034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Masjid Negeri"
+      },
+      "id": "702yk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.090751,
+          5.996226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sabah Energy"
+      },
+      "id": "dopu6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.093452,
+          5.991379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sabah Trade Centre"
+      },
+      "id": "G4G6q"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.07193,
+          5.96569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sacred Heart"
+      },
+      "id": "5TOXl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.073153,
+          5.969403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sadong Jaya"
+      },
+      "id": "MlRUs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.074937,
+          5.982728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Segama"
+      },
+      "id": "6bru3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.085644,
+          5.997079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SICC"
+      },
+      "id": "hOwQJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.094434,
+          5.979513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Stadium Hoki"
+      },
+      "id": "qr6Cn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.094466,
+          5.983851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Stadium Likas"
+      },
+      "id": "eglip"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.078507,
+          5.952746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Fortuna"
+      },
+      "id": "PJfZP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.092722,
+          5.955499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taman Kinabalu"
+      },
+      "id": "fRc96"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.070256,
+          5.963486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "UTC"
+      },
+      "id": "cTV0o"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          116.07517,
+          5.95743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Vetro 11"
+      },
+      "id": "exIrd"
+    }
+  ]
+}
