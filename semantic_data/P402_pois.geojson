@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Econsave Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6562943,
+          1.61091906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Baru Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6445895,
+          1.60023797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Jaya Sepakat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6479775,
+          1.5909101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Taman Senai Jaya,Jalan Seelong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6668544,
+          1.61003524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RHB Bank Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6449268,
+          1.59985814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6455489,
+          1.59657098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Bintang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6588495,
+          1.61549737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Bintang Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6568279,
+          1.60916309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Desa Idaman,Jalan Idaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6814126,
+          1.6313656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Scientax Utama, Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6500697,
+          1.58409719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Senai Jaya,Jalan Seelong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6667909,
+          1.61024839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TM Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6570526,
+          1.61014653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6585261,
+          1.61441613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Aman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.647695,
+          1.5905465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Econsave Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6562943,
+          1.61091906
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg. Tg. Sepang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.275947,
+          1.38168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Sg. Rengit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2237545,
+          1.35010414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas Sungai Rengit,Jalan Teluk Ramunia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.01904,
+          1.67492513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Baharu,Jalan Teluk Ramunia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2737275,
+          1.37382567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Dato Ghani Othman,Jalan Teluk Rumania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2655753,
+          1.36877099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Teluk Ramunia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2522597,
+          1.36923982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK ( C ) Peay Min,Jalan Teluk Ramunia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2470907,
+          1.37216247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Simon,Jalan Teluk Ramunia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2436965,
+          1.3714956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Ramunia Jaya,Jalan Teluk Ramunia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2425972,
+          1.37089915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Teluk Ramunia,Jalan Teluk Ramunia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2396378,
+          1.3684839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Changi,Jalan Teluk Ramunia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2338579,
+          1.3623682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KFC Sungai Rengit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2270243,
+          1.35368524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayu Damai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.271411,
+          1.387284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opp SK Teluk Ramunia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.239545,
+          1.368142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas Sungai Rengit,Jalan Teluk Ramunia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.01904,
+          1.67492513
+        ]
+      }
+    }
+  ]
+}

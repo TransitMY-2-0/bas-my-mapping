@@ -1,0 +1,486 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aeon Taman Universiti (ke Terminal)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62989,
+          1.5421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flat Kangkar Pulai "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.588847,
+          1.553389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Kangkar Pulai,  berhampiran PETRONAS Kangkar Pulai (Opposite)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.594961,
+          1.557969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Kangkar Pulai,  berhampiran PETRONAS Kangkar Pulai "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.594863,
+          1.558086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Kangkar Pulai, Kampung Melayu Kangkar Pulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.593538,
+          1.557175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Pulai Harmoni 3 Bandar Baru Kangkar Pulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.585846,
+          1.553361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Teratai, Tmn Teratai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.61303,
+          1.56777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jln Palas 5, Tmn Teratai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.61225,
+          1.57053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Nesa Stop 2,Jalan Skudai - Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.609196,
+          1.566596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Nesa,Jalan Skudai - Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6057,
+          1.566672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Kampung Nesa,Jalan Skudai - Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.605894,
+          1.566427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Taman Sri Pulai,Jalan Skudai - Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.617699,
+          1.562369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persiaran Pulai Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.580685,
+          1.551609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Kangkar Pulai 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.580463,
+          1.552774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skudai - Pontian Highway, Simpang Pesisir Pulai Jaya Utara 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.59925,
+          1.56661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sri Pulai Perdana, Jalan Pulai Jaya 1/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.598051,
+          1.565478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pulai Flora,Jalan Pulai "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.624239,
+          1.550604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pulai Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.583377,
+          1.543625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pulai Indah (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.580503,
+          1.545158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pulai Perdana,Jalan Skudai - Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.611741,
+          1.565574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pulai Utama,Jalan Perdagangan "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.624927,
+          1.544573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Pulai (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.618714,
+          1.567248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Teratai,Jalan Rotan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.614071,
+          1.57152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Taman Universiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62847,
+          1.53844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn Pulai Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.61677,
+          1.56112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn Sri Pulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.618712,
+          1.567252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U Mall, Tmn Pulai Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62244,
+          1.54722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Teratai Stop 2,Jalan Rotan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6170834,
+          1.57138837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Kangkar Pulai, Jalan Persiaran Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.589277,
+          1.553831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Teratai, Tmn Teratai (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.61303,
+          1.56777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jln Palas 5, Tmn Teratai (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.612302,
+          1.570531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Teratai,Jalan Rotan (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.615652,
+          1.571393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Teratai Stop 2,Jalan Rotan (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6170834,
+          1.57138837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn Sri Pulai (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.61893,
+          1.56858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Pulai (Bus Stop) (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.61887,
+          1.563592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aeon Taman Universiti (ke Terminal) (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62989,
+          1.5421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Taman Universiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62847,
+          1.53844
+        ]
+      }
+    }
+  ]
+}

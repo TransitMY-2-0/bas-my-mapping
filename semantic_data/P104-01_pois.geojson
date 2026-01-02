@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dewan Serbaguna JKR Daerah Johor Bahru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Bandar UDA 2 (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.721039,
+          1.493977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Taman Padi Malinja,Jalan Padi Mahsuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72012,
+          1.49474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Baru UDA,Jalan Padi Mahsuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7174637,
+          1.49660801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Pangsapuri Titiwangsa,Jalan Padi Mahsuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7125321,
+          1.49757296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Baru UDA,Jalan Skudai Kanan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7100142,
+          1.49623444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angsana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.70766,
+          1.49601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Kempas,Jalan Persiaran Tanjung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7078542,
+          1.50767709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Kempas Baru Permai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.710308,
+          1.515117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Taman Damansara Alif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.725914,
+          1.515296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Bandar Baru UDA,Jalan Padi Mahsuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7175859,
+          1.49677772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Padi Malinja,Jalan Padi Mahsuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7199885,
+          1.495049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Komplek Perkidmatan Veterinar,Jalan Padi Mahsuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7225959,
+          1.49308891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R&R Boutique Hotel,Jalan Padi Murni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7226199,
+          1.48814899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R&R Boutique Hotel,Jalan Padi Murni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7226199,
+          1.48814899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Suria Muafakat, Jalan Tun Abdul Razak (Susur 6)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7256905,
+          1.4881272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    }
+  ]
+}

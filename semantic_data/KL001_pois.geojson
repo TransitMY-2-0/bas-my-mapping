@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perpustakaan Awam Kluang,Jalan Hashim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3170491,
+          2.02768079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Kluang,Jalan Dato Ibrahim Majid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3016438,
+          2.02878014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Permata,Jalan Berlian 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2941271,
+          2.02165786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kluang Barat,Jalan Revertex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2967112,
+          2.0137158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kluang Barat,Jalan Yule Catto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2929537,
+          2.01168014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Desa,Jalan 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2850391,
+          2.01016736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Desa Kluang, Jalan Batu Pahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2876703,
+          2.01434361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Berlian Biru,Jalan Batu Pahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2945681,
+          2.01633233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Intan,Jalan Batu Pahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2978473,
+          2.0175827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laman Niaga Taman Intan, Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3005368,
+          2.01718145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Seri Intan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3039237,
+          2.01163377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Muhibbah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3193271,
+          2.0046321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Mengkibol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3223722,
+          2.00722671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sunrise, Mengkibol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3215963,
+          2.01074388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas dan Teksi Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3228136,
+          2.03617833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas dan Teksi Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3228136,
+          2.03617833
+        ]
+      }
+    }
+  ]
+}

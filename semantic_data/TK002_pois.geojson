@@ -1,0 +1,1110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Maharani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5648548,
+          2.04669694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Feri Bandar Maharani Bandar Diraja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5668693,
+          2.04804211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ST,Jalan KesangTK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5619225,
+          2.05535488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Kesang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5589801,
+          2.05899086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kenangan Tun Syed Nasir,Jalan Kesang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5552538,
+          2.06576233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Parit Bunga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5504131,
+          2.07463886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Rawang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5539559,
+          2.1096329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Cerah Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.554768,
+          2.11357203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Rawang, Sg. Mati (*pinda)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5561395,
+          2.12181968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungai Sedok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5568907,
+          2.12564731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Muhibbah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5583528,
+          2.13386145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Bestari,Jalan Muar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5613493,
+          2.14284466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balai Polis Sungai Mati, Bukit Gambir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5635194,
+          2.1465205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sek Men (Persendirian) Pei Hwa,Bukit Gambir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5649625,
+          2.14892336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK tunku Mahmud Iskandar (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5727434,
+          2.15597182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Awam Serom,Bukit Gambir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5787945,
+          2.15916879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman KSM Serom 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.588053,
+          2.16602845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Serom Hilir 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.593326,
+          2.17026045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unit Selenggara Jalan JKR Daerah Tangkak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6117589,
+          2.18402625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Parit Pulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6170884,
+          2.18727409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Cahaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6198083,
+          2.18895889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Wira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6463964,
+          2.20530202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Parit Rabu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6477798,
+          2.20670115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OPP Dewan Serbaguna Bukit Gambir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6485472,
+          2.20755756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar FAMA Bukit Gambir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6570391,
+          2.21459063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6612983,
+          2.21711235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Bukit Gambir (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6649523,
+          2.21869416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawasan Perindustrian Gresik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7014284,
+          2.21393818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surau Kampung Panchor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7091106,
+          2.19474407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Melayu Baru Panchor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7089131,
+          2.17207325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Jawa Panchor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.714201,
+          2.17218774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Kota Raja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7157794,
+          2.17122482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UTHM Pagoh I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.726761,
+          2.152146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UTHM Pagoh II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.729757,
+          2.146837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agro Bazar R&amp;R Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7388345,
+          2.13691722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Pekan Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7675987,
+          2.14573359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Pekan Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7706458,
+          2.14831004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Sultan Alauddin Riayat Shah 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7764935,
+          2.15257038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Jamek Pekan Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7703145,
+          2.14783822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seri Pekembar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7378646,
+          2.13588207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UTHM Pagoh III"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.726026,
+          2.152358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Panchor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7063236,
+          2.1740414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "No 2 kanan Kampung Gaung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6881309,
+          2.22566168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JPS Sawahring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6802271,
+          2.22406994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Desa Sawahring Ledang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6770908,
+          2.22291288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sungai Ekor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6721697,
+          2.22137483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sungai Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6686043,
+          2.21990967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Bukit Gambir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6653773,
+          2.2186804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jabatan Bomba Bukit Gambir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6600113,
+          2.21619045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Melor Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6568677,
+          2.21417476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pekan Bukit Gambir (*pinda)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6522258,
+          2.21111103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dewan Serbaguna Bukit Gambir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6488424,
+          2.20762506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opp Kampung Parit Rabu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6394809,
+          2.20069038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Kampung Simpang Lima Pekan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6364974,
+          2.19908423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Meranti, Simpang Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6337905,
+          2.19767064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Meranti Sundai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6325845,
+          2.19674657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK (C) San Yu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6303044,
+          2.1949448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Serom Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.625605,
+          2.1921809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Pulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6167509,
+          2.18691716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pulai Indah Serom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.604331,
+          2.17857416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Bukit Cempaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5964666,
+          2.17252722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman KSM Serom 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5936659,
+          2.17032881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KKTM Ledang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5929997,
+          2.1697803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn Serom Jaya (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.590847,
+          2.168089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Taman KSM Serom 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5884345,
+          2.16616436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Perniagaan Serom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5860587,
+          2.16417969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Serom 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.584704,
+          2.16312068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Serom 2a,Bukit Gambir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5805045,
+          2.15988806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Serom 1,Bukit Gambir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5761637,
+          2.15759205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tunku Mahmud Iskandar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5721307,
+          2.15540715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK (C) Pei Hwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.56412,
+          2.14722057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pekan Sungai Mati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5627054,
+          2.14481788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TM Taman Bestari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5610086,
+          2.14201993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Muhibbah 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5586454,
+          2.13432781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Mawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5574756,
+          2.12783572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK ( C ) Chung Hwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5569794,
+          2.12485309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Taman Cerah Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5549369,
+          2.11364588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parit Ponorogo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5529248,
+          2.10217486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Jamek Parit Bunga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5508307,
+          2.08437624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Parit Bunga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5497453,
+          2.07902809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kondominium Mutiara Maharani,Jalan Kesang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5524604,
+          2.07141273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Menengah Sains Muar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5562891,
+          2.06432254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawasan Perindustrian Tanjung Agas,Jalan Kesang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5582663,
+          2.06090078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite ST,Jalan Kesang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.562968,
+          2.05496415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Maharani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5648548,
+          2.04669694
+        ]
+      }
+    }
+  ]
+}

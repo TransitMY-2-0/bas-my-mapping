@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Gunung Lambak,Jalan Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3284392,
+          2.03434883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Majupadu,Jalan Kampung Masjid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3382205,
+          2.03162312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumah Rakyat Gunung Lambak, Jalan Kota Tinggi - Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.338092,
+          2.01306145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Enche Besar Hajjah Khalsam,Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3483714,
+          2.00793404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Jalan Kota Tinggi,Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3485966,
+          2.00824446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Gunung Lambak 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3306858,
+          2.02570014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas dan Teksi Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3228136,
+          2.03617833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perpustakaan Awam Kluang,Jalan Hashim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3170491,
+          2.02768079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Bandar Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3170262,
+          2.03239168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas dan Teksi Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3228136,
+          2.03617833
+        ]
+      }
+    }
+  ]
+}

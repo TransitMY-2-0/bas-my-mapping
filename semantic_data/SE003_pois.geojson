@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisma Jakel (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.815187,
+          2.510236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UiTM Segamat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.730568,
+          2.487528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Bendahara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.811584,
+          2.501368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Sekolah Kebangsaan Gemerah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7971135,
+          2.49005348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sweet Flower Nursery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7434152,
+          2.48864581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pekan Gemerah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7894613,
+          2.48330341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Gemerah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7969228,
+          2.49032731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Lubok Batu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.805478,
+          2.50163899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Makam Lubok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8082213,
+          2.50091626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Segamat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8129571,
+          2.50835468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Segamat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8129571,
+          2.50835468
+        ]
+      }
+    }
+  ]
+}

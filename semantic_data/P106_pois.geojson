@@ -1,0 +1,356 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aeon Permas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.81635,
+          1.49604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Permas Utara (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818246,
+          1.514696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Awam Johor Jaya (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.799494,
+          1.544257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Permas Jaya 2 (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.813041,
+          1.494229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tesco Plentong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.81521,
+          1.52077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Taman Johor Jaya,Jalan Dedap 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8043521,
+          1.53408191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hua Yee Tiling,Jalan Dedap 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.805696,
+          1.5331966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Seroja,Jalan Johor Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8145182,
+          1.53102362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giant Hypermart Plentong,Jalan Masai Lama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8159946,
+          1.52786956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Taman Perindustrian Plentong,Jalan Masai Lama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8166669,
+          1.52630159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Perindustrian Plentong,Jalan Masai Lama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8170887,
+          1.52598967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Desa Plentong,Jalan Masai Lama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8208203,
+          1.52120585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Plentong Baru,Jalan Masai Lama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8206011,
+          1.52103786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Desa Permas Jaya,Jalan Permas Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8176642,
+          1.5037232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Taman Permas Jaya 3,Jalan Permas 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.820455,
+          1.50013431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pan Vista,Jalan Permas 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8221671,
+          1.50012961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mon Glori Apartment,Jalan Permas 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8219953,
+          1.49994891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Bandar Permas Jaya,Jalan Permas 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8258771,
+          1.50013466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Baru Permas Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.813103,
+          1.49385505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Bayu (petronas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78948,
+          1.49715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Stualang,JB East Coast Highway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7893873,
+          1.49682995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Sri Stulang,Jalan Sri Stulang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7876862,
+          1.49486564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Sri Stulang P106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78809,
+          1.49516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Taman Johor Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7990279,
+          1.53821305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aeon Tebrau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79659,
+          1.55176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Sultan Ismail "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78914,
+          1.54603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Sri Stulang,Jalan Sri Stulang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7876862,
+          1.49486564
+        ]
+      }
+    }
+  ]
+}

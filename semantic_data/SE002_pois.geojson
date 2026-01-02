@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kipmart Segamat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8231,
+          2.5112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surau Kg. Gubah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8173,
+          2.5193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Pemuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8126,
+          2.5238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asrama Pusat Segamat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8062135,
+          2.53531874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Buloh Kasap (Pekan Jabi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8028,
+          2.5385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Buloh Kasap (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7649643,
+          2.5534556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Selesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7695613,
+          2.55014686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Tani Yayasan (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.79073,
+          2.546597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dewan Raya Pekan Buloh Kasap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7648071,
+          2.55387134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majlis Perbandaran Segamat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8137496,
+          2.51266027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8056961,
+          2.52169048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Taman Segamat Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7879862,
+          2.54783517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SMK Buloh Kasap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7792022,
+          2.5467903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Teluk Keladi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7815112,
+          2.54722206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Wijaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.770873,
+          2.5496202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Buloh Kasap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7784114,
+          2.54692042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balai Polis Buloh Kasap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7816631,
+          2.5475197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Commercial Taman Segamat Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7845218,
+          2.54791324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Segamat Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7867323,
+          2.54829942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Borong Yayasan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7896785,
+          2.54753551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Rasau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7973456,
+          2.54515268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Fong Jang Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.806608,
+          2.52968894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Segamat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8129571,
+          2.50835468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Segamat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8129571,
+          2.50835468
+        ]
+      }
+    }
+  ]
+}

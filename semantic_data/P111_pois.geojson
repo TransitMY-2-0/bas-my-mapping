@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aeon Dato Onn (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.734668,
+          1.562908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aeon Tebrau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79659,
+          1.55176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Sultan Ismail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78914,
+          1.54603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR desa Mutiara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74812,
+          1.53866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Perniagaan TD Point (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.759383,
+          1.566431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tmn Daya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.75422,
+          1.55258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tmn Daya 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76255,
+          1.56494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK (T) Ladang Tebrau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7405769,
+          1.55013441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Daya, Jalan Rimbia 39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7548179,
+          1.54866602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Daya, Jalan Nibong 41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7547243,
+          1.56381005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Daya, Taman Setia Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7592884,
+          1.57281634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Jalan Daya, Taman Setia Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7594625,
+          1.57320329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nissan Mount Austin, Jalan Mutiara Emas Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7889902,
+          1.54587249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR desa Mutiara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74812,
+          1.53866
+        ]
+      }
+    }
+  ]
+}

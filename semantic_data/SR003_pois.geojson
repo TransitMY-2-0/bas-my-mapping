@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladang Tun Dr Ismail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3480183,
+          1.84622987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladang Tun Dr. Ismail (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3497063,
+          1.8480485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kompleks Perumahan dan Pengurusan Sime Darby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3717667,
+          1.8677504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kompleks Perumahan dan Pengurusan Sime Darby (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3722857,
+          1.86775588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3959906,
+          1.8847653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Melayu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4005044,
+          1.88397538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Simpang Renggam (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3112718,
+          1.82888451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Simpang Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3113967,
+          1.8291878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpang Jalan Hj Amir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3146072,
+          1.83201681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg. Cokro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3156434,
+          1.83341328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Rengggam Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3279298,
+          1.83798842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penjara Simpang Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3384048,
+          1.84236279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pinggir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3180128,
+          1.83465673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpang Lorong Murni (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3198487,
+          1.83511908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpang lorong Murni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.320125,
+          1.8353274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Permata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3222061,
+          1.83661183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Purnama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3233153,
+          1.83755901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Purnama (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3236407,
+          1.83739194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Renggam Jaya ( Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3279224,
+          1.83816981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Batu 7 Blok 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3256309,
+          1.83756592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penjara Simpang Renggam (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3380854,
+          1.8421388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.402456,
+          1.88507791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas dan Teksi Simpang Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3099606,
+          1.82568869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas dan Teksi Simpang Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3099606,
+          1.82568869
+        ]
+      }
+    }
+  ]
+}

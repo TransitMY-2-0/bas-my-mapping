@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Simpang Penyabong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7453357,
+          2.62493707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpang Tanjung Resang,Jalan Penyabong - Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7518176,
+          2.63779649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Baru Tanjung Penyabong,Jalan Penyabong - Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7473244,
+          2.62768115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Teriang Tengah Kampung Sungai Bebuta,Jalan Penyabong - Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7298775,
+          2.62341861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sungai Bebuta,Jalan Penyabong - Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7276835,
+          2.62442071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Desa Kampung Teriang,Jalan Penyabong - Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7213193,
+          2.62721349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Teriang,Jalan Penyabong - Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7200365,
+          2.62791945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Kampung Sungai Mengkuang,Jalan Penyabong - Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6878744,
+          2.64303975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sungai Mengkuang,Jalan Penyabong - Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6819845,
+          2.64297191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Belukar Juling,Jalan Penyabong - Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6567443,
+          2.64574793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Ungku Husin,Jalan Penyabong - Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6316115,
+          2.64853717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK ( C ) Chiao Ching,Jalan Haji Arrifin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6259937,
+          2.65037149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bus Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6187536,
+          2.65360543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Bandar Endau,Jalan Endau - Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6240732,
+          2.65089754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeti Penyabong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74906,
+          2.647972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Gemilang,Jalan Penyabong - Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.637576,
+          2.647159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeti Penyabong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74906,
+          2.647972
+        ]
+      }
+    }
+  ]
+}

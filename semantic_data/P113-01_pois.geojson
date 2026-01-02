@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK St Joseph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74093,
+          1.497057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larkin Jaya, Jalan Cendrawasih"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.742119,
+          1.500826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Percetakan Nasional Malaysia Berhad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.73375572,
+          1.50485305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jabatan Pertanian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.73043419,
+          1.50414711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tasek Utara 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.726342,
+          1.498742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tasek Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72927683,
+          1.49436622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jabatan Pendidikan Negeri Johor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72764007,
+          1.49165698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Tun Fatima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.73403576,
+          1.49095753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mutiara Motors Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.739033,
+          1.495724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flat Larkin Blok G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.745589,
+          1.498305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IKM Johor Bahru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.728517,
+          1.501465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    }
+  ]
+}

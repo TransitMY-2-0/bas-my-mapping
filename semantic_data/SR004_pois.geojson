@@ -1,0 +1,252 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Baru Sungai Sayong Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3718604,
+          1.92236338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Baru Sungai Sayong Kluang (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3718597,
+          1.92264694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukit Benut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3558698,
+          1.93786306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Bukit Benut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3558087,
+          1.93825343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warung D'Bostam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3529866,
+          1.94186015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Warung D'Bostam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3527637,
+          1.9417897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Mengkibol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3337936,
+          1.97443996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Jalan Mengkibol Kluang (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3247212,
+          1.99784699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Jalan Mengkibol Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.324467,
+          1.99810367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Vokasional Kluang (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3238663,
+          2.00159269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Vokasional Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3235742,
+          2.00195331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persimpangan Jalan Kluang - Renggam dan Jalan Hashim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3180435,
+          2.02773386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas dan Teksi Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3228136,
+          2.03617833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Mengkibol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3223722,
+          2.00722671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3959906,
+          1.8847653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Melayu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4005044,
+          1.88397538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sunrise, Mengkibol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3215963,
+          2.01074388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.402456,
+          1.88507791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.402456,
+          1.88507791
+        ]
+      }
+    }
+  ]
+}

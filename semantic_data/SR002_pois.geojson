@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Layang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4724458,
+          1.81845109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Layang-Layang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4737045,
+          1.81790784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Jamek Layang Layang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4811002,
+          1.80944811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maybank Layang Layang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4844953,
+          1.806382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.402456,
+          1.88507791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.402456,
+          1.88507791
+        ]
+      }
+    }
+  ]
+}

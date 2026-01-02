@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg Mulia Sungai Tiram 492 Jln Sg Tiram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86012,
+          1.58809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpang Felda Sg Tiram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89441,
+          1.58115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sk Sungai Tiram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87896,
+          1.58484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Sungai Tiram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8797644,
+          1.58433709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Kangkar Sungai Tiram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8539955,
+          1.59051471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Kampung Kangkar Sungai Tiram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85387,
+          1.5907304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ann Lock Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8411774,
+          1.59951154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Bandar Ulu Tiram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8268729,
+          1.59915606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Tiram Jaya,Jalan Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8206733,
+          1.60307233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Intan Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8208653,
+          1.60291932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Today's Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8220833,
+          1.60674745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Today's Mall,Jalan Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8217123,
+          1.60817286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Tiram Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8214845,
+          1.61050372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpang Felda Sg Tiram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89441,
+          1.58115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Tiram Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8214845,
+          1.61050372
+        ]
+      }
+    }
+  ]
+}

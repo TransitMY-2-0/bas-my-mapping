@@ -1,0 +1,369 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Simpang Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3113967,
+          1.8291878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpang lorong Murni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.320125,
+          1.8353274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Purnama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3233153,
+          1.83755901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Renggam Jaya ( Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3279224,
+          1.83816981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penjara Simpang Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3384048,
+          1.84236279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penjara Simpang Renggam (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3380854,
+          1.8421388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Rengggam Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3279298,
+          1.83798842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Batu 7 Blok 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3256309,
+          1.83756592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Purnama (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3236407,
+          1.83739194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Permata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3222061,
+          1.83661183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpang Lorong Murni (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3198487,
+          1.83511908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pinggir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3180128,
+          1.83465673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg. Cokro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3156434,
+          1.83341328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpang Jalan Hj Amir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3146072,
+          1.83201681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Simpang Renggam (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3112718,
+          1.82888451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisma Peladang,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3147948,
+          1.82267543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sahari,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3168408,
+          1.82042296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Sekolah Kebangsaan Dato Onn Jaafar,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3211833,
+          1.81460103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SMK Simpang Rengam,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3220927,
+          1.81286509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Perindustrian Rengland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.319251,
+          1.79438023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Simpang Rengam,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3220196,
+          1.81238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Dato Onn Jaafar,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3208791,
+          1.81439752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Purtimas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3203593,
+          1.8146408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Rekamas 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.30809,
+          1.81815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Simpang Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3050275,
+          1.82589109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Simpang Rengam,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3075927,
+          1.83181103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas dan Teksi Simpang Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3099606,
+          1.82568869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas dan Teksi Simpang Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3099606,
+          1.82568869
+        ]
+      }
+    }
+  ]
+}

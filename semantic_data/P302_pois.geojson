@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Persiaran Scientex, Tmn Scientex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91294,
+          1.49625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn Bukit Dahlia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89811,
+          1.48123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Cendana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.913655,
+          1.48788484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Cendana Blok 52,53,Jalan Cendana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9108139,
+          1.48782987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Cendana Blok 10,11,12,Jalan Cendana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9067064,
+          1.48848071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Cendana Blok 4,5,6,Jalan Cendana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9058231,
+          1.4878657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Taman Cendana,Jalan Mesjid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9049478,
+          1.48640874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Menengah Kebangsaan Pasir Gudang,Jalan Bandar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9060142,
+          1.47033247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Desa Rakyat,Jalan Desa Rakyat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9213101,
+          1.51782202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Komuniti Pasir Gudang,Jalan Persiaran Scientex "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9134913,
+          1.49610014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Helang Taman Scientex,Jalan Persiaran Scientex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9158005,
+          1.49918477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kompleks Institusi Pendidikan Taman Scientex Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9161513,
+          1.50263833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zon Pelanduk Taman Scientex,Jalan Persiaran Scientex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9163229,
+          1.50987923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Scientex Cassia,Jalan Persiaran Scientex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9166422,
+          1.51034781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Scientex Aster,Jalan Persiaran Scientex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9165111,
+          1.52019586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas And Teksi Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9010628,
+          1.46574321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Desa Rakyat Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9224569,
+          1.51377648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honda,Jalan Bandar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9058869,
+          1.47070187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Cendana Blok 34,35,36,Jalan Cendana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.911789,
+          1.4878911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Politeknik Malaysia Ibrahim Sultan,Jalan Persiaran Scientex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9168423,
+          1.50619829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas And Teksi Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9010628,
+          1.46574321
+        ]
+      }
+    }
+  ]
+}

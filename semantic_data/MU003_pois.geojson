@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Bakri Batu 6 (Tiada Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.648005,
+          2.043114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Meranti (Jalan Bentayan)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6082,
+          2.0471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Bakri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6488,
+          2.0518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Awam Bukit Bakri (Jalan Tengah)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6567,
+          2.0422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MRSM Muar (Jalan Muar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6551,
+          2.0419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Bakri Batu 5 (Jalan Muar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.639,
+          2.0447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Bakawali (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.596594,
+          2.047522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Simpang Jeram (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.613663,
+          2.04792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Bakri Mulia (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.649721,
+          2.042803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Fajar (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.625337,
+          2.045913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Seri Kasih,Jalan Bentayan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6024933,
+          2.0471978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Seri Anggerik,Jalan Muar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6133555,
+          2.04651873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Bakri Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6537081,
+          2.04214548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Kenangan Dato Abdul Jaafar,Jalan Muar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6515038,
+          2.04249474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Medan Bakri,Jalan Muar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.644665,
+          2.04366865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sri Tanjung,Jalan Muar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6371804,
+          2.04483761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Seri Bakri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6241945,
+          2.04592354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Seri Bakri II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6227001,
+          2.04603724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Seri Jeram 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.620446,
+          2.04621667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Maharani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5648548,
+          2.04669694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pesta, Jalan Bakri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5849,
+          2.0483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Feri Bandar Maharani Bandar Diraja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5668693,
+          2.04804211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Nur Manir Batu 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.604412,
+          2.047269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn. Maharani, Jln. Bakri(Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.59078,
+          2.047772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Maharani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5648548,
+          2.04669694
+        ]
+      }
+    }
+  ]
+}

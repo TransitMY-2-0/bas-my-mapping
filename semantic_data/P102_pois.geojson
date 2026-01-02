@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flat Stulang Laut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78119,
+          1.47118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KFC Stulang Laut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77893,
+          1.46705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Iskandar (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7859,
+          1.49046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pelangi (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.780894,
+          1.477932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Bayu (petronas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78948,
+          1.49715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "De' Stualang,Jalan Ibrahim Sultan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78162,
+          1.46948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Bakar Batu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7841741,
+          1.49616139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Stualang,JB East Coast Highway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7893873,
+          1.49682995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite De' Stulang,Jalan Ibrahim Sultan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7815722,
+          1.46922921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Menengah Foon Yew,Jalan Ibrahim Sultan -"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7793107,
+          1.46753874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R&F Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7694115,
+          1.46035062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Sri Stulang,Jalan Sri Stulang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7876862,
+          1.49486564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midvalley Southkey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776564,
+          1.500646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MBJB,Jalan Ibrahim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7617192,
+          1.45552249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Sri Stulang ( Last )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78931,
+          1.49512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JB Sentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7649012,
+          1.46338278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Sri Stulang,Jalan Sri Stulang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7876862,
+          1.49486564
+        ]
+      }
+    }
+  ]
+}

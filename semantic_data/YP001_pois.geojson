@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas dan Teksi Yong Peng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0709,
+          2.0128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Yong Peng (Jalan Ann Low Yean)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.061405,
+          2.019782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg Jalan Lama (Jalan Yong Peng)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0578,
+          2.0102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Kampung Parit Awang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.055533,
+          2.008511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg Parit Awang (Jalan Yong Peng)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0557,
+          2.0084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Bahagia (Jalan Yong Peng)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.052854,
+          2.007227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maybank Yong Peng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0672,
+          2.0107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Timur (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.056621,
+          2.021848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Aman (Tiada Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.067246,
+          2.018839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Yong Peng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.056108,
+          2.03056163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Belian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.05628,
+          2.022684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ming Ang express bus stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.051246,
+          2.006944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Dato Seth,Jalan Yong Peng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.054906,
+          2.007908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Wangi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.07713,
+          2.005368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Taman Sri Kota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.073394,
+          2.016339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas dan Teksi Yong Peng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0709,
+          2.0128
+        ]
+      }
+    }
+  ]
+}

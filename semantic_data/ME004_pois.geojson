@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Dan Teksi Bandar Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8329228,
+          2.43091681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timotel Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.834495,
+          2.432996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pantai Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83384,
+          2.436297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg. Seri Lalang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.831333,
+          2.447252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Rendah Agama Bersepadu Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.830284,
+          2.449608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.828027,
+          2.453474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Tenglu Kecil "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80797,
+          2.481709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Batu Empat Setengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80489,
+          2.487973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Tenglu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.800765,
+          2.495827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Tenglu Batu Enam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.793748,
+          2.510004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felda Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.677938,
+          2.621512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Pusat Air Tawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.642225,
+          2.635151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Bandar Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.624073,
+          2.650898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bus Endau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.618754,
+          2.653605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg. Ladang Batu "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.630596,
+          2.64102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Londang Batu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.631423,
+          2.639597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Hubong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.641026,
+          2.635609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felda Endau (Ke Mersing)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.678393,
+          2.621401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Tenglu Batu Enam (Ke Mersing)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.791412,
+          2.515078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Tenglu (Ke Mersing)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80133,
+          2.495321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Tenglu Kecil (Ke Mersing)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.808209,
+          2.481732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sawah Dato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.818343,
+          2.465961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Mersing (Ke Mersing)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.828089,
+          2.453751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Jamek Kg. Sri Lalang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833026,
+          2.44279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Dan Teksi Bandar Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8329228,
+          2.43091681
+        ]
+      }
+    }
+  ]
+}

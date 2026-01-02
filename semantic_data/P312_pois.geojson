@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Riang ~ Tmn Nusa Damai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90285,
+          1.50501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Regency Specialist Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871859,
+          1.4969603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surau Sautul Iman, Taman Flora Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8981144,
+          1.51047194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nusa Damai, Persiaran damai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9088546,
+          1.49558353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KLINIK WAQAF AN-NUR PASIR GUDANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9024043,
+          1.47662197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Cendana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.913655,
+          1.48788484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Pasir Gudang 3,Jalan Jati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9133069,
+          1.46316357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90683,
+          1.46413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opp SMK Dato' Penggawa Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8781476,
+          1.4924623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Dan Teksi Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8856054,
+          1.48695936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KIP Mall Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8916769,
+          1.48153042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Dahlia Indah,Persiaran Dahlia 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8952149,
+          1.47810308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Cendana Blok 52,53,Jalan Cendana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9108139,
+          1.48782987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Cendana Blok 4,5,6,Jalan Cendana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9058231,
+          1.4878657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Taman Cendana,Jalan Mesjid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9049478,
+          1.48640874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honda,Jalan Bandar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9058869,
+          1.47070187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perjiranan 8 Taman Air Biru,Jalan Jati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.911995,
+          1.46453956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perumahan Jati 2,Jalan Jati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9122432,
+          1.46453871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Menengah Kebangsaan Pasir Gudang,Jalan Bandar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9060142,
+          1.47033247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Masai,Jalan Masai Lama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8815938,
+          1.48813417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Muhajirin Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.880865,
+          1.49043914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas And Teksi Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9010628,
+          1.46574321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Rinting,Jalan Masai Lama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8743247,
+          1.49320969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Dan Teksi Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8856054,
+          1.48695936
+        ]
+      }
+    }
+  ]
+}

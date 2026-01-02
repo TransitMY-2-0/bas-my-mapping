@@ -1,0 +1,343 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balairaya Serbaguna Kota Putri Taman Puteri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5822963,
+          1.65360426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Desa Perindustrian Sri Kulai 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5434229,
+          1.66803276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerai Makanan MPKu, Kelapa Sawit (Opposite)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5382377,
+          1.67007237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerai Makanan MPKu, Kelapa Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5381792,
+          1.66991993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawasan Perindustrian Kulai Estate,Jalan Kulai - Sedenak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5518436,
+          1.66856212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelapa Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5330172,
+          1.67383592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg Sri Paya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5350525,
+          1.67138265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawasan Perumahan Kampung Kelapa Sawit,Jalan Kulai - Sedenak "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5350667,
+          1.67120278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lavendar Park,Persiaran Sri Putri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5781138,
+          1.65143564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotus's Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.575591,
+          1.66871147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotus's Kulai, Jalan Alor Bukit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.576772,
+          1.66762551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Kawasan Perindustrian Kulai Estate,Jalan Kulai - Sedenak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5516196,
+          1.66823075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SMK Kota Kulai,Persiaran Sri Putri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5756331,
+          1.65396863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Taman Manis,Jalan Kulai - Sedenak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5223639,
+          1.68023889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Taman Kota Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5762433,
+          1.65354559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sime Darby Plantation Berhad, Kulai Estate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5430182,
+          1.66796236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Kota Kulai,Persiaran Sri Putri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5755658,
+          1.65436174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kulai Jaya,Jalan Sri Putri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5821525,
+          1.6538212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Manis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5240982,
+          1.67988586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Putri Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5737459,
+          1.65596467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sin Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.52845,
+          1.67704444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Wedo Kelapa Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5303497,
+          1.67598522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5989095,
+          1.66248514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loji Rawatan Air Sultan Ismail, Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6590002,
+          1.55420482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kulai,Jalan Lengkongan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.597145,
+          1.65730714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loji Rawatan Air Sultan Ismail, Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6590002,
+          1.55420482
+        ]
+      }
+    }
+  ]
+}

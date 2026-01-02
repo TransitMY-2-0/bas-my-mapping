@@ -1,0 +1,252 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tengku Mahkota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5992,
+          2.0113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Cempaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5729,
+          2.0276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK (P) Sultan Abu Bakar (Jalan Rahman)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5583,
+          2.0406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Joned Perdana (Jalan Abdul Rahman)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5659,
+          2.0339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lorong Haji Kalong, Kg. Pt. Besar (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.590512,
+          2.007909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Impian Murni (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.586338,
+          2.014034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Parit Peropok,Jalan Abdul Rahman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.578228,
+          2.022197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Temenggong (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.58195,
+          2.029438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dewan Jubli Intan Sultan Ibrahim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5675736,
+          2.04256297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Laksamana,JalanTemenggong Ahmad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5798909,
+          2.03103884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Amansari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5900951,
+          2.02237348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Murni 4 Taman Impian Murni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5851121,
+          2.01523578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Bahagia,Jalan Abdul Rahman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5690306,
+          2.03094985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Feri Bandar Maharani Bandar Diraja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5668693,
+          2.04804211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Maharani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5648548,
+          2.04669694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Aman Sari II, Jln Sari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.592302,
+          2.02055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Parit Bakar Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.601821,
+          2.000228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Maharani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5648548,
+          2.04669694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangunan Majlis Perbandaran Muar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.59841676,
+          2.03246051
+        ]
+      }
+    }
+  ]
+}

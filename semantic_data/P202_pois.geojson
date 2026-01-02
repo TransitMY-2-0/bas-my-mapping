@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerai Jalan Kebangsaan, Taman Universiti "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.628159,
+          1.535675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Tun Aminah, Tmn Ungku Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.66344,
+          1.52248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Tun Fatimah, Tmn Ungku Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65417,
+          1.51664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Abidin, Tmn Sri Skudai (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.650763,
+          1.543062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shell Taman Sri Putri (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.657303,
+          1.544857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Tmn Universiti 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62709,
+          1.5344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Tmn Universiti 4 (tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62717,
+          1.53429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Desa Skudai (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.64399,
+          1.54453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Skudai,Jalan Skudai - Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6518208,
+          1.54958807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SMK Mutiara Rini,Persiaran Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.635117,
+          1.52458153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Mutiara Rini,Persiaran Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6382617,
+          1.52092171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Hutan Bandar MBIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6345952,
+          1.51190866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Skudai Baru,Jalan Hang Jebat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6421529,
+          1.51015418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nakhoda Tabib Wee Hong,Jalan Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6591232,
+          1.51787454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Tun Aminah,Jalan Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6608361,
+          1.51970634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Floor Depot Taman Tun Ungku Aminah,Jalan Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6650654,
+          1.52425563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Skudai Batu 10,Jalan Skudai - Bus station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6605431,
+          1.53962067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK(C) Pu Sze, Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6634573,
+          1.53644904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Taman Universiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62847,
+          1.53844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nakhoda,Jalan Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.657204,
+          1.515849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Best Vission Motors, Jalan Skudai - Gelang Patah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.66516,
+          1.529586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Skudai, Skudai (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.66476,
+          1.535005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Skudai (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65407,
+          1.546453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Taman Universiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62847,
+          1.53844
+        ]
+      }
+    }
+  ]
+}

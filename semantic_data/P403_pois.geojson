@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YSN Venture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.645649,
+          1.730013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Jamek Nur Saadah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.645257,
+          1.735021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surau Darul Ehsan ,Felda Taib Andak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.652124,
+          1.735472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.59879739,
+          1.66250528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perpetual Memorial Berhad Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.630682,
+          1.708553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.59891,
+          1.662485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jumbo Mushroom Agricultural Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.628828,
+          1.728347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pondok Bit Polis Felda Inas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.603222,
+          1.772919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petronas Jalan Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.607988,
+          1.671532
+        ]
+      }
+    }
+  ]
+}

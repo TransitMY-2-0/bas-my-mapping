@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STESEN BAS PALOH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.19430897,
+          2.18976248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PEJABAT POS PALOH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.19513912,
+          2.18677917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK C CENTRAL PALOH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.22042356,
+          2.17494961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PONDOL POLIS CAMEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.23938709,
+          2.14049408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHAMEK MS TRADING SDN BHD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.24117662,
+          2.13221121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TAMAN KIARAMAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.30609228,
+          2.06363288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KLUANG MALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32007995,
+          2.03919086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IBUPEJABAT POLIS KLUANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.31646209,
+          2.03053089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KLUANG HIGH SCHOOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.31575801,
+          2.03001273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas dan Teksi Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3228136,
+          2.03617833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Seri Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.31226178,
+          2.05751515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KLUANG SAFETY DRIVING CENTER SDN BHD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.29512763,
+          2.07625124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SRI MAHA MAYANA KALIAMMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.25646665,
+          2.10717278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOPERASI PESERTA FELCRA PALOH  BERHAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.19394775,
+          2.18882665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STESEN BAS PALOH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.19430897,
+          2.18976248
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angsana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.70766,
+          1.49601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Johor, Opposite KipMall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.68924,
+          1.50889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Kempas (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.707804,
+          1.507686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petronas Tmn Cempaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.70133,
+          1.51662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Taman Padi Malinja,Jalan Padi Mahsuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72012,
+          1.49474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Bandar UDA 2 (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.721039,
+          1.493977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surau Tmn Cempaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.69941,
+          1.51716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Dahlia (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.696092,
+          1.512677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Dato Penggawa Barat,Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6870832,
+          1.51209784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Taman Melor,Jalan Persiaran Anggerik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6945993,
+          1.50738316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuarters Timbalan Setia Negeri, Taman Dahlia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6947546,
+          1.51037145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Dahlia,Jalan Persiaran Teratai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6960224,
+          1.51224898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anjung Selera Cempaka,Jalan Persiaran Teratai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6981008,
+          1.51553111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Cempaka,Jalan Persiaran Teratai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6983588,
+          1.51554243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flat Taman Cempaka,Jalan Persiaran Tanjung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7010979,
+          1.51702066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kemas,Jalan Persiaran Tanjung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7070222,
+          1.51181856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makmal Kesihatan Awam Johor Bahru,Jalan Persiaran Tanjung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7077036,
+          1.51044871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Kempas,Jalan Persiaran Tanjung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7078542,
+          1.50767709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Baru UDA,Jalan Skudai Kanan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7100142,
+          1.49623444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Pangsapuri Titiwangsa,Jalan Padi Mahsuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7125321,
+          1.49757296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Bandar Baru UDA,Jalan Padi Mahsuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7175859,
+          1.49677772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Baru UDA,Jalan Padi Mahsuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7174637,
+          1.49660801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Padi Malinja,Jalan Padi Mahsuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7199885,
+          1.495049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Komplek Perkidmatan Veterinar,Jalan Padi Mahsuri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7225959,
+          1.49308891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R&R Boutique Hotel,Jalan Padi Murni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7226199,
+          1.48814899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Suria Muafakat, Jalan Tun Abdul Razak (Susur 6)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7256905,
+          1.4881272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dewan Serbaguna JKR Daerah Johor Bahru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.740894,
+          1.49168658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Suria Muafakat, Jalan Tun Abdul Razak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7244013,
+          1.48705339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    }
+  ]
+}

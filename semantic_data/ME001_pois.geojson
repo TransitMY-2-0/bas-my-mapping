@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Politeknik Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.82971,
+          2.41744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8451323,
+          2.42951819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza D'jeti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8394676,
+          2.43404602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MeTIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8380381,
+          2.43262016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Dan Teksi Bandar Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8329228,
+          2.43091681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Telok Iskandar,Jalan Sekakap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8609378,
+          2.41047254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pantai,Jalan Sri Pantai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8613605,
+          2.39390382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaaan Anjung Batu,Jalan Jemaluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8447988,
+          2.41311503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Wawasan, Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8421906,
+          2.41525536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Dan Teksi Bandar Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8329228,
+          2.43091681
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Taman Rinting, Masai , Lebuh raya Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8799979,
+          1.48420544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flat Taman Rinting, Lebuhraya Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.880271,
+          1.48444668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lebuhraya Pasir Gudang, berhampiran Jalan Sungai Rinting, Taman RintingLebuhraya Pasir Gudang, berhampiran Jalan Sungai Rinting, Taman Rinting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8759277,
+          1.48854159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lebuhraya Pasir Gudang berhampiran Jalan Meranti 12 Taman Rinting Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.875937,
+          1.48893397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mydin Taman Rinting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8664438,
+          1.49085598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SMK Taman Rinting 2,Jalan Rinting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8643962,
+          1.48818832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Taman Rinting 3,Jalan Ketapang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8592553,
+          1.48433344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flat Ketapang,Jalan Ketapang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8580871,
+          1.48624185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Rinting,Jalan Ketapang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8581494,
+          1.48657616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Megah Ria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8490156,
+          1.4903965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Bayu (petronas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78948,
+          1.49715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Stualang,JB East Coast Highway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7893873,
+          1.49682995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R&amp;F Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7694115,
+          1.46035062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JB Sentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7649012,
+          1.46338278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Baru Permas Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.813103,
+          1.49385505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Permas Jaya 2,JB East Coast Expressway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8129533,
+          1.49419351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Bakar Batu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7841741,
+          1.49616139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas And Teksi Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9010628,
+          1.46574321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Iskandar (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7859,
+          1.49046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Menara MSC Cyberport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77201,
+          1.46218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pelangi (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.780894,
+          1.477932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas And Teksi Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9010628,
+          1.46574321
+        ]
+      }
+    }
+  ]
+}

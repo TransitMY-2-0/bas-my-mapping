@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Tangkak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.541183,
+          2.268338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Tangkak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.547,
+          2.2722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Parit Padang Lerek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5277,
+          2.2578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg. Anjung Batu (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.536034,
+          2.261002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg. Anjung Batu (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.53424,
+          2.258717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majlis Daerah Tangkak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5289,
+          2.2719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nur Inn,Jalan Muar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5322954,
+          2.25626743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumah Pangsa (Jalan Ong Siong)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5377383,
+          2.27654452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJKC Chi Meng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5358,
+          2.2725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Ledang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5263867,
+          2.27090898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tun Mamat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5478243,
+          2.27904457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Ledang,Jalan Sialang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5277932,
+          2.27245107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn. Tangkak Jaya (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.553243,
+          2.27122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Tangkak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.541183,
+          2.268338
+        ]
+      }
+    }
+  ]
+}

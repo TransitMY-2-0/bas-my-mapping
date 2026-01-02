@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TAMAN ORKID BARU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.01895,
+          2.39615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK SRI LABIS, JALAN MUAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0187184,
+          2.38064999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PERTUBUHAN PELADANG KAWASAN LABIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0163736,
+          2.37648061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SEK AGAMA LABIS, JALAN MUAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0159138,
+          2.37604653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK LABIS, JALAN MUAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0147868,
+          2.37449393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PERUMAHAN AWAM JALAN MUAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9970339,
+          2.35569997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Dan Teksi Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0219619,
+          2.38510761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Lagenda,Jalan Muar - Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0150064,
+          2.37445987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Kamarul Ariffin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.029482,
+          2.39901792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opp SMK Kamarul Ariffin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0299462,
+          2.39940351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Dan Teksi Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0219619,
+          2.38510761
+        ]
+      }
+    }
+  ]
+}

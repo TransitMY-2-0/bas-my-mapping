@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90683,
+          1.46413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Kota Masai 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92827,
+          1.48929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tesco Kota Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9357464,
+          1.48449351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn Air Biru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.91704,
+          1.45543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn Tg. Puteri Resort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.93618,
+          1.45397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perjiranan 8 Taman Air Biru,Jalan Jati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.911995,
+          1.46453956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perumahan Jati 2,Jalan Jati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9122432,
+          1.46453871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Pasir Gudang 3,Jalan Jati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9133069,
+          1.46316357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perjiranan 8 Taman Air Biru Blok 31,Jalan Jati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.913418,
+          1.46080338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perjiranan 8 Taman Air Biru Blok 27,Jalan Jati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9129836,
+          1.46032011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perjiranan 9 Taman Air Biru Blok 44,Jalan 9/9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9171553,
+          1.45479059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Pasir Putih,Jalan Pekeliling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.928245,
+          1.44455206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pasir Emas,Jalan Pekeliling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9299756,
+          1.44476488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Tanjung Langsat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0012701,
+          1.46548166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tanjung Puteri Resort,Jalan Siakap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9364397,
+          1.45776001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Pasir Puteh,Jalan Pasir Putih"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9370251,
+          1.47329867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Canggung,Jalan Canggung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9337392,
+          1.47593181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balai Masjid Al-Munawwarah,Jalan Ciku Utama 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9297731,
+          1.48699112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Nenas Taman Kota Masai,Jalan Nenas Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9483619,
+          1.48245742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kota Masai, Jalan Nenas Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9482205,
+          1.48125605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Masai 2,Jalan Nenas Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9492022,
+          1.47704925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Delima Taman Kota Masai,Jalan Nenas Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9551758,
+          1.47409345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Masai 2,Jalan Tembak Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9555769,
+          1.47496409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SMK Kota Masai 2,Jalan Tembikai Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9555232,
+          1.4793503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Kota Masai 2,Jalan Tembikai Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9557198,
+          1.47936957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Kota Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9537685,
+          1.48180631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas And Teksi Pasir Gudang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9010628,
+          1.46574321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persiaran Damai Simpang Sejahtera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.948212,
+          1.482196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honda,Jalan Bandar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9058869,
+          1.47070187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Kota Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9537685,
+          1.48180631
+        ]
+      }
+    }
+  ]
+}

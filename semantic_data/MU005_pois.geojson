@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanah Perkuburan Islam Jorak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6414625,
+          2.12332668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpang Jalan Raja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6323894,
+          2.11715168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surau Naib Kadir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6281319,
+          2.07655205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Jeram Tepi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6164122,
+          2.06184733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.609705,
+          2.068276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Bukit Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.634624,
+          2.10648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surau Kampung Serpang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.647273,
+          2.126864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Desa Jorak, Bkt Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.645701,
+          2.129211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn. Sri Terap (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.602424,
+          2.067221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Terap (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.60447,
+          2.067938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Sungai Abong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.601,
+          2.0653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Perniagaan Kampung Tengah, Jalan Sungai Abong (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.599159,
+          2.060981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Sri Bukit Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6363073,
+          2.09780473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Pakar Sultanah Fatimah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5742386,
+          2.05673126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Maharani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5648548,
+          2.04669694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Feri Bandar Maharani Bandar Diraja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5668693,
+          2.04804211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Maharani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5648548,
+          2.04669694
+        ]
+      }
+    }
+  ]
+}

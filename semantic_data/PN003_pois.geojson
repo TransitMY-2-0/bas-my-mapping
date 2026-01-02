@@ -1,0 +1,538 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.38836158,
+          1.47948611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Awam Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.393558,
+          1.477102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK (C) Bin Chong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.395406,
+          1.473658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Terjun Rimba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.398182,
+          1.468452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SEKOLAH AGAMA KG RIMBA TERJUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.400342,
+          1.464332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Desa Rimba Terjun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.404269,
+          1.455558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Rambah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.409957,
+          1.444032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Matrikulasi Kejuruteraan Johor "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.411016,
+          1.442122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Desa Telok Kerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.426029,
+          1.412576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK (C) Siu Woon "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.439472,
+          1.387136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Penerok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.443028,
+          1.379197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Sri Kukup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.461263,
+          1.34291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Laksamana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.461122,
+          1.340742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sungai Durian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.465575,
+          1.324106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serkat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.48954,
+          1.302712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanjung Piai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.509301,
+          1.26893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sungai Kuali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.472212,
+          1.315625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Kukup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.444247,
+          1.325693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Desa Kukup Laut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.44648,
+          1.328012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK (C) Pei Chiao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.454743,
+          1.334338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Jamek Bandar Permas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.456931,
+          1.335661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Sungai Durian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.459433,
+          1.3384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jabatan Kastam DiRaja Malaysia, Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.460984,
+          1.343268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Penerok "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.442062,
+          1.380837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK ( C) Sui Woon (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.439536,
+          1.386704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Kampung Telok Kerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.426207,
+          1.41184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK(C) Pei Hwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.421561,
+          1.421031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Rambah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.416342,
+          1.431971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pekan Rembah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.413928,
+          1.436212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Matrikulasi Kejuruteraan Johor (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.41075,
+          1.442252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sungai Durian ( Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.465568,
+          1.324071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serkat (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.489536,
+          1.302668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanjung Piai (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.509299,
+          1.268962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg Sungai Kuali (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.472213,
+          1.315644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Parit Tegong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.407843,
+          1.447945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Rimba Terjun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.403736,
+          1.456306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Gembira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.400661,
+          1.463269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Terjun Rimba (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.398268,
+          1.467939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AADK Daerah Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.394875,
+          1.474275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Awam Pontian (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.393648,
+          1.476432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.38836158,
+          1.47948611
+        ]
+      }
+    }
+  ]
+}

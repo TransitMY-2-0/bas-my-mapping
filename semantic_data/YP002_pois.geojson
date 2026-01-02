@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas dan Teksi Yong Peng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.07118973,
+          2.01289594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kangkar Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.12395014,
+          2.06334389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mr.DIY Yong Peng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.064996,
+          2.010719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majlis Daerah Labis "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.057452,
+          2.013692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Paya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.057265,
+          2.01571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Muhibbah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.05667,
+          2.019361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Berlian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.05628,
+          2.022684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Yong Peng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.056108,
+          2.030562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.056621,
+          2.021848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maybank Yong Peng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.067216,
+          2.010788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas dan Teksi Yong Peng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.07118973,
+          2.01289594
+        ]
+      }
+    }
+  ]
+}

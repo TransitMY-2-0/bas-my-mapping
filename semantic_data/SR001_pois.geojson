@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Simpang Rengam,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3220196,
+          1.81238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SMK Simpang Rengam,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3220927,
+          1.81286509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Sekolah Kebangsaan Dato Onn Jaafar,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3211833,
+          1.81460103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Dato Onn Jaafar,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3208791,
+          1.81439752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Simpang Rengam,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3075927,
+          1.83181103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisma Peladang,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3147948,
+          1.82267543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Rekamas 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.30809,
+          1.81815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Purtimas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3203593,
+          1.8146408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sahari,Jalan Ayer Hitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3168408,
+          1.82042296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Simpang Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3050275,
+          1.82589109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas dan Teksi Simpang Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3099606,
+          1.82568869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas dan Teksi Simpang Renggam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3099606,
+          1.82568869
+        ]
+      }
+    }
+  ]
+}

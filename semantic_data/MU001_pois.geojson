@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Parit Setongkat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5825,
+          2.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Sungai Abong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.596,
+          2.0653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Sungai Abong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.601,
+          2.0653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Maharani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5648548,
+          2.04669694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Bakri Bt. 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5941,
+          2.0494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Perniagaan Kampung Tengah, Jalan Sungai Abong (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.599159,
+          2.060981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn. Maharani, Jln. Bakri(Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.59078,
+          2.047772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Terap (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.60447,
+          2.067938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Feri Bandar Maharani Bandar Diraja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5668693,
+          2.04804211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Pakar Sultanah Fatimah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5742386,
+          2.05673126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn Sg. Abong Mulia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6054,
+          2.0615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Maharani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5648548,
+          2.04669694
+        ]
+      }
+    }
+  ]
+}

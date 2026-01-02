@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sjk(c) Kuo Kuang (ke kulai)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67057,
+          1.5279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sjk(c) Kuo Kuang (ke kulai) (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67108,
+          1.52809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skudai Parade (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.659862,
+          1.54097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Skudai, Skudai (Bus Stop) ~ Jalan Bertingkat Skudai arah JB (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.664805,
+          1.534976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn Tasek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727629,
+          1.488737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Paradigm Mall JB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6836773,
+          1.51617398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FABU Bus Stop (UTM Center Point)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6347582,
+          1.55968082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Geokejuteraan Tropika,Lingkaran Ilmu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6364488,
+          1.5627166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Teknologi Maklumat Dan Komunikasi,Lingkaran Ilmu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6391599,
+          1.56270052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fakulti Kejuteraan Elektrik,Lingkaran Ilmu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6416132,
+          1.5603258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fakulti Kejuruteraan Elektrikal, UTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6402261,
+          1.55800737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite McDonald's Taman Sutera DT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6791059,
+          1.52339012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McDonald's Taman Sutera DT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6789705,
+          1.5229656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Hemodialisis MAINJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6953415,
+          1.50084396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Kampung Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6980713,
+          1.49889941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Tampoi, Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7017571,
+          1.49694697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Skudai, Kampung Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7012962,
+          1.49659144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B5 Street Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7035708,
+          1.49576641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Baru Uda, Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7121376,
+          1.48956853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Suria Muafakat, Jalan Tun Abdul Razak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7244013,
+          1.48705339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Tasek,Jalan Tun Abdul Razak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7243142,
+          1.48674195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shell Taman Tasek, Jalan Tun Abdul Razak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7276251,
+          1.48843259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FABU Bus Stop (UTM Center Point)( Ke Tmn U)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6347583,
+          1.55968083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kip Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6892015,
+          1.50810954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradigm Mall JB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6854373,
+          1.51464949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Taman Universiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62847,
+          1.53844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aeon Taman Universiti,Jalan Pendidikan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62968,
+          1.542312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dewan Serbaguna JKR Daerah Johor Bahru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.740894,
+          1.49168658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Jaya,Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6578666,
+          1.54442403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giant Hypermarket Tampoi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6988969,
+          1.49883778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Skudai Batu 10,Jalan Skudai - Bus station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6605431,
+          1.53962067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Dato Penggawa Barat,Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6870832,
+          1.51209784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Johor, Opposite KipMall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.68924,
+          1.50889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK(C) Pu Sze, Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6634573,
+          1.53644904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shell Taman Sri Putri (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.657303,
+          1.544857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Geokejuteraan Tropika,Lingkaran Ilmu (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6364488,
+          1.5627166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Teknologi Maklumat Dan Komunikasi,Lingkaran Ilmu (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63916,
+          1.56270052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fakulti Kejuteraan Elektrik,Lingkaran Ilmu (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6416133,
+          1.5603259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fakulti Kejuruteraan Elektrikal, UTM (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6402262,
+          1.55800737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aeon Taman Universiti (ke Terminal)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62989,
+          1.5421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Taman Universiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62847,
+          1.53844
+        ]
+      }
+    }
+  ]
+}

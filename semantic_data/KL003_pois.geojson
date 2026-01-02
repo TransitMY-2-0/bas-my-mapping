@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas dan Teksi Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32281295,
+          2.03617998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kahang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.61571589,
+          2.27422889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Affin Bank Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.331962,
+          2.036888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Paya Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.336573,
+          2.039499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Sultan Abdul Jalil "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.347788,
+          2.051082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Makmur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.349507,
+          2.051864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Lambak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.353611,
+          2.053775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longterm Distribution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.364795,
+          2.067011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Puteri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.36598,
+          2.07036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Melayu 2 Batu 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.373178,
+          2.083804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penjara Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.391381,
+          2.09829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Gajah "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.395938,
+          2.10378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Perdana "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.398646,
+          2.105506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Contoh Kahang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.528529,
+          2.206761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Ria Kahang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.535769,
+          2.212037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kahang Muhibah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.539725,
+          2.215092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Kahang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.540921,
+          2.216153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Kahang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.547974,
+          2.221492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Pinggir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6098,
+          2.269162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sri Lulut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.602699,
+          2.261892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Peta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.584248,
+          2.249946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Orang Asli Punjut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.576365,
+          2.242967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Batu 24 Kahang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.560395,
+          2.230461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK(T) Batu 24, Kahang "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.556588,
+          2.227665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Kahang (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.547853,
+          2.220922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Kahang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.538095,
+          2.213692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kahang Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.53601,
+          2.212069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Desa Sejahtera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.402939,
+          2.106905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Perdana (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.398674,
+          2.105341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Gajah (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.396021,
+          2.103608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penjara Kluang (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.389359,
+          2.097286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Perindustrian Matahari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.370654,
+          2.075896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Puteri (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.366043,
+          2.070061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kimberly-Clark Products"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.364872,
+          2.066563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sembrong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.360381,
+          2.057914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawasan Perindustrian Sembrong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.356869,
+          2.05546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kasih"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.354926,
+          2.054268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Sultan Abdul Jalil (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.347764,
+          2.05065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Ria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.339128,
+          2.041436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Paya Kluang (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.336451,
+          2.039061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Aman Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.333707,
+          2.037843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas dan Teksi Kluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32281295,
+          2.03617998
+        ]
+      }
+    }
+  ]
+}

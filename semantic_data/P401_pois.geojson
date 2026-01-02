@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aeon Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6190077,
+          1.64039259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Baru Kulai,Jalan Putra 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6272845,
+          1.65900681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Putra 2,Jalan Putra 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6241207,
+          1.65705285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Putra,Jalan Merak Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6337657,
+          1.66424298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Putra,Jalan Putra 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.621977,
+          1.65145612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IOI Mall Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6259376,
+          1.64793775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Merak Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6362998,
+          1.664127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite IOI Mall Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6254564,
+          1.64781459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palm Villa Residences,Lebuh Putra Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6301996,
+          1.65590474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palm Villa,Jalan Putra 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6381395,
+          1.66279645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kulai,Jalan Lengkongan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.597145,
+          1.65730714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5989095,
+          1.66248514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5989095,
+          1.66248514
+        ]
+      }
+    }
+  ]
+}

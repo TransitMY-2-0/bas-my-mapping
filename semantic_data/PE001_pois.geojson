@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Komuniti Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.219861,
+          1.563413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Profesional MARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.220081,
+          1.565012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sek Men. Sains Kota Tinggi (SSKT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225364,
+          1.566991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMKA Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.226867,
+          1.565366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.229009,
+          1.56394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pantai Desaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.261015,
+          1.546229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Desaru Coast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.263288,
+          1.536362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Delima INSTEDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.239896,
+          1.553034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majid As-Syifa Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.236615,
+          1.553606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.233104,
+          1.553267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas And Teksi Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2283717,
+          1.55490527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas And Teksi Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2283717,
+          1.55490527
+        ]
+      }
+    }
+  ]
+}

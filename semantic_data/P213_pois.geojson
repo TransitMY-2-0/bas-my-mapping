@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Gelang Patah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.58969,
+          1.44656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pejabat Pos, Gelang Patah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.590623,
+          1.448743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GP Sentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5831556,
+          1.47820251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Gelang Emas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5851781,
+          1.45214534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SMK Gelang Patah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5906219,
+          1.44932821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Gelang Patah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5909519,
+          1.44949593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petronas Taman Nusa Perintis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.595041,
+          1.4509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawasan Perindustrian Gelang Patah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5987843,
+          1.4527163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Komersial Visi Medini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6225496,
+          1.41481101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persiaran Medini 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6227544,
+          1.4127734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LCL Garden Cafe, Edible Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6257475,
+          1.41204442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lebuh Medini Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6301062,
+          1.40948418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nusa Perintis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.593803,
+          1.450712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Gelang Patah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.589574,
+          1.446793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GP Sentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5831556,
+          1.47820251
+        ]
+      }
+    }
+  ]
+}

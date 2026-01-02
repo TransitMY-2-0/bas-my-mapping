@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flat Taman Impian Emas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.672031,
+          1.534106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flat Taman Impian Emas (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.671482,
+          1.532857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Taman Impian Emas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.682937,
+          1.538728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Bukit Gemilang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.653192,
+          1.526571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nesa (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.661819,
+          1.528227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Harmoni 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6515889,
+          1.52712058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soo AhKew Undertaker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6573071,
+          1.52657432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65846,
+          1.52719248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Tmn Universiti 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62709,
+          1.5344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SMK Mutiara Rini,Persiaran Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.635117,
+          1.52458153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Book Talk Mutiara Rini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6368943,
+          1.52187925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Mutiara Rini,Persiaran Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6382617,
+          1.52092171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK(C) Pu Sze, Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6634573,
+          1.53644904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nature Flora Garden Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6646953,
+          1.53581494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Taman Universiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62847,
+          1.53844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mutiara Rini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63311,
+          1.51508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tesco Mutiara Rini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.63352,
+          1.51488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Tmn Universiti 4 (tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62717,
+          1.53429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Jaya,Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6578666,
+          1.54442403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Skudai Batu 10,Jalan Skudai - Bus station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6605431,
+          1.53962067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Best Vission Motors, Jalan Skudai - Gelang Patah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6651599,
+          1.52958639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Taman Universiti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.62847,
+          1.53844
+        ]
+      }
+    }
+  ]
+}

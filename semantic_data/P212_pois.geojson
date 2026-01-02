@@ -1,0 +1,343 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Al-Hidayah Taman Perling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.686536,
+          1.489509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Hutan Bandar MBIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6345952,
+          1.51190866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surau Raudhatul Indah, Taman Bukit Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.665712,
+          1.475661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perling Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.682343,
+          1.496275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poliklinik Penawar, Taman Perling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.685443,
+          1.482088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persiaran Perling 1, Tmn Perling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.684392,
+          1.494848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Selesa Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.650795,
+          1.500474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petronas Persiaran Indah Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.64861,
+          1.48422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hutan Bandar MBIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6342397,
+          1.51173804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nusa Bestari 2,Jalan Selesa Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.653777,
+          1.500915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persiaran Indah Utama, Tmn Bkt Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65642,
+          1.48812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persiaran Indah, Tmn Bkt Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.650839,
+          1.477303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Damai Jaya (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.641911,
+          1.504528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Selesa Jaya (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65428,
+          1.5011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nusa Bestari Jaya (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.655671,
+          1.498712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persiaran Indah Utama (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.661185,
+          1.487759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Bukit Indah 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.652169,
+          1.47754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aeon Bukit Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.656915,
+          1.481061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Surau Raudhatul Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.665928,
+          1.475739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Perling, Jalan Sungai Danga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.672045,
+          1.473105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perling Heights Apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.678521,
+          1.474031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eco-Shop @ Perling "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.685251,
+          1.482189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sungai Perling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.686648,
+          1.487589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Taman Perling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.684351,
+          1.494519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perling Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.682343,
+          1.496275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tesco Mutiara Rini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.634523,
+          1.514466
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Ixora 4, ~ Bandar Bistari Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9501078,
+          1.50572638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Dato' Hj Abdul Rahman Ahmad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9347235,
+          1.5223245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Cahaya Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9222298,
+          1.50711857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Desa Rakyat Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9224569,
+          1.51377648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Sekolah Kebangsaan Kota Masai 3,Jalan Kota Masai -"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9268901,
+          1.49072228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kota Masai, Jalan Kota Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9230142,
+          1.49323732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tesco Kota Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9357464,
+          1.48449351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Kota Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9537685,
+          1.48180631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Kota Masai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9537685,
+          1.48180631
+        ]
+      }
+    }
+  ]
+}

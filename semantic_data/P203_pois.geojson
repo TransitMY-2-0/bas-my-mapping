@@ -1,0 +1,434 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Selesa Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.650795,
+          1.500474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Selesa Jaya (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65428,
+          1.5011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nusa Bestari Jaya,Jalan Selesa Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6512,
+          1.50068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Melana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.678443,
+          1.503276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Taman Tun Aminah (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.658114,
+          1.512977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nusa Bestari Jaya (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.655671,
+          1.498712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn Sutera Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.66747,
+          1.51525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kip Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6892015,
+          1.50810954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Tun Ungku Aminah,Jalan Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6572549,
+          1.5154994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Commercial Area Taman Nakhoda,Jalan Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6591254,
+          1.51755144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Terminal Tun Aminah,Jalan Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6611847,
+          1.51973843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caltex Taman Ungku Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6569323,
+          1.51372722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SMK Tun Aminah,Jalan Sutera Pulai 2/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6579246,
+          1.51280189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nusa Bestari 2,Jalan Selesa Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6537765,
+          1.50091546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Timur,Jalan Selesa Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6468469,
+          1.49816923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Jaya Mas,Jalan Selesa Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6436763,
+          1.49575392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Industri Jaya,Jalan Selesa Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6415794,
+          1.49362773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Selesa Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6402078,
+          1.49208034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Selesa Jaya, Jalan Silat Lincah 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6393444,
+          1.48905081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nakhoda,Jalan Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6572038,
+          1.51584919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Tun Aminah,Jalan Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6608361,
+          1.51970634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nakhoda Tabib Wee Hong,Jalan Tun Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6591232,
+          1.51787454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nusa Bestari 2,Jalan Selesa Jaya (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6537766,
+          1.50091546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PETRONAS - Taman Selesa Jaya (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6385405,
+          1.48613618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Selesa Jaya, Jalan Silat Lincah 6 (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6393445,
+          1.48905081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Selesa Jaya (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6402079,
+          1.49208035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Industri Jaya,Jalan Selesa Jaya (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6415795,
+          1.49362773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Jaya Mas,Jalan Selesa Jaya (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6436763,
+          1.49575392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Timur,Jalan Selesa Jaya (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.646847,
+          1.49816923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Selesa Jaya (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.650796,
+          1.500475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Selesa Jaya (Tiang 2) (Balik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65429,
+          1.5012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nusa Bestari Jaya (Bus Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.655671,
+          1.498712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Melana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.678443,
+          1.503276
+        ]
+      }
+    }
+  ]
+}

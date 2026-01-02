@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kompleks KDN Taman Setia Tropika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.712901,
+          1.544786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kempas Medical Centre (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.725586,
+          1.522394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Tani Kekal Datin Halimah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.733796,
+          1.506125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawasan Perindustrian Kempas,Jalan Kempas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7314,
+          1.513897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawasan Perniagaan Indah,Jalan Kempas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7302942,
+          1.51590923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kempas Denai, Jalan Kempas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7264213,
+          1.52076304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surau AL MUHTADIN, Jalan Kempas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7232042,
+          1.52556564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Kempas Bahru, Kg Sri Kempas 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7223305,
+          1.52703168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kempas Baru,Jalan Kempas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7192435,
+          1.53102116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kempas Permatang,Jalan Kempas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7169092,
+          1.53402822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuarters Jabatan Perikanan (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.737185,
+          1.498023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Vokasional ERT Azizah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.73541,
+          1.50188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR desa Mutiara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74812,
+          1.53866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pejabat Pengarah PTG (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.73446,
+          1.504202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR desa Mutiara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74812,
+          1.53866
+        ]
+      }
+    }
+  ]
+}

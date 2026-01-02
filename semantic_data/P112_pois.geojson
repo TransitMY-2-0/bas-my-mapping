@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Desa Mutiara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74812,
+          1.53866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KPJ Bandar Dato Onn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.73964285,
+          1.54447265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Taman Impian Emas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.68350882,
+          1.53953509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Impian Emas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.68143747,
+          1.53723328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flat Impian Emas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67161369,
+          1.53290461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SA Taman Impian Emas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.66923964,
+          1.55389596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Awam Taman Impian Emas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67525688,
+          1.55987625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kompleks KDN Taman Setia Tropika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.712901,
+          1.544786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pangsapuri Beringin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.703325,
+          1.549598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotus's Setia Tropika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.713907,
+          1.548481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Desa Mutiara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74812,
+          1.53866
+        ]
+      }
+    }
+  ]
+}

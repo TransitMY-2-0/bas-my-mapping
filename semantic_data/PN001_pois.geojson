@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sek. Men. Maahad Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.40289,
+          1.48854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Dato' Penggawa Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4045383,
+          1.49243899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kompleks Penghulu Parit Selangor ~ Kompleks Penghulu Mukim Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4443006,
+          1.5196279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Parit Selangor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4423886,
+          1.52508811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Parit Kudus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4261723,
+          1.52740216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Warisan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.41563,
+          1.51482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Parit Semerah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3891596,
+          1.49745399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sk Bandar Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3875877,
+          1.49190208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Pengangkutan Awam Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3887222,
+          1.47947716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perabot &amp; Elektrik Yong Bee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4003358,
+          1.48152247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Kenanga,Jalan Skudai - Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4015415,
+          1.48165952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Kubor,Jalan Skudai - Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.402702,
+          1.48200267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JKR Daerah Pontian, Jalan Skudai - Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4031604,
+          1.48236512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SK Tengku Mahmood Iskandar 1,Jalan Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3867984,
+          1.49386512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Tengku Mahmood Iskandar (1),Jalan Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.386595,
+          1.49376254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Jamek Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3873776,
+          1.49141617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telekom Malaysia,Jalan Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3876762,
+          1.49126362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Pengangkutan Awam Pontian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3887222,
+          1.47947716
+        ]
+      }
+    }
+  ]
+}

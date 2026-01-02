@@ -1,0 +1,356 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Express Batu Pahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9266698,
+          1.85336979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MASJID JAMEK SULTAN ISMAIL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.947326,
+          1.855783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PANTAI HOSPITAL BATU PAHAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.95021,
+          1.860019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BP MALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.963126,
+          1.863628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JALAN KLUANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.971772,
+          1.866133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PARIT HAJI MOHAMAD NOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.978733,
+          1.868675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COWBOY BATU PAHAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.984475,
+          1.870405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TAMAN MUTIARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.004134,
+          1.860606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PARIT SENGKUANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.020247,
+          1.855045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SRI GADING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.029376,
+          1.853894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK SRI GADING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.051292,
+          1.850939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Universiti Batu Pahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.072515,
+          1.848141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KKTM SRI GADING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.079964,
+          1.85019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UTHM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.088313,
+          1.853133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PETRON PARIT RAJA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.109186,
+          1.864047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOMPLEKS NIAGA PARIT RAJA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.111638,
+          1.866498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KLINIK KESIHATAN PARIT RAJA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.109281,
+          1.863798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PARIT SEMPADAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.09866,
+          1.856788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FUJITSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.09327,
+          1.854421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OPPOSITE UTHM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.087279,
+          1.852395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PARIT JELUTONG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.083613,
+          1.851147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OPPOSITE SMK SRI GADING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.050847,
+          1.850545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PARIT BUDIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.04283,
+          1.851738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IPG TUN HUSSEIN ONN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.985295,
+          1.87039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OPPOSITE BP MALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.963271,
+          1.863377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "THE SUMMIT BATU PAHAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.934814,
+          1.857738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Express Batu Pahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9266698,
+          1.85336979
+        ]
+      }
+    }
+  ]
+}

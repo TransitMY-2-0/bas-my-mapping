@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas dan Teksi Tangkak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.54120973,
+          2.26826205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tun Mamat "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.547659,
+          2.278992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Paya Mas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.562287,
+          2.288869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Institut Latihan Perindustrian Ledang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.602289,
+          2.300485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Sagil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.607477,
+          2.301562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Sagil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.611717,
+          2.303695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Sagil (Ke Tangkak)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.607744,
+          2.301436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Institut Latihan Perindustrian Ledang (Ke Tangkak))"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.602046,
+          2.300144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Baru Tangkak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.577906,
+          2.293873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tangkak "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.561503,
+          2.288017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Komuniti Ledang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.559199,
+          2.286194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Paya Mas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.552535,
+          2.284218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Paya Mas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.55039,
+          2.283653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tun Mamat (Ke Tangkak)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.547824,
+          2.279045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perhentian Bas dan Teksi Tangkak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.54120973,
+          2.26826205
+        ]
+      }
+    }
+  ]
+}

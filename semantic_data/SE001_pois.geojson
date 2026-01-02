@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medan Selera Kenawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308,
+          2.4977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Agama Segamat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8567,
+          2.4961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Bandar Putra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.863,
+          2.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn Eastern, Jln Genuang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.836267,
+          2.494601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Paduka Tuan (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.842563,
+          2.491681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Segamat (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.860036,
+          2.491562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Segamat Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8517,
+          2.49104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Segamat Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8494925,
+          2.50037263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukit Siput"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8477436,
+          2.4856772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukit Siput,Jalan Genuang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8493702,
+          2.48921682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SMK Paduka Tuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8423274,
+          2.49154975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Segamat Baru III"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8377241,
+          2.49387896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Segamat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8129571,
+          2.50835468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Segamat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8129571,
+          2.50835468
+        ]
+      }
+    }
+  ]
+}

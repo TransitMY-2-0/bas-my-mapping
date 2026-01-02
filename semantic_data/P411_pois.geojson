@@ -1,0 +1,837 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arked Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6036414,
+          1.66135832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Temenggong Seri Maharaja Tun Ibrahim, Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6247393,
+          1.63938489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indahpura Iris Park,Jalan Besar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6136129,
+          1.64748903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Susur Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6132875,
+          1.64834637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lembaga Lebuhraya Malaysia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6456,
+          1.6205104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Jamek Bandar Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6476189,
+          1.60571214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Saleng. Kampung Baru Saleng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6334095,
+          1.63253341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medan Selera Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6094837,
+          1.65420088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nasi Lemak Wak Kentut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6108923,
+          1.65118111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Hospital Temenggong Seri Maharaja Tun Ibrahim, Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6247045,
+          1.63976463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Kampung Baru Saleng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6334629,
+          1.6328347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Lembaga Lebuhraya Malaysia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6461333,
+          1.62023333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Public Bank Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6114595,
+          1.65083006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Taman Mesra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6299918,
+          1.63571574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Taman Senai Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6474979,
+          1.61207695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pekan Kulai, Jalan Besar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6042452,
+          1.66078536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Kulai Besar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6157272,
+          1.64538003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Meranti,Jalan Besar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6165046,
+          1.64523294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Mesra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.630046,
+          1.63528325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Saleng Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6369542,
+          1.62941207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Senai Utama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6471343,
+          1.61307521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TJ Mart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6325134,
+          1.63338365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giant Hypermarket Tampoi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6988969,
+          1.49883778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Baru Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6445895,
+          1.60023797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Jaya Sepakat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6479775,
+          1.5909101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sepakat Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6543966,
+          1.58175836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6455489,
+          1.59657098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sjk(c) Kuo Kuang (ke kulai) (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67108,
+          1.52809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Aman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.647695,
+          1.5905465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Beringin Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6453563,
+          1.59565248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5989095,
+          1.66248514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn Tasek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.727629,
+          1.488737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kip Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6892015,
+          1.50810954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerbang Bandaraya Iskandar Puteri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6607849,
+          1.565016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sepakat Baru, Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6609163,
+          1.57101757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Jaya,Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6578666,
+          1.54442403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Skudai Batu 10, Jalan Skudai "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6605431,
+          1.53962067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Hemodialisis MAINJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6953415,
+          1.50084396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Kampung Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6980713,
+          1.49889941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Suria Muafakat, Jalan Tun Abdul Razak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7244013,
+          1.48705339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Scientax Utama, Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6500697,
+          1.58409719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK(C) Pu Sze, Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6634573,
+          1.53644904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RHB Bank Senai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6449268,
+          1.59985814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Dato Penggawa Barat,Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6870832,
+          1.51209784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradigm Mall JB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6854373,
+          1.51464949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Tasek,Jalan Tun Abdul Razak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7243142,
+          1.48674195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Paradigm Mall JB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6836773,
+          1.51617398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite McDonald's Taman Sutera DT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6791059,
+          1.52339012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McDonald's Taman Sutera DT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6789705,
+          1.5229656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Tampoi, Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7017571,
+          1.49694697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Skudai, Kampung Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7012962,
+          1.49659144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B5 Street Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7035708,
+          1.49576641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Baru Uda, Jalan Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7121376,
+          1.48956853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shell Taman Tasek, Jalan Tun Abdul Razak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7276251,
+          1.48843259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK(C) Kuo Kuang (Ke Kulai)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.67057,
+          1.5279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dewan Serbaguna JKR Daerah Johor Bahru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.740894,
+          1.49168658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skudai Parade (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.659862,
+          1.54097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nature Flora Garden Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6646953,
+          1.53581494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Johor, Opposite KipMall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.68924,
+          1.50889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Skudai, Skudai (Bus Stop) ~ Jalan Bertingkat Skudai arah JB (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.664805,
+          1.534976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loji Rawatan Air Sultan Ismail, Skudai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.659,
+          1.554205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shell Taman Sri Putri "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.657303,
+          1.544857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Kulai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5989095,
+          1.66248514
+        ]
+      }
+    }
+  ]
+}

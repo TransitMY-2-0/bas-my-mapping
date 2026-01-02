@@ -1,0 +1,369 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persimpangan Bekok (To Bekok)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.039576,
+          2.280377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Damai Jaya 2 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.040195,
+          2.24355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Melayu Baru Bekok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.125178,
+          2.29664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK LABIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0218185,
+          2.38058118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pejabat Pos Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0204702,
+          2.3815939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TAMAN SURIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0320805,
+          2.37308672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Menengah Kebangsaan Bekok ( Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1221137,
+          2.29540326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK (C) KARAS, JALAN LABIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0365725,
+          2.35534484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Melayu Baru Bekok (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.125179,
+          2.29665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persimpangan Moakil (To Chaah)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.042216,
+          2.31609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KAMPUNG USAHA JAYA (MENGHALA CHAAH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0433529,
+          2.33830132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kompleks Penghulu  Mukim Chaah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.040303,
+          2.2584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Jawa Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.040111,
+          2.250064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asrama SMK Bekok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1196132,
+          2.29458364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Menengah Kebangsaan Bekok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1221136,
+          2.29540325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Dan Teksi Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0219619,
+          2.38510761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Kangkar 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.040297,
+          2.236238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Chaah (tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.03998,
+          2.243754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Seri Bali "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.04024831,
+          2.23483992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persimpangan Bekok (To Chaah)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.039016,
+          2.279783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persimpangan Bekok (To Bekok) (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.039578,
+          2.280379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asrama SMK Bekok (Return)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.119614,
+          2.294585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persimpangan Bekok ke Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.038861,
+          2.280819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persimpangan Moakil ke labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.041893,
+          2.316471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Usaha Jaya (Ke Labis)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.043142,
+          2.338874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungai Karas (Ke Labis)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.036266,
+          2.35546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Suria (Ke Labis)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.031272,
+          2.373994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Dan Teksi Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0219619,
+          2.38510761
+        ]
+      }
+    }
+  ]
+}

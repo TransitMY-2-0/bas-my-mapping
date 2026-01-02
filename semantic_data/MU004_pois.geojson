@@ -1,0 +1,746 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Pakar Sultanah Fatimah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5742386,
+          2.05673126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Putera Indah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5775138,
+          2.06956346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tun Perak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5788677,
+          2.07509726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tun Perak ( Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.579216,
+          2.07567738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Temiang ubah ke (Hospital Pakar Sultanah Fatimah, Muar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5820978,
+          2.08648763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Simpang Baba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5970664,
+          2.08657361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpang Jalan Naib Piee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6045585,
+          2.08567668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik desa Sungai Terap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6139806,
+          2.08865699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Sungai Raya (Tiang 1)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6250691,
+          2.0932357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Sungai Raya (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6252255,
+          2.0935439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukit Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6328455,
+          2.09658329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Sri Bukit Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6363073,
+          2.09780473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuaters JKR Muar, Bukit Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6606226,
+          2.10781001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pagoh Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7150165,
+          2.1312049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pagoh Jaya (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7155739,
+          2.13111067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UTHM Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.726026,
+          2.15235782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seri Pekembar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7378646,
+          2.13588207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Pekan Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7675987,
+          2.14573359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Jamek Pekan Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7703145,
+          2.14783822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Sultan Alauddin Riayat Shah 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7764935,
+          2.15257038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tmn. Putra Indah (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.577955,
+          2.070587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Ria (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.579912,
+          2.078481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Temiang Baru (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.587669,
+          2.086493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukit Pasir (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.641859,
+          2.100227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Mas Jaya,Jalan Salleh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5770728,
+          2.06700257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Seri Gemilang,Jalan Salleh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5785426,
+          2.07359807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Suria,Jalan Salleh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5787782,
+          2.07385122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Ria Permai,Jalan Salleh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5795837,
+          2.07776736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Temiang Pagoh,Jalan Salleh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5852365,
+          2.08767178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Desa Jaya,Jalan Salleh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6041842,
+          2.08590866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungai Terap KM 7,Jalan Salleh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6057123,
+          2.08589168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungai Terap KM 8,Jalan Salleh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6108717,
+          2.08736411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pasir Raya,Jalan Muar - Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6198799,
+          2.09130818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Bukit Pasir,Jalan Muar - Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6307296,
+          2.09552663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Sungai Raya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6330129,
+          2.09648232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dataran Bukit Pasir,Jalan Muar - Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6391223,
+          2.0989427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Public Bank Bukit Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6405542,
+          2.09971206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Paya Panjang,Jalan Muar - Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6578019,
+          2.10661059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balai Raya Paya Panjang,Jalan Muar - Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6588692,
+          2.10705382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladang Pagoh,Jalan Muar - Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6838708,
+          2.11898492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Perniagaan Pagoh Permai,Jalan Muar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7109113,
+          2.12972704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Pagoh Jaya 3,Jalan Muar - Labis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7118307,
+          2.12995569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite IKTBN Pagoh,Jalan Muar - Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7198253,
+          2.13288969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IKTBN Pagoh,Jalan Muar - Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7208102,
+          2.133312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Kawasan Perindustrian Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7247037,
+          2.13287403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawasan Perindustrian Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.724628,
+          2.13243286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Exit to Tol Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7274994,
+          2.13203644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Exit to Tol Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7286428,
+          2.1318003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Pekan Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7706458,
+          2.14831004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agro Bazar R&amp;R Pagoh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7388345,
+          2.13691722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Parit Setongkat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5761109,
+          2.06332406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Feri Bandar Maharani Bandar Diraja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5668693,
+          2.04804211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UTHM Pagoh II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.726761,
+          2.152146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UTHM Pagoh III"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.729757,
+          2.146837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Maharani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5648548,
+          2.04669694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Paya Panjang,Jalan Muar - Labis II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6578019,
+          2.10661059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Maharani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5648548,
+          2.04669694
+        ]
+      }
+    }
+  ]
+}

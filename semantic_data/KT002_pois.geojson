@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite SMK Tun Habab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8973515,
+          1.72155696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Tun Habab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8971265,
+          1.7215945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Johor (Tmn Daiman Jaya)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89342,
+          1.71922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Johor Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.89006,
+          1.71913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persiaran Sri Saujana (Simpang SS8)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8539639,
+          1.66825193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Padang Awam MDKT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8987526,
+          1.72399812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Econsave,Jalan Johor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8934726,
+          1.71950674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Lalang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8901076,
+          1.71888104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Daiman Jaya,Jalan Johor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8846895,
+          1.71739153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kota Intan,Jalan Johor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8841961,
+          1.71748255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulim Training Centre,Jalan Johor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8807119,
+          1.71092613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gereja Bethany,Jalan Johor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8803805,
+          1.71100786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawasan Perindustrian Jalan Johor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8794102,
+          1.70090914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Kawasan Perindustrian Jalan Johor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8796261,
+          1.70037443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuil Sri Maha Mariamman Devasthanam,Jalan Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8694832,
+          1.69155788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Ladang Tai Tak,Jalan Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8644591,
+          1.68580242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladang Tai Tak,Jalan Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.864214,
+          1.68599867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Saujana,Persiaran Sri Saujana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8534554,
+          1.67297037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Tun Sri Lanang, Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90193978,
+          1.72931073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Tun Sri Lanang, Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90193978,
+          1.72931073
+        ]
+      }
+    }
+  ]
+}

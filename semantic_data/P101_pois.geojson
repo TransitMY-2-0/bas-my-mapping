@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukit Saujana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74886,
+          1.47292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Sultanah Aminah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74675,
+          1.45745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Menara BSN (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.762084,
+          1.459657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Menara MSC Cyberport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77201,
+          1.46218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SJK (T) Jalan Yahya Awal (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74759,
+          1.47844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tahfiz masjid nong chik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.73679,
+          1.46873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisma Persekutuan JB (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.757755,
+          1.460783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yayasan Warisan Johor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74076,
+          1.46209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dewan Serbaguna JKR Daerah Johor Bahru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.740894,
+          1.49168658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MBJB,Jalan Ibrahim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7617192,
+          1.45552249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisma Persekutuan,Jalan Ayer Molek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.757759,
+          1.46077441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Islam Negeri Johor,Jalan Abu Bakar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7493988,
+          1.45666191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maktab Sultan Abu Bakar (English College)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7396382,
+          1.4625818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Kebangsaan Nong Chik,Jalan Kolam Ayer -"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7367989,
+          1.46734971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Nong Chik,Jalan Kolam Ayer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7367732,
+          1.4722295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hutan Bandar MBJB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7473727,
+          1.48094023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Pangsapuri Sri Bendahari,Jalan Yahya Awal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7478993,
+          1.47516351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JB Sentral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7649012,
+          1.46338278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    }
+  ]
+}

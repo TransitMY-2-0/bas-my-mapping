@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Tun Sri Lanang, Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90193978,
+          1.72931073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Mas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.138947,
+          1.602771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandar Mas (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.13829,
+          1.602677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felda Air Tawar 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.090149,
+          1.606197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felda Air Tawar 5 (Tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0903197,
+          1.60643807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felda Air Tawar 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0537008,
+          1.62289045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felda Air Tawar 1 (tiang 2)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.053971,
+          1.62211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felda Pasak,Jalan Kota Tinggi - Pengerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9595624,
+          1.71635252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Surau As-Syuhada,Jalan Kota Tinggi - Pengerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9752524,
+          1.70565087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Air Tawar 3,Jalan Kota Tinggi - Pengerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.97598,
+          1.70144614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felda Air Tawar 2,Jalan Kota Tinggi - Pengerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0179836,
+          1.67692569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balai Polis Air Tawar 2,Jalan Kota Tinggi - Pengerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0204322,
+          1.67155974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Panchor,Jalan Kota Tinggi - Pengerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0220194,
+          1.66714245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladang Nanyo,Jalan Kota Tinggi - Pengerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0324874,
+          1.64889352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felda Air Tawar 1,Jalan Kota Tinggi - Pengerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0480672,
+          1.63109498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Johor Lama,Jalan Kota Tinggi - Pengerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0559375,
+          1.61048407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felda Semenchu,Jalan Kota Tinggi - Pengerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1048259,
+          1.60480878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Baru Sungai Mas,Jalan Kota Tinggi - Pengerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1544248,
+          1.59646196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hentian Penawar Kejora,Jalan Kota Tinggi - Pengerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1985321,
+          1.58311987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Profesional MARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.220081,
+          1.565012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Komuniti Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.219861,
+          1.563413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas And Teksi Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2283717,
+          1.55490527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas And Teksi Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2283717,
+          1.55490527
+        ]
+      }
+    }
+  ]
+}

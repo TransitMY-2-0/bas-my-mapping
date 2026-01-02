@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumah Komuniti Kampung Air Papan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8273139,
+          2.50735149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Tenglu Laut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8173791,
+          2.4871747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.830307,
+          2.454072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medan Niaga Seri Tanjung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8375,
+          2.43941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timotel Hotel,Jalan Endau Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8344949,
+          2.43299567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Rendah Agama Bersepadu Mersing, Jalan Makam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8320185,
+          2.44939702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Tenglu Laut,Jalan Makam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.817278,
+          2.49332921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Air Papan,Jalan Air Papan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833626,
+          2.51433486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pantai Air Papan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8343317,
+          2.5161602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Dan Teksi Bandar Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8329228,
+          2.43091681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Dan Teksi Bandar Mersing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8329228,
+          2.43091681
+        ]
+      }
+    }
+  ]
+}

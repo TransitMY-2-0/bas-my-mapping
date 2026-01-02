@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dataran batu pahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.93467,
+          1.845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tasik Y ~ Tmn Rekreasi tasik Y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.934823,
+          1.843048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK Dato Syed Esa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.938378,
+          1.838793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Sultanah Nora Ismail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.940693,
+          1.8367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Soga (Jalan Daun Payung)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.937627,
+          1.836914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Soga (Jalan Tukas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.934384,
+          1.838186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Ampuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.930972,
+          1.839744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majlis Perbandaran Batu Pahat ~ Tmn. Pantai (Jln Dato Syed Esa)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.926456,
+          1.84249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Awam Batu Pahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.924727,
+          1.847476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balai Polis Batu Pahat,Jalan Rahmat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9347503,
+          1.84783893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Express Batu Pahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9266698,
+          1.85336979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuarters Kediaman Pegawai IPD (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.93715,
+          1.846856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas Express Batu Pahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9266698,
+          1.85336979
+        ]
+      }
+    }
+  ]
+}

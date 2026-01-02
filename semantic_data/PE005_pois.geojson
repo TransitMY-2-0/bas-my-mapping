@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Punggai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2739522,
+          1.43675291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ladang Petri Tenggara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2616362,
+          1.51984815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Punggai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.27407,
+          1.43666689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas And Teksi Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2283717,
+          1.55490527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolej Delima INSTEDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.239896,
+          1.553034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majid As-Syifa Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.236615,
+          1.553606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klinik Kesihatan Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.233104,
+          1.553267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayu Damai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.271411,
+          1.387284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Bas And Teksi Bandar Penawar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2283717,
+          1.55490527
+        ]
+      }
+    }
+  ]
+}

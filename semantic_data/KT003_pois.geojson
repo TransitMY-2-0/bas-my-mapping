@@ -1,0 +1,356 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Tun Sri Lanang, Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90193978,
+          1.72931073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank Muamalat Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.905317,
+          1.733816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Mawai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.966013,
+          1.85001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Mawai Baharu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.971228,
+          1.851747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pusat Komuniti Desa Mawai Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.985899,
+          1.856685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sayang "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.042736,
+          1.881937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Gembut "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.058519,
+          1.899291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Kampung Gembut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.061597,
+          1.901236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Singapura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.079438,
+          1.917161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sentosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.088487,
+          1.922808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Seri Mahkota "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.094265,
+          1.925326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LKIM Tg. Sedili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.113081,
+          1.928819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Sri Setia Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.10721,
+          1.927306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Tanjung Lembu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.104891,
+          1.918951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pantai Teluk Mahkota (Jason Bay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.103626,
+          1.898649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GIATMARA TG. SEDILI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.106077,
+          1.925405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Teluk Jeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.09424,
+          1.925135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sentosa (Ke Kota Tinggi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.088673,
+          1.92309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Singapura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.079514,
+          1.917011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekolah Agama Kg. Gembut (Ke kota Tinggi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.061256,
+          1.900827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Gembut (Ke Kota Tinggi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05888,
+          1.899263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Sayang (Ke Kota Tinggi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.043357,
+          1.881082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Mawai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.98687,
+          1.856989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg Mawai Baharu (Ke Kota Tinggi )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.974621,
+          1.850969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Mawai (Ke Kota Tinggi )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.967132,
+          1.850053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpang Mawai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.959078,
+          1.84272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Tun Sri Lanang, Kota Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.90193978,
+          1.72931073
+        ]
+      }
+    }
+  ]
+}

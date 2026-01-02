@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caltex Jalan Dewata (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.746183,
+          1.500511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giant Tmn Suria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76138,
+          1.50415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital Columbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.76514,
+          1.50141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larkin Perdana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74809,
+          1.50192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midvalley Southkey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776564,
+          1.500646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Sri Stulang ( Last )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78931,
+          1.49512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SK Bakar Batu (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.782543,
+          1.497365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sentosa (Bus Stop)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.772137,
+          1.495401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Dato Onn Jaafar,Jalan Cendrawasih"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7418317,
+          1.50063296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larkin Jaya, Jalan Cendrawasih"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7421188,
+          1.50082609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Melayu Majidee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7534023,
+          1.50650935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Perbadanan Islam Stulang Baru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7512006,
+          1.50369725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BHPetrol Lebuhraya Tebrau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7645415,
+          1.50367704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opposite Columbia Asia Hospital Tebrau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7649897,
+          1.5006051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Sri Stulang,Jalan Sri Stulang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7876862,
+          1.49486564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Bakar Batu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7841741,
+          1.49616139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Stualang,JB East Coast Highway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7893873,
+          1.49682995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Sri Bayu (petronas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.78948,
+          1.49715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Larkin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.74241,
+          1.49496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MidValley Southkey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.776564,
+          1.500646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PPR Sri Stulang,Jalan Sri Stulang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7876862,
+          1.49486564
+        ]
+      }
+    }
+  ]
+}
