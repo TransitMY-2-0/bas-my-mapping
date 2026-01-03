@@ -21,18 +21,15 @@ def extract_from_html(html_file):
         routes = json.loads(geojson_match.group(1))
         route_name = routes["name"]
 
-        # Ensure properties exist
-        if "properties" not in routes or routes["properties"] is None:
-            routes["properties"] = {}
-
-        # Add / overwrite route metadata
-        routes["properties"]["route_id"] = route_name
-        routes["properties"]["route_code"] = route_name
+        for feature in routes.get("features", []):
+            feature.setdefault("properties", {})
+            feature["properties"]["route_id"] = route_name
+            feature["properties"]["route_code"] = route_name
 
 
-        with open(f"{semantic_data_directory}{route_name}_route.geojson", "w", encoding="utf-8") as f:
+        with open(f"{semantic_data_directory}route_{route_name}.geojson", "w", encoding="utf-8") as f:
             json.dump(routes, f, indent=2)
-        print(f"Created {route_name}_route.geojson")
+        print(f"Created route_{route_name}.geojson")
 
     if pois_match:
         pois = json.loads(pois_match.group(1))
@@ -53,9 +50,9 @@ def extract_from_html(html_file):
         #    json.dump({"type": "FeatureCollection", "features": features},f,indent=2)
         pois_geojson = {"type": "FeatureCollection", "features": features} 
 
-        with open(f"{semantic_data_directory}{route_name}_pois.geojson", "w", encoding="utf-8") as f:
+        with open(f"{semantic_data_directory}pois_{route_name}.geojson", "w", encoding="utf-8") as f:
             json.dump(pois_geojson, f, indent=2)
-        print(f"Created {route_name}_pois.geojson")
+        print(f"Created pois_{route_name}.geojson")
 
     return routes, pois_geojson
 
