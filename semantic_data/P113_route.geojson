@@ -1050,5 +1050,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P113",
+    "route_code": "P113"
+  }
 }

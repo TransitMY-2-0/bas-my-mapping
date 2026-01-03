@@ -1398,5 +1398,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P103",
+    "route_code": "P103"
+  }
 }

@@ -558,5 +558,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "YP001",
+    "route_code": "YP001"
+  }
 }

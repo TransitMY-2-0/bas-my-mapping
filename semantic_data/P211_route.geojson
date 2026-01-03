@@ -1838,5 +1838,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P211",
+    "route_code": "P211"
+  }
 }

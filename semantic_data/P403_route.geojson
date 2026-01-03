@@ -3462,5 +3462,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P403",
+    "route_code": "P403"
+  }
 }

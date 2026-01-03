@@ -890,5 +890,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P313",
+    "route_code": "P313"
+  }
 }

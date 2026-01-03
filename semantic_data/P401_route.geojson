@@ -1098,5 +1098,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P401",
+    "route_code": "P401"
+  }
 }

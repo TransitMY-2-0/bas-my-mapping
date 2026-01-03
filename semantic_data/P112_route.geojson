@@ -1042,5 +1042,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P112",
+    "route_code": "P112"
+  }
 }

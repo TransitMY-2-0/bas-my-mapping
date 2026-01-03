@@ -866,5 +866,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "KL001",
+    "route_code": "KL001"
+  }
 }

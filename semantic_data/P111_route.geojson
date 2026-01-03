@@ -1466,5 +1466,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P111",
+    "route_code": "P111"
+  }
 }

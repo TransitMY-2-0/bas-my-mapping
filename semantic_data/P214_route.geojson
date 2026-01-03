@@ -1322,5 +1322,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P214",
+    "route_code": "P214"
+  }
 }

@@ -1662,5 +1662,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "SR004",
+    "route_code": "SR004"
+  }
 }

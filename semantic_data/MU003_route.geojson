@@ -330,5 +330,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "MU003",
+    "route_code": "MU003"
+  }
 }

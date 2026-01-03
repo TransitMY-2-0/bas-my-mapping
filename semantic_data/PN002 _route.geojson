@@ -1162,5 +1162,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "PN002 ",
+    "route_code": "PN002 "
+  }
 }

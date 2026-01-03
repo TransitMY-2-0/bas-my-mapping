@@ -434,5 +434,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "KT001",
+    "route_code": "KT001"
+  }
 }

@@ -1166,5 +1166,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "KT002",
+    "route_code": "KT002"
+  }
 }

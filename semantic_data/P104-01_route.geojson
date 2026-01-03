@@ -946,5 +946,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P104-01",
+    "route_code": "P104-01"
+  }
 }

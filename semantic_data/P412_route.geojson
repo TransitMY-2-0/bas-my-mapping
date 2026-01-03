@@ -1002,5 +1002,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P412",
+    "route_code": "P412"
+  }
 }

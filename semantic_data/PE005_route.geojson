@@ -1338,5 +1338,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "PE005",
+    "route_code": "PE005"
+  }
 }

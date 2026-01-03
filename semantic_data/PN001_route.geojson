@@ -526,5 +526,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "PN001",
+    "route_code": "PN001"
+  }
 }

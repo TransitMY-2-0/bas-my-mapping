@@ -682,5 +682,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "MU002",
+    "route_code": "MU002"
+  }
 }

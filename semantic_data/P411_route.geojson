@@ -1274,5 +1274,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P411",
+    "route_code": "P411"
+  }
 }

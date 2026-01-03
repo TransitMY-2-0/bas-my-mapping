@@ -1934,5 +1934,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "BP002",
+    "route_code": "BP002"
+  }
 }

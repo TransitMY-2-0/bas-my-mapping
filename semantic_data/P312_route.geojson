@@ -1150,5 +1150,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P312",
+    "route_code": "P312"
+  }
 }

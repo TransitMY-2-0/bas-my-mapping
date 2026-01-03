@@ -758,5 +758,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "SE001",
+    "route_code": "SE001"
+  }
 }

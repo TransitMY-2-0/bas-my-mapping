@@ -878,5 +878,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P102",
+    "route_code": "P102"
+  }
 }

@@ -718,5 +718,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P302",
+    "route_code": "P302"
+  }
 }

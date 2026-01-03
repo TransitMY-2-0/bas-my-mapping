@@ -430,5 +430,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P202",
+    "route_code": "P202"
+  }
 }

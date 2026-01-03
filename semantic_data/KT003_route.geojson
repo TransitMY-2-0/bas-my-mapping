@@ -2682,5 +2682,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "KT003",
+    "route_code": "KT003"
+  }
 }

@@ -654,5 +654,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "ME001",
+    "route_code": "ME001"
+  }
 }

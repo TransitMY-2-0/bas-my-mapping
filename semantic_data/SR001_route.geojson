@@ -346,5 +346,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "SR001",
+    "route_code": "SR001"
+  }
 }

@@ -1162,5 +1162,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "SE003",
+    "route_code": "SE003"
+  }
 }

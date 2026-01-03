@@ -870,5 +870,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "ME003",
+    "route_code": "ME003"
+  }
 }

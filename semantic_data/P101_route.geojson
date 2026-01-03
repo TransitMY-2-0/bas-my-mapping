@@ -850,5 +850,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P101",
+    "route_code": "P101"
+  }
 }

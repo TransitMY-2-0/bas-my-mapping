@@ -486,5 +486,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "LB001",
+    "route_code": "LB001"
+  }
 }

@@ -2746,5 +2746,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "ME004",
+    "route_code": "ME004"
+  }
 }

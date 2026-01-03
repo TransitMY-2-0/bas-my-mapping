@@ -1306,5 +1306,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P203",
+    "route_code": "P203"
+  }
 }

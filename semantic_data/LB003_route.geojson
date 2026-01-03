@@ -1710,5 +1710,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "LB003",
+    "route_code": "LB003"
+  }
 }

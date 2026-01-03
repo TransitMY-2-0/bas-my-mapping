@@ -4082,5 +4082,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "KL003",
+    "route_code": "KL003"
+  }
 }

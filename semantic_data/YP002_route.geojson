@@ -1142,5 +1142,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "YP002",
+    "route_code": "YP002"
+  }
 }

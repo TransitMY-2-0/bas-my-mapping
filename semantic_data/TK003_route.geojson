@@ -542,5 +542,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "TK003",
+    "route_code": "TK003"
+  }
 }

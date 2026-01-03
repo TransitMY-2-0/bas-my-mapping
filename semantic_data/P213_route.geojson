@@ -1426,5 +1426,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P213",
+    "route_code": "P213"
+  }
 }

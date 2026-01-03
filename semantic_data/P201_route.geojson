@@ -1186,5 +1186,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P201",
+    "route_code": "P201"
+  }
 }

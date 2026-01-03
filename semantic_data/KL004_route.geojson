@@ -2846,5 +2846,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "KL004",
+    "route_code": "KL004"
+  }
 }

@@ -1014,5 +1014,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "PE001",
+    "route_code": "PE001"
+  }
 }

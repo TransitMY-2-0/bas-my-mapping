@@ -794,5 +794,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "SR003",
+    "route_code": "SR003"
+  }
 }

@@ -3066,5 +3066,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "SR002",
+    "route_code": "SR002"
+  }
 }

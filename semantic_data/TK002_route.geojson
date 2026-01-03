@@ -2498,5 +2498,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "TK002",
+    "route_code": "TK002"
+  }
 }

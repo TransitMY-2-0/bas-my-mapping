@@ -834,5 +834,9 @@
         ]
       }
     }
-  ]
+  ],
+  "properties": {
+    "route_id": "P311",
+    "route_code": "P311"
+  }
 }
